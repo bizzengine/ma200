@@ -6,6 +6,7 @@ import numpy as np
 import json
 import os
 from datetime import datetime # Import datetime
+import pytz # Import pytz
 
 app = Flask(__name__)
 
@@ -144,9 +145,15 @@ def ma200():
                 with open('ma200_jump_data.json', 'r', encoding='utf-8') as f:
                     jump_data = json.load(f)
                 
-                # Get modification time of ma200_jump_data.json
+                # Get modification time of ma200_jump_data.json (UTC timestamp)
                 timestamp = os.path.getmtime('ma200_jump_data.json')
-                last_update = datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d %H:%M:%S')
+                
+                # Convert to datetime object, localize to UTC, then convert to Korea Standard Time (KST)
+                utc_dt = datetime.fromtimestamp(timestamp, tz=pytz.utc)
+                kst_tz = pytz.timezone('Asia/Seoul')
+                kst_dt = utc_dt.astimezone(kst_tz)
+                
+                last_update = kst_dt.strftime('%Y-%m-%d %H:%M:%S KST') # Include KST for clarity
 
                 # df에 avg_jump_return 컬럼 추가
                 df['avg_jump_return'] = df['symbol'].map(lambda s: jump_data.get(s, {}).get('avg_jump_return'))
@@ -171,7 +178,6 @@ def ma200():
 
 
         if 'timestamp' in df.columns:
-            # Removed the assignment from df['timestamp'] as per the request to use ma200_jump_data.json's modification time.
             pass 
 
         df['distance'] = ((df['today_close'] - df['today_200ma']) / df['today_200ma'] * 100).round(2)
