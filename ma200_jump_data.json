@@ -1,20 +1,26 @@
 {
-    "APO": {
-        "avg_jump_return": 1.4
+    "ABBV": {
+        "avg_jump_return": 0.77
     },
-    "TSLA": {
-        "avg_jump_return": 12.57
+    "ALL": {
+        "avg_jump_return": 1.17
+    },
+    "DOV": {
+        "avg_jump_return": 2.47
+    },
+    "JNJ": {
+        "avg_jump_return": -0.66
     },
     "AMGN": {
         "avg_jump_return": -0.79
     },
-    "ABBV": {
-        "avg_jump_return": 0.77
-    },
-    "JNJ": {
-        "avg_jump_return": -0.64
+    "APO": {
+        "avg_jump_return": 1.4
     },
     "TW": {
         "avg_jump_return": 9.02
+    },
+    "TSLA": {
+        "avg_jump_return": 12.57
     }
 }
