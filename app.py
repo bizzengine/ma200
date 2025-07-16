@@ -4,7 +4,8 @@ import yfinance as yf
 import pandas as pd
 import numpy as np
 import json
-import os # os 모듈 추가
+import os
+from datetime import datetime # Import datetime
 
 app = Flask(__name__)
 
@@ -143,6 +144,10 @@ def ma200():
                 with open('ma200_jump_data.json', 'r', encoding='utf-8') as f:
                     jump_data = json.load(f)
                 
+                # Get modification time of ma200_jump_data.json
+                timestamp = os.path.getmtime('ma200_jump_data.json')
+                last_update = datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d %H:%M:%S')
+
                 # df에 avg_jump_return 컬럼 추가
                 df['avg_jump_return'] = df['symbol'].map(lambda s: jump_data.get(s, {}).get('avg_jump_return'))
             else:
@@ -166,7 +171,8 @@ def ma200():
 
 
         if 'timestamp' in df.columns:
-            last_update = df['timestamp'].iloc[0]
+            # Removed the assignment from df['timestamp'] as per the request to use ma200_jump_data.json's modification time.
+            pass 
 
         df['distance'] = ((df['today_close'] - df['today_200ma']) / df['today_200ma'] * 100).round(2)
 
