@@ -194,4 +194,4 @@ def ma200():
     return render_template('ma200.html', table=table, error=error, last_update=last_update)
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8000)
+    app.run(debug=True)
