@@ -1,23 +1,26 @@
 {
-    "TW": {
-        "avg_jump_return": 9.71
-    },
-    "O": {
-        "avg_jump_return": -1.16
-    },
-    "ABBV": {
-        "avg_jump_return": 0.77
-    },
     "AMGN": {
         "avg_jump_return": -0.79
-    },
-    "JNJ": {
-        "avg_jump_return": -0.64
     },
     "APO": {
         "avg_jump_return": 1.4
     },
+    "JNJ": {
+        "avg_jump_return": -0.64
+    },
+    "TW": {
+        "avg_jump_return": 9.02
+    },
+    "ABBV": {
+        "avg_jump_return": 0.77
+    },
+    "O": {
+        "avg_jump_return": -1.14
+    },
     "PLD": {
         "avg_jump_return": -0.18
+    },
+    "TSLA": {
+        "avg_jump_return": 12.15
     }
 }
