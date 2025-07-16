@@ -1,0 +1,62 @@
+{
+    "TJX": {
+        "avg_jump_return": 0.8
+    },
+    "AME": {
+        "avg_jump_return": 1.12
+    },
+    "ABBV": {
+        "avg_jump_return": 0.79
+    },
+    "AJG": {
+        "avg_jump_return": 4.8
+    },
+    "WCN": {
+        "avg_jump_return": 0.67
+    },
+    "USB": {
+        "avg_jump_return": 2.01
+    },
+    "TRV": {
+        "avg_jump_return": 1.06
+    },
+    "O": {
+        "avg_jump_return": -1.16
+    },
+    "TW": {
+        "avg_jump_return": 9.71
+    },
+    "EPD": {
+        "avg_jump_return": -0.05
+    },
+    "MCD": {
+        "avg_jump_return": 1.18
+    },
+    "ADP": {
+        "avg_jump_return": 0.34
+    },
+    "UNP": {
+        "avg_jump_return": 0.19
+    },
+    "ED": {
+        "avg_jump_return": -0.83
+    },
+    "EFX": {
+        "avg_jump_return": 0.28
+    },
+    "AMGN": {
+        "avg_jump_return": -0.82
+    },
+    "DOV": {
+        "avg_jump_return": 2.57
+    },
+    "VLTO": {
+        "avg_jump_return": 2.18
+    },
+    "JNJ": {
+        "avg_jump_return": -0.66
+    },
+    "APO": {
+        "avg_jump_return": 1.44
+    }
+}

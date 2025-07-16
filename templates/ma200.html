@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🚀 200일선 돌파 종목 | Stock Analyzer</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <style>
+        :root {
+            --primary-color: #4A69BD;
+            --light-primary-color: #EAF0FF;
+            --secondary-color: #F8F9FA;
+            --text-color: #212529;
+            --light-text-color: #6C757D;
+            --border-color: #DEE2E6;
+            --success-color: #28A745;
+            --danger-color: #DC3545;
+            --card-shadow: 0 4px 25px rgba(0, 0, 0, 0.05);
+            --card-radius: 12px;
+            --transition-duration: 0.3s;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: var(--secondary-color);
+            color: var(--text-color);
+        }
+
+        .navbar {
+            background-color: white !important;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+            padding: 1rem 0;
+        }
+
+        .navbar-brand {
+            font-weight: 700;
+            color: var(--primary-color) !important;
+            font-size: 1.7rem;
+            letter-spacing: -0.5px;
+        }
+
+        .nav-link {
+            font-weight: 500;
+            color: var(--light-text-color);
+            transition: all var(--transition-duration) ease;
+            border-radius: 8px;
+            padding: 10px 20px !important;
+            margin: 0 6px;
+        }
+
+        .nav-link.active,
+        .nav-link:hover {
+            background-color: var(--light-primary-color);
+            color: var(--primary-color) !important;
+            transform: translateY(-2px);
+            box-shadow: none;
+        }
+
+        .main-container {
+            max-width: 960px;
+            margin-top: 40px;
+            margin-bottom: 40px;
+            padding: 0 20px;
+        }
+
+        .content-card {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: var(--card-shadow);
+            border: none;
+        }
+
+        .content-card h2 {
+            font-size: 2.4rem;
+            font-weight: 700;
+            color: var(--primary-color);
+            margin-bottom: 15px;
+            letter-spacing: -1px;
+        }
+
+        .content-card p.text-secondary {
+            font-size: 1.15rem;
+            margin-bottom: 30px;
+            color: var(--light-text-color);
+        }
+
+        .table-container {
+            margin-top: 2rem;
+        }
+
+        .table thead th {
+            background-color: #fff;
+            color: var(--light-text-color);
+            text-transform: uppercase;
+            font-size: 11px;
+            font-weight: 600;
+            letter-spacing: 0.3px;
+            border-bottom: 2px solid var(--border-color);
+            border-top: none;
+            padding: 18px 15px;
+            vertical-align: middle;
+            position: sticky;
+            top: 0;
+            z-index: 1;
+            text-align: center;
+        }
+
+        .table tbody tr:hover {
+            background-color: var(--light-primary-color);
+        }
+
+        .table tbody td {
+            vertical-align: middle;
+            padding: 15px;
+            text-align: center;
+            font-size: 1rem;
+            color: var(--text-color);
+        }
+
+        .badge.bg-success {
+            background-color: #e9f7ec !important;
+            color: var(--success-color) !important;
+            font-weight: 600;
+        }
+
+        .badge.bg-danger {
+            background-color: #fceeee !important;
+            color: var(--danger-color) !important;
+            font-weight: 600;
+        }
+
+        /* 티커명 링크 스타일 */
+        .ticker-link {
+            color: var(--primary-color);
+            font-weight: 700;
+            text-decoration: none;
+            transition: color 0.2s ease-in-out;
+        }
+
+        .ticker-link:hover {
+            color: #3A57A1;
+            /* 약간 어두운 색으로 변경 */
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid main-container">
+            <a class="navbar-brand" href="/">🚀 Breakout Scout</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">점프-이탈 분석</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="/ma200">당일 돌파 종목</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container main-container">
+        <div class="content-card">
+            <h2 class="text-center">🚀 200일선 당일 돌파 종목</h2>
+            {% if not error or error == "오늘 200일선을 돌파한 종목이 없습니다. 대신 200일선에 가장 가까운 20개 종목을 보여드립니다." %}
+            <p class="text-secondary text-center">어제는 200일선 아래에 있었지만, 오늘 종가 기준으로 200일선을 돌파한 종목 목록입니다.</p>
+            {% else %}
+            <p class="text-secondary text-center">200일선에 현재가가 가장 가까운 종목 목록입니다.</p>
+            {% endif %}
+
+            {% if error %}
+            <div class="alert alert-info mt-4">{{ error }}</div>
+            {% endif %}
+
+            {% if last_update %}
+            <div class="text-end mb-3">
+                <span class="badge bg-light text-secondary">
+                    <i class="fa-regular fa-clock"></i> 마지막 데이터 업데이트: <b>{{ last_update }}</b>
+                </span>
+            </div>
+            {% endif %}
+
+            {% if table %}
+            <div class="table-container table-responsive">
+                <table class="table table-hover align-middle">
+                    <thead>
+                        <tr>
+                            <th>랭킹</th>
+                            <th>티커</th>
+                            <th>종목명</th>
+                            <th>현재가</th>
+                            <th>200일선 가격</th>
+                            <th>이격도 (%)</th>
+                            <th>평균 점프 수익률</th>{# 새롭게 추가된 컬럼 #}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for row in table %}
+                        <tr>
+                            <td>{{ row.rank }}</td>
+                            <td><a href="/?ticker={{ row.symbol }}" class="ticker-link">{{ row.symbol }}</a></td>{# 티커명
+                            링크 추가 #}
+                            <td>{{ row.name }}</td>
+                            <td>{{ '{:,.2f}'.format(row.today_close) }}</td>
+                            <td>{{ '{:,.2f}'.format(row.today_200ma) }}</td>
+                            <td>
+                                {% if row.distance > 0 %}
+                                <span class="badge bg-success">{{ '{:,.2f}'.format(row.distance) }}%</span>
+                                {% elif row.distance < 0 %} <span class="badge bg-danger">{{
+                                    '{:,.2f}'.format(row.distance) }}%</span>
+                                    {% else %}
+                                    <span class="badge bg-secondary">{{ '{:,.2f}'.format(row.distance) }}%</span>
+                                    {% endif %}
+                            </td>
+                            <td>
+                                {% if row.avg_jump_return is not none %}
+                                {% if row.avg_jump_return > 0 %}
+                                <span class="badge bg-success">{{ '{:,.2f}'.format(row.avg_jump_return) }}%</span>
+                                {% elif row.avg_jump_return < 0 %} <span class="badge bg-danger">{{
+                                    '{:,.2f}'.format(row.avg_jump_return) }}%</span>
+                                    {% else %}
+                                    <span class="badge bg-secondary">{{ '{:,.2f}'.format(row.avg_jump_return) }}%</span>
+                                    {% endif %}
+                                    {% else %}
+                                    N/A
+                                    {% endif %}
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            {% elif not error or error == "오늘 200일선을 돌파한 종목이 없습니다. 대신 200일선에 가장 가까운 20개 종목을 보여드립니다." %}
+            <div class="alert alert-info mt-4">데이터를 불러올 수 없거나 표시할 종목이 없습니다.</div>
+            {% endif %}
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

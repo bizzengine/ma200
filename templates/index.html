@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🚀 Breakout Scout | 200일선 점프-이탈 분석</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <style>
+        :root {
+            --primary-color: #4A69BD;
+            /* A vibrant blue for primary actions and branding */
+            --light-primary-color: #EAF0FF;
+            /* Lighter shade for highlights and hover states */
+            --secondary-color: #F8F9FA;
+            /* A very light grey for background, less stark than pure white */
+            --text-color: #212529;
+            /* Darker text for better readability */
+            --light-text-color: #6C757D;
+            /* Muted text for descriptions and less emphasis */
+            --border-color: #DEE2E6;
+            /* Standard border color */
+            --success-color: #28A745;
+            /* Green for success states */
+            --danger-color: #DC3545;
+            /* Red for danger/negative states */
+            --info-color: #17A2B8;
+            /* For informational badges/elements */
+            --card-shadow: 0 4px 25px rgba(0, 0, 0, 0.05);
+            /* Reset to smaller shadow */
+            --card-radius: 12px;
+            /* Reset to smaller radius */
+            --transition-duration: 0.3s;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: var(--secondary-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+            /* Smoother font rendering */
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .navbar {
+            background-color: white !important;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+            /* Adjusted from --card-shadow */
+            padding: 1rem 0;
+        }
+
+        .navbar-brand {
+            font-weight: 700;
+            color: var(--primary-color) !important;
+            font-size: 1.7rem;
+            /* Slightly larger brand text for more impact */
+            letter-spacing: -0.5px;
+            /* Tighter letter spacing */
+        }
+
+        .nav-link {
+            font-weight: 500;
+            color: var(--light-text-color);
+            transition: all var(--transition-duration) ease;
+            border-radius: 8px;
+            /* Adjusted from 12px */
+            padding: 10px 20px !important;
+            margin: 0 6px;
+            /* Slightly more spacing between nav items */
+        }
+
+        .nav-link.active,
+        .nav-link:hover {
+            background-color: var(--light-primary-color);
+            color: var(--primary-color) !important;
+            transform: translateY(-2px);
+            /* Adjusted from -3px */
+            box-shadow: none;
+            /* Removed hover shadow */
+        }
+
+        .main-container {
+            max-width: 960px;
+            /* Adjusted from 1050px */
+            margin-top: 40px;
+            /* Adjusted from 60px */
+            margin-bottom: 40px;
+            /* Adjusted from 60px */
+            padding: 0 20px;
+            /* Increased horizontal padding */
+        }
+
+        .analyzer-card {
+            background: white;
+            /* Adjusted from gradient */
+            padding: 40px;
+            /* Adjusted from 50px */
+            border-radius: 20px;
+            /* Adjusted from var(--card-radius) */
+            box-shadow: var(--card-shadow);
+            text-align: center;
+            border: none;
+            /* Removed border */
+        }
+
+        .analyzer-card h2 {
+            font-size: 2.4rem;
+            /* Larger heading */
+            font-weight: 700;
+            color: var(--primary-color);
+            margin-bottom: 20px;
+            /* More spacing */
+            letter-spacing: -1px;
+            /* Tighter spacing for title */
+        }
+
+        .analyzer-card p.text-secondary {
+            font-size: 1.15rem;
+            /* Slightly larger description */
+            margin-bottom: 45px;
+            /* More spacing */
+            color: var(--light-text-color);
+        }
+
+        .form-label {
+            font-weight: 500;
+            /* Adjusted from 600 */
+            margin-bottom: 8px;
+            /* Adjusted from 12px */
+            color: var(--text-color);
+            text-align: left;
+            display: block;
+            font-size: 1.05rem;
+            /* Slightly larger label */
+        }
+
+        .form-control {
+            border-radius: 8px;
+            /* Adjusted from 12px */
+            padding: 12px;
+            /* Adjusted from 16px */
+            border: 1px solid var(--border-color);
+            transition: all var(--transition-duration) ease;
+            font-size: 1.05rem;
+            color: var(--text-color);
+        }
+
+        .form-control:focus {
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 3px var(--light-primary-color);
+            /* Adjusted from 5px */
+            outline: none;
+            background-color: #fff;
+        }
+
+        .submit-btn {
+            background-color: var(--primary-color);
+            border: none;
+            padding: 15px;
+            /* Adjusted from 18px 35px */
+            border-radius: 10px;
+            /* Adjusted from 14px */
+            font-weight: 600;
+            font-size: 1.1rem;
+            /* Adjusted from 1.2rem */
+            letter-spacing: 0.7px;
+            /* More pronounced letter spacing */
+            transition: all var(--transition-duration) ease;
+            width: 50%;
+            /* Adjusted from 100% */
+            max-width: none;
+            /* Removed max-width */
+            margin-top: 35px;
+            /* More spacing above the button */
+            box-shadow: 0 8px 15px rgba(74, 105, 189, 0.2);
+            /* Adjusted from 0.25 */
+        }
+
+        .submit-btn:hover {
+            background-color: #3B5998;
+            /* Darker primary on hover */
+            transform: translateY(-2px);
+            /* Adjusted from -5px */
+            box-shadow: 0 8px 15px rgba(74, 105, 189, 0.2);
+            /* Adjusted from 0.4 */
+        }
+
+        .alert-danger {
+            border-radius: 12px;
+            /* Consistent border radius */
+            padding: 18px;
+            /* More padding */
+            font-weight: 500;
+            margin-top: 30px !important;
+            /* More top margin */
+            text-align: center;
+            font-size: 1.05rem;
+            color: var(--danger-color);
+            /* Ensure text color is specific danger color */
+            background-color: #FEECEB;
+            /* Light red background */
+            border: 1px solid var(--danger-color);
+            /* Red border */
+        }
+
+        /* Stats Cards */
+        .row.row-cols-2.row-cols-md-3.g-4.mb-4 {
+            margin-top: 50px;
+            /* More spacing above stats cards */
+        }
+
+        .stat-card {
+            background-color: #fff;
+            /* Adjusted from gradient */
+            border-radius: var(--card-radius);
+            padding: 15px;
+            /* 내부 여백 축소 */
+            text-align: center;
+            box-shadow: var(--card-shadow);
+            transition: all 0.3s ease;
+            border: none;
+            /* Removed border */
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            /* Adjusted from -8px */
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+            /* Adjusted from 0.15 */
+        }
+
+        .stat-card .stat-icon {
+            font-size: 20px;
+            /* 아이콘 크기 축소 */
+            margin-bottom: 8px;
+            color: var(--primary-color);
+        }
+
+        .stat-card .stat-title {
+            font-size: 13px;
+            /* 제목 폰트 크기 축소 */
+            font-weight: 500;
+            color: var(--light-text-color);
+        }
+
+        .stat-card .stat-value {
+            font-size: 20px;
+            /* 값 폰트 크기 축소 */
+            font-weight: 700;
+            color: var(--text-color);
+        }
+
+        .stat-card.highlight {
+            background-color: var(--light-primary-color);
+            /* Adjusted from gradient */
+            border-color: none;
+            /* Removed border-color */
+            box-shadow: var(--card-shadow);
+            /* Adjusted from more prominent shadow */
+        }
+
+        .stat-card.highlight .stat-value {
+            color: var(--primary-color);
+        }
+
+        /* Table Styles */
+        .table-container {
+            background-color: #fff;
+            /* Adjusted from white */
+            padding: 20px;
+            /* Adjusted from 35px */
+            border-radius: var(--card-radius);
+            box-shadow: var(--card-shadow);
+            margin-top: 2rem;
+            /* Adjusted from 50px */
+            border: none;
+            /* Removed border */
+        }
+
+        .table-container h5 {
+            font-size: 1.8rem;
+            /* Larger table title */
+            font-weight: 600;
+            margin-bottom: 30px;
+            /* More spacing */
+            color: var(--primary-color);
+            letter-spacing: -0.5px;
+        }
+
+        .table {
+            margin-bottom: 0;
+            border-collapse: separate;
+            /* Keep this */
+            border-spacing: 0;
+            /* Adjusted from 10px */
+        }
+
+        .table thead th {
+            background-color: #fff;
+            /* Adjusted from light-primary-color */
+            color: var(--light-text-color);
+            /* Adjusted from primary-color */
+            text-transform: uppercase;
+            font-size: 11px;
+            /* Reduced from 12px */
+            font-weight: 600;
+            letter-spacing: 0.3px;
+            /* Reduced from 0.5px */
+            border-bottom: 2px solid var(--border-color);
+            /* Adjusted from none */
+            border-top: none;
+            padding: 18px 8px;
+            /* Reduced horizontal padding */
+            vertical-align: middle;
+            position: sticky;
+            top: 0;
+            z-index: 1;
+            text-align: center;
+            white-space: nowrap;
+            /* Prevent text wrapping */
+            /* Centered */
+
+            /* Apply border-radius to the header cells */
+            &:first-child {
+                border-top-left-radius: 0;
+                /* Removed radius */
+            }
+
+            &:last-child {
+                border-top-right-radius: 0;
+                /* Removed radius */
+            }
+        }
+
+        .table tbody tr {
+            transition: background-color var(--transition-duration) ease;
+            /* Removed transform and box-shadow */
+            border-bottom: 1px solid var(--border-color);
+            /* Adjusted from 1px solid var(--border-color) */
+            border-radius: 0;
+            /* Removed rounded corners for rows */
+            box-shadow: none;
+            /* Removed shadow for rows */
+        }
+
+        .table tbody tr:last-of-type {
+            border-bottom: none;
+            /* 마지막 행 구분선 제거 */
+        }
+
+        .table tbody tr:hover {
+            background-color: var(--light-primary-color);
+            transform: none;
+            /* Removed lift on row hover */
+            box-shadow: none;
+            /* Removed shadow on row hover */
+        }
+
+        .table tbody td {
+            vertical-align: middle;
+            padding: 15px 10px;
+            /* Adjusted from 18px 15px */
+            text-align: center;
+            font-family: 'Poppins', sans-serif;
+            font-size: 1rem;
+            /* Slightly larger cell font size */
+            color: var(--text-color);
+            background-color: white;
+
+            /* Apply border-radius to the first and last cells of a row */
+            &:first-child {
+                border-bottom-left-radius: 0;
+                /* Removed radius */
+                border-top-left-radius: 0;
+                /* Removed radius */
+            }
+
+            &:last-child {
+                border-bottom-right-radius: 0;
+                /* Removed radius */
+                border-top-right-radius: 0;
+                /* Removed radius */
+            }
+
+            /* Remove top/bottom borders between cells for a cleaner look */
+            border-top: none;
+            border-bottom: none;
+            border-left: none;
+            /* Remove left/right borders between cells */
+            border-right: none;
+        }
+
+        .table tbody tr:first-child td {
+            border-top: 0;
+            /* Ensures no top border on first row's cells if they are also rounded */
+        }
+
+        .badge {
+            font-weight: 500;
+            /* Adjusted from 600 */
+            padding: 6px 10px;
+            /* Adjusted from 8px 14px */
+            border-radius: 6px;
+            /* Adjusted from 10px */
+            font-size: 0.9rem;
+            /* Slightly larger badge font */
+            min-width: auto;
+            /* Removed min-width */
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            letter-spacing: 0.3px;
+        }
+
+        .badge.bg-success {
+            background-color: #e9f7ec !important;
+            /* Adjusted from #E6F7ED */
+            color: var(--success-color) !important;
+        }
+
+        .badge.bg-danger {
+            background-color: #fceeee !important;
+            /* Adjusted from #FEECEB */
+            color: var(--danger-color) !important;
+        }
+
+        .badge.bg-secondary {
+            background-color: #F0F2F5 !important;
+            color: var(--light-text-color) !important;
+        }
+
+        /* Responsive Adjustments (kept as is, but might be affected by other changes) */
+        @media (max-width: 992px) {
+            .main-container {
+                max-width: 90%;
+            }
+
+            .analyzer-card {
+                padding: 40px;
+            }
+
+            .analyzer-card h2 {
+                font-size: 2rem;
+            }
+
+            .analyzer-card p.text-secondary {
+                font-size: 1.05rem;
+            }
+
+            .submit-btn {
+                padding: 16px 30px;
+                font-size: 1.1rem;
+            }
+
+            .stat-card {
+                padding: 25px 20px;
+            }
+
+            .stat-card .stat-icon {
+                font-size: 28px;
+            }
+
+            .stat-card .stat-value {
+                font-size: 1.9rem;
+            }
+
+            .table-container {
+                padding: 30px;
+            }
+
+            .table thead th,
+            .table tbody td {
+                font-size: 0.9rem;
+                padding: 15px 10px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .main-container {
+                margin-top: 40px;
+                margin-bottom: 40px;
+                padding: 0 15px;
+            }
+
+            .analyzer-card {
+                padding: 30px;
+            }
+
+            .analyzer-card h2 {
+                font-size: 1.8rem;
+            }
+
+            .analyzer-card p.text-secondary {
+                font-size: 1rem;
+                margin-bottom: 30px;
+            }
+
+            .submit-btn {
+                padding: 14px 20px;
+                font-size: 1rem;
+                max-width: 100%;
+            }
+
+            .stat-card {
+                padding: 20px 15px;
+            }
+
+            .stat-card .stat-icon {
+                font-size: 24px;
+            }
+
+            .stat-card .stat-value {
+                font-size: 1.5rem;
+            }
+
+            .table-container {
+                padding: 20px;
+            }
+
+            .table thead th,
+            .table tbody td {
+                font-size: 0.85rem;
+                padding: 12px 8px;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .navbar-brand {
+                font-size: 1.4rem;
+            }
+
+            .nav-link {
+                padding: 8px 15px !important;
+                font-size: 0.9rem;
+            }
+
+            .analyzer-card {
+                padding: 25px;
+            }
+
+            .analyzer-card h2 {
+                font-size: 1.6rem;
+            }
+
+            .analyzer-card p.text-secondary {
+                font-size: 0.9rem;
+            }
+
+            .form-control {
+                padding: 10px;
+                font-size: 0.9rem;
+            }
+
+            .submit-btn {
+                font-size: 0.95rem;
+            }
+
+            .table-responsive {
+                border: 1px solid var(--border-color);
+                border-radius: var(--card-radius);
+            }
+
+            .table tbody tr {
+                border-radius: 0;
+                box-shadow: none;
+            }
+
+            .table tbody td {
+                border-bottom: 1px solid var(--border-color);
+            }
+
+            .table tbody tr:last-child td {
+                border-bottom: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid main-container">
+            <a class="navbar-brand" href="/">🚀 Breakout Scout</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="/">점프-이탈 분석</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/ma200">당일 돌파 종목</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container main-container">
+        <div class="analyzer-card">
+            <h2 class="mb-1">🏄‍♂️ 200일선 점프-이탈 분석기</h2>
+            <p class="text-secondary mb-5">200일 이동평균선 위로 점프했다가 다시 내려온 모든 순간, 구간 수익률과 기간까지 한눈에!</p>
+            <form method="POST" class="row g-4 justify-content-center">
+                <div class="col-md-8 position-relative">
+                    <label for="tickerInput" class="form-label">종목 티커 (예: AAPL, TSLA, NVDA)</label>
+                    <input type="text" id="tickerInput" name="ticker" class="form-control" required autocomplete="off"
+                        value="{{ ticker }}">
+                </div>
+                <div class="col-12 d-flex justify-content-center mt-4">
+                    <button type="submit" class="btn btn-primary submit-btn">분석 시작</button>
+                </div>
+            </form>
+        </div>
+        {% if error %}
+        <div class="alert alert-danger mt-4">{{ error }}</div>
+        {% endif %}
+
+        {% if stats and stats.avg_return is not none %}
+        <div class="result-section mt-5">
+            <h4 class="mb-4 text-center">📊 {{ ticker }} 분석 결과</h4>
+            <div class="row row-cols-2 row-cols-md-3 g-3 mb-4">
+                <div class="col">
+                    <div class="stat-card">
+                        <div class="stat-icon"><i class="fa-solid fa-chart-line"></i></div>
+                        <div class="stat-title">평균 점프 수익률</div>
+                        <div class="stat-value">{{ stats.avg_return }}%</div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="stat-card highlight">
+                        <div class="stat-icon"><i class="fa-solid fa-arrow-up-right-dots"></i></div>
+                        <div class="stat-title">최대 점프 수익률</div>
+                        <div class="stat-value">{{ stats.max_return }}%</div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="stat-card">
+                        <div class="stat-icon"><i class="fa-solid fa-arrow-down-wide-short"></i></div>
+                        <div class="stat-title">최소 점프 수익률</div>
+                        <div class="stat-value">{{ stats.min_return }}%</div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="stat-card">
+                        <div class="stat-icon"><i class="fa-solid fa-clock"></i></div>
+                        <div class="stat-title">현재 종가</div>
+                        <div class="stat-value">{{ '{:,.2f}'.format(stats.current_close) }}</div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="stat-card">
+                        <div class="stat-icon"><i class="fa-solid fa-ruler-horizontal"></i></div>
+                        <div class="stat-title">현재 200MA 이격도</div>
+                        <div class="stat-value">
+                            {% if stats.distance is not none %}{{ stats.distance }}%{% else %}-{% endif %}
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="stat-card">
+                        <div class="stat-icon"><i class="fa-solid fa-list-ol"></i></div>
+                        <div class="stat-title">점프 총 횟수</div>
+                        <div class="stat-value">{{ stats.total_jumps }}회</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+
+        {% if table %}
+        <div class="table-container">
+            <div class="table-responsive">
+                <table class="table table-borderless align-middle text-center">
+                    <thead>
+                        <tr>
+                            <th>첫 점프날</th>
+                            <th>점프 당시 가격</th>
+                            <th>그날 200일선</th>
+                            <th>다시 내려온 날</th>
+                            <th>내려올 때 가격</th>
+                            <th>그날 200일선</th>
+                            <th>점프 구간 수익률</th>
+                            <th>점프 기간(영업일)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for row in table %}
+                        <tr>
+                            <td>{{ row['돌파날짜'] }}</td>
+                            <td>{{ '{:,.2f}'.format(row['돌파종가']) if row['돌파종가'] else '' }}</td>
+                            <td>{{ '{:,.2f}'.format(row['돌파200MA']) if row['돌파200MA'] else '' }}</td>
+                            <td>{{ row['다시 내려온 날'] }}</td>
+                            <td>{{ '{:,.2f}'.format(row['내려올 때 가격']) if row['내려올 때 가격'] else '' }}</td>
+                            <td>{{ '{:,.2f}'.format(row['그날 200일선']) if row['그날 200일선'] else '' }}</td>
+                            <td>
+                                {% if row['점프 구간 수익률'] > 0 %}
+                                <span class="badge bg-success">{{ '{:.2f}%'.format(row['점프 구간 수익률']) }}</span>
+                                {% elif row['점프 구간 수익률'] < 0 %} <span class="badge bg-danger">{{
+                                    '{:.2f}%'.format(row['점프 구간 수익률']) }}</span>
+                                    {% else %}
+                                    <span class="badge bg-secondary">0.00%</span>
+                                    {% endif %}
+                            </td>
+                            <td>{{ row['점프 기간'] }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        {% endif %}
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
