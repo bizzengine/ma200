@@ -2,19 +2,19 @@
     "ABBV": {
         "avg_jump_return": 0.77
     },
-    "AMGN": {
-        "avg_jump_return": -0.79
+    "TSLA": {
+        "avg_jump_return": 12.15
     },
-    "TW": {
-        "avg_jump_return": 9.02
+    "APO": {
+        "avg_jump_return": 1.4
     },
     "JNJ": {
         "avg_jump_return": -0.64
     },
-    "TSLA": {
-        "avg_jump_return": 12.57
+    "TW": {
+        "avg_jump_return": 9.02
     },
-    "APO": {
-        "avg_jump_return": 1.4
+    "AMGN": {
+        "avg_jump_return": -0.79
     }
 }
