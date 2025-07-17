@@ -1,26 +1,38 @@
 {
-    "AJG": {
-        "avg_jump_return": 4.8
+    "KDP": {
+        "avg_jump_return": -0.68
     },
-    "TRV": {
-        "avg_jump_return": 1.03
-    },
-    "VLTO": {
-        "avg_jump_return": 1.98
+    "HSY": {
+        "avg_jump_return": 1.01
     },
     "ADP": {
         "avg_jump_return": 0.33
     },
+    "AME": {
+        "avg_jump_return": 1.09
+    },
+    "CVX": {
+        "avg_jump_return": 0.2
+    },
+    "VLTO": {
+        "avg_jump_return": 1.98
+    },
+    "AJG": {
+        "avg_jump_return": 4.58
+    },
+    "TRV": {
+        "avg_jump_return": 1.03
+    },
     "LII": {
         "avg_jump_return": 4.0
     },
-    "KDP": {
-        "avg_jump_return": -0.68
+    "RKT": {
+        "avg_jump_return": -1.62
     },
     "TROW": {
         "avg_jump_return": 0.18
     },
-    "RKT": {
-        "avg_jump_return": -1.62
+    "FIS": {
+        "avg_jump_return": -0.69
     }
 }
