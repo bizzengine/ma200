@@ -1,41 +1,41 @@
 {
-    "FIS": {
-        "avg_jump_return": -0.69
-    },
-    "HSY": {
-        "avg_jump_return": 1.01
-    },
-    "TROW": {
-        "avg_jump_return": 0.18
-    },
-    "AME": {
-        "avg_jump_return": 1.09
-    },
-    "RKT": {
-        "avg_jump_return": -1.62
-    },
-    "MSCI": {
-        "avg_jump_return": 1.57
-    },
-    "LII": {
-        "avg_jump_return": 4.0
-    },
-    "TRV": {
-        "avg_jump_return": 1.03
+    "KDP": {
+        "avg_jump_return": -0.68
     },
     "CVX": {
         "avg_jump_return": 0.2
     },
+    "MSCI": {
+        "avg_jump_return": 1.57
+    },
     "AJG": {
         "avg_jump_return": 4.58
     },
-    "KDP": {
-        "avg_jump_return": -0.68
+    "LII": {
+        "avg_jump_return": 4.0
+    },
+    "AME": {
+        "avg_jump_return": 1.09
+    },
+    "TRV": {
+        "avg_jump_return": 1.03
+    },
+    "TROW": {
+        "avg_jump_return": 0.18
+    },
+    "RKT": {
+        "avg_jump_return": -1.62
+    },
+    "HSY": {
+        "avg_jump_return": 1.01
     },
     "ADP": {
         "avg_jump_return": 0.33
     },
     "VLTO": {
         "avg_jump_return": 1.98
+    },
+    "FIS": {
+        "avg_jump_return": -0.69
     }
 }
