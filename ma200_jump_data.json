@@ -1,20 +1,26 @@
 {
-    "TROW": {
-        "avg_jump_return": 0.18
-    },
-    "MCD": {
-        "avg_jump_return": 1.13
-    },
-    "KDP": {
-        "avg_jump_return": -0.68
-    },
-    "LII": {
-        "avg_jump_return": 4.0
+    "AJG": {
+        "avg_jump_return": 4.8
     },
     "TRV": {
         "avg_jump_return": 1.03
     },
-    "AME": {
-        "avg_jump_return": 1.09
+    "VLTO": {
+        "avg_jump_return": 1.98
+    },
+    "ADP": {
+        "avg_jump_return": 0.33
+    },
+    "LII": {
+        "avg_jump_return": 4.0
+    },
+    "KDP": {
+        "avg_jump_return": -0.68
+    },
+    "TROW": {
+        "avg_jump_return": 0.18
+    },
+    "RKT": {
+        "avg_jump_return": -1.62
     }
 }
