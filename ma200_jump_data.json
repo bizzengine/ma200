@@ -1,26 +1,20 @@
 {
-    "AMGN": {
-        "avg_jump_return": -0.79
+    "TROW": {
+        "avg_jump_return": 0.18
     },
-    "EFX": {
-        "avg_jump_return": 0.27
+    "MCD": {
+        "avg_jump_return": 1.13
     },
-    "APO": {
-        "avg_jump_return": 1.4
+    "KDP": {
+        "avg_jump_return": -0.68
     },
-    "TSLA": {
-        "avg_jump_return": 12.15
+    "LII": {
+        "avg_jump_return": 4.0
     },
-    "JNJ": {
-        "avg_jump_return": -0.64
+    "TRV": {
+        "avg_jump_return": 1.03
     },
-    "ABBV": {
-        "avg_jump_return": 0.77
-    },
-    "TW": {
-        "avg_jump_return": 9.02
-    },
-    "DOV": {
-        "avg_jump_return": 2.47
+    "AME": {
+        "avg_jump_return": 1.09
     }
 }
