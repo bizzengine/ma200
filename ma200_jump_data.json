@@ -1,35 +1,41 @@
 {
-    "HSY": {
-        "avg_jump_return": 1.01
-    },
-    "AJG": {
-        "avg_jump_return": 4.58
-    },
-    "TRV": {
-        "avg_jump_return": 1.03
-    },
-    "FIS": {
-        "avg_jump_return": -0.72
-    },
-    "AME": {
-        "avg_jump_return": 1.12
-    },
-    "KDP": {
-        "avg_jump_return": -0.68
-    },
     "VLTO": {
         "avg_jump_return": 1.98
+    },
+    "AME": {
+        "avg_jump_return": 1.09
     },
     "CVX": {
         "avg_jump_return": 0.2
     },
-    "TROW": {
-        "avg_jump_return": 0.18
-    },
     "ADP": {
         "avg_jump_return": 0.33
     },
+    "KDP": {
+        "avg_jump_return": -0.68
+    },
+    "MSCI": {
+        "avg_jump_return": 1.57
+    },
+    "RKT": {
+        "avg_jump_return": -1.69
+    },
     "LII": {
         "avg_jump_return": 4.0
+    },
+    "TRV": {
+        "avg_jump_return": 1.03
+    },
+    "HSY": {
+        "avg_jump_return": 1.01
+    },
+    "TROW": {
+        "avg_jump_return": 0.18
+    },
+    "FIS": {
+        "avg_jump_return": -0.69
+    },
+    "AJG": {
+        "avg_jump_return": 4.58
     }
 }
