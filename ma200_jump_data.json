@@ -1,14 +1,17 @@
 {
+    "TJX": {
+        "avg_jump_return": 0.78
+    },
     "ED": {
         "avg_jump_return": -0.81
-    },
-    "PEG": {
-        "avg_jump_return": -0.24
     },
     "XYZ": {
         "avg_jump_return": 8.47
     },
     "VRTX": {
         "avg_jump_return": 3.69
+    },
+    "ABT": {
+        "avg_jump_return": 0.74
     }
 }
