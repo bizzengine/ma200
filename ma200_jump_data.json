@@ -1,11 +1,14 @@
 {
-    "XYZ": {
-        "avg_jump_return": 8.47
-    },
     "PEG": {
         "avg_jump_return": -0.24
     },
     "ED": {
         "avg_jump_return": -0.81
+    },
+    "USB": {
+        "avg_jump_return": 1.89
+    },
+    "XYZ": {
+        "avg_jump_return": 8.47
     }
 }
