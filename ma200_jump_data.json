@@ -1,14 +1,11 @@
 {
-    "PEG": {
-        "avg_jump_return": -0.24
-    },
     "XYZ": {
         "avg_jump_return": 8.47
     },
-    "VRTX": {
-        "avg_jump_return": 3.69
+    "PEG": {
+        "avg_jump_return": -0.24
     },
-    "SCCO": {
-        "avg_jump_return": 3.54
+    "ED": {
+        "avg_jump_return": -0.81
     }
 }
