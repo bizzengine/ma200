@@ -1,9 +1,9 @@
 {
-    "XYZ": {
-        "avg_jump_return": 8.47
-    },
     "PEG": {
         "avg_jump_return": -0.24
+    },
+    "XYZ": {
+        "avg_jump_return": 8.47
     },
     "ED": {
         "avg_jump_return": -0.81
