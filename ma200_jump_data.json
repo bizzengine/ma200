@@ -1,11 +1,23 @@
 {
-    "PEG": {
-        "avg_jump_return": -0.24
+    "SCCO": {
+        "avg_jump_return": 3.54
     },
-    "XYZ": {
-        "avg_jump_return": 8.47
+    "MSCI": {
+        "avg_jump_return": 1.49
     },
-    "ED": {
-        "avg_jump_return": -0.81
+    "DD": {
+        "avg_jump_return": -0.16
+    },
+    "AME": {
+        "avg_jump_return": 1.03
+    },
+    "USB": {
+        "avg_jump_return": 2.01
+    },
+    "TJX": {
+        "avg_jump_return": 0.78
+    },
+    "FE": {
+        "avg_jump_return": -0.67
     }
 }
