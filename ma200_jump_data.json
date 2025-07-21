@@ -1,32 +1,35 @@
 {
+    "FE": {
+        "avg_jump_return": -0.67
+    },
     "USB": {
         "avg_jump_return": 1.89
-    },
-    "ABT": {
-        "avg_jump_return": 0.78
-    },
-    "DD": {
-        "avg_jump_return": -0.16
-    },
-    "TJX": {
-        "avg_jump_return": 0.78
     },
     "MSCI": {
         "avg_jump_return": 1.49
     },
-    "FE": {
-        "avg_jump_return": -0.67
-    },
     "VZ": {
         "avg_jump_return": -0.79
+    },
+    "CVX": {
+        "avg_jump_return": 0.16
+    },
+    "TJX": {
+        "avg_jump_return": 0.78
+    },
+    "AME": {
+        "avg_jump_return": 1.03
+    },
+    "DD": {
+        "avg_jump_return": -0.16
     },
     "SCCO": {
         "avg_jump_return": 3.54
     },
+    "ABT": {
+        "avg_jump_return": 0.74
+    },
     "QCOM": {
         "avg_jump_return": 0.54
-    },
-    "AME": {
-        "avg_jump_return": 1.03
     }
 }
