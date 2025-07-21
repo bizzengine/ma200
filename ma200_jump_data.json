@@ -2,17 +2,17 @@
     "SCCO": {
         "avg_jump_return": 3.54
     },
-    "DD": {
-        "avg_jump_return": -0.16
-    },
     "QCOM": {
         "avg_jump_return": 0.54
     },
-    "MSCI": {
-        "avg_jump_return": 1.55
+    "DD": {
+        "avg_jump_return": -0.16
     },
-    "USB": {
-        "avg_jump_return": 1.89
+    "AME": {
+        "avg_jump_return": 1.03
+    },
+    "FE": {
+        "avg_jump_return": -0.67
     },
     "TJX": {
         "avg_jump_return": 0.78
@@ -20,10 +20,7 @@
     "VZ": {
         "avg_jump_return": -0.79
     },
-    "FE": {
-        "avg_jump_return": -0.67
-    },
-    "AME": {
-        "avg_jump_return": 1.03
+    "USB": {
+        "avg_jump_return": 1.89
     }
 }
