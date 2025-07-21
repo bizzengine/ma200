@@ -2,20 +2,17 @@
     "QCOM": {
         "avg_jump_return": 0.54
     },
-    "DD": {
-        "avg_jump_return": -0.16
-    },
-    "FE": {
-        "avg_jump_return": -0.67
-    },
     "SCCO": {
         "avg_jump_return": 3.54
     },
-    "MSCI": {
-        "avg_jump_return": 1.49
+    "DD": {
+        "avg_jump_return": -0.16
     },
     "TJX": {
         "avg_jump_return": 0.78
+    },
+    "FE": {
+        "avg_jump_return": -0.67
     },
     "VZ": {
         "avg_jump_return": -0.79
