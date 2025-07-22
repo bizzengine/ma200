@@ -1,6 +1,6 @@
 {
-    "IQV": {
-        "avg_jump_return": 1.02
+    "DHI": {
+        "avg_jump_return": 8.1
     },
     "PHM": {
         "avg_jump_return": 8.34
@@ -8,31 +8,31 @@
     "KDP": {
         "avg_jump_return": -0.7
     },
-    "USB": {
-        "avg_jump_return": 1.89
-    },
-    "DOV": {
-        "avg_jump_return": 2.36
-    },
-    "ROP": {
-        "avg_jump_return": 0.23
-    },
-    "IP": {
-        "avg_jump_return": 1.28
-    },
-    "VRTX": {
-        "avg_jump_return": 3.69
-    },
-    "O": {
-        "avg_jump_return": -1.14
-    },
-    "DHI": {
-        "avg_jump_return": 8.1
+    "ADP": {
+        "avg_jump_return": 0.3
     },
     "ITW": {
         "avg_jump_return": 0.48
     },
-    "ADP": {
-        "avg_jump_return": 0.3
+    "O": {
+        "avg_jump_return": -1.14
+    },
+    "IQV": {
+        "avg_jump_return": 1.06
+    },
+    "VRTX": {
+        "avg_jump_return": 3.69
+    },
+    "USB": {
+        "avg_jump_return": 1.89
+    },
+    "IP": {
+        "avg_jump_return": 1.28
+    },
+    "ROP": {
+        "avg_jump_return": 0.23
+    },
+    "DOV": {
+        "avg_jump_return": 2.36
     }
 }
