@@ -1,33 +1,21 @@
 {
-    "USB": {
-        "avg_jump_return": 1.89
-    },
-    "KDP": {
-        "avg_jump_return": -0.7
-    },
-    "ADP": {
-        "avg_jump_return": 0.3
-    },
-    "KMI": {
-        "avg_jump_return": 0.09
+    "DOV": {
+        "avg_jump_return": 2.36
     },
     "VRTX": {
         "avg_jump_return": 3.69
     },
-    "ABT": {
-        "avg_jump_return": 0.74
+    "ROP": {
+        "avg_jump_return": 0.23
     },
     "ITW": {
         "avg_jump_return": 0.48
     },
-    "IQV": {
-        "avg_jump_return": 1.02
+    "KMI": {
+        "avg_jump_return": 0.09
     },
-    "ROP": {
-        "avg_jump_return": 0.23
-    },
-    "DOV": {
-        "avg_jump_return": 2.36
+    "USB": {
+        "avg_jump_return": 1.89
     },
     "PHM": {
         "avg_jump_return": 8.34
@@ -35,10 +23,13 @@
     "O": {
         "avg_jump_return": -1.14
     },
-    "SBUX": {
-        "avg_jump_return": -0.47
+    "KDP": {
+        "avg_jump_return": -0.7
     },
     "DHI": {
-        "avg_jump_return": 8.6
+        "avg_jump_return": 8.1
+    },
+    "ADP": {
+        "avg_jump_return": 0.3
     }
 }
