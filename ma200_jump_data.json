@@ -1,26 +1,23 @@
 {
-    "APD": {
-        "avg_jump_return": -0.77
-    },
-    "NVR": {
-        "avg_jump_return": 4.63
-    },
-    "MTD": {
-        "avg_jump_return": 4.54
-    },
     "GM": {
         "avg_jump_return": 1.47
+    },
+    "MTD": {
+        "avg_jump_return": 4.83
     },
     "ABBV": {
         "avg_jump_return": 0.66
     },
-    "BKR": {
-        "avg_jump_return": 0.24
+    "NVR": {
+        "avg_jump_return": 4.63
+    },
+    "CVX": {
+        "avg_jump_return": 0.16
+    },
+    "APD": {
+        "avg_jump_return": -0.77
     },
     "CDW": {
         "avg_jump_return": 0.51
-    },
-    "CVX": {
-        "avg_jump_return": 0.17
     }
 }
