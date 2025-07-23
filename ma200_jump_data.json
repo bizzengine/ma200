@@ -1,32 +1,23 @@
 {
-    "CDW": {
-        "avg_jump_return": 0.51
-    },
-    "BKR": {
-        "avg_jump_return": 0.24
-    },
-    "ABBV": {
-        "avg_jump_return": 0.66
-    },
-    "PPG": {
-        "avg_jump_return": 0.58
-    },
-    "NVR": {
-        "avg_jump_return": 4.63
-    },
-    "PCAR": {
-        "avg_jump_return": 0.77
-    },
-    "GM": {
-        "avg_jump_return": 1.47
+    "CVX": {
+        "avg_jump_return": 0.16
     },
     "MTD": {
         "avg_jump_return": 4.54
     },
+    "ABBV": {
+        "avg_jump_return": 0.66
+    },
+    "BKR": {
+        "avg_jump_return": 0.24
+    },
+    "GM": {
+        "avg_jump_return": 1.47
+    },
     "PYPL": {
         "avg_jump_return": 4.86
     },
-    "CVX": {
-        "avg_jump_return": 0.16
+    "PPG": {
+        "avg_jump_return": 0.58
     }
 }
