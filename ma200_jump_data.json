@@ -2,17 +2,17 @@
     "CVX": {
         "avg_jump_return": 0.16
     },
-    "MTD": {
-        "avg_jump_return": 4.54
+    "BKR": {
+        "avg_jump_return": 0.24
     },
     "ABBV": {
         "avg_jump_return": 0.66
     },
-    "BKR": {
-        "avg_jump_return": 0.24
-    },
     "PPG": {
         "avg_jump_return": 0.58
+    },
+    "MTD": {
+        "avg_jump_return": 4.54
     },
     "GM": {
         "avg_jump_return": 1.47
