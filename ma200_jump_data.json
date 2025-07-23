@@ -11,13 +11,10 @@
     "BKR": {
         "avg_jump_return": 0.24
     },
-    "GM": {
-        "avg_jump_return": 1.47
-    },
-    "PYPL": {
-        "avg_jump_return": 4.86
-    },
     "PPG": {
         "avg_jump_return": 0.58
+    },
+    "GM": {
+        "avg_jump_return": 1.47
     }
 }
