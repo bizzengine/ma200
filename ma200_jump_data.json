@@ -1,20 +1,26 @@
 {
-    "CVX": {
-        "avg_jump_return": 0.16
+    "PFE": {
+        "avg_jump_return": -0.21
     },
-    "BKR": {
-        "avg_jump_return": 0.24
+    "SRE": {
+        "avg_jump_return": -0.84
     },
-    "ABBV": {
-        "avg_jump_return": 0.66
+    "WST": {
+        "avg_jump_return": 1.77
     },
-    "PPG": {
-        "avg_jump_return": 0.58
+    "PYPL": {
+        "avg_jump_return": 4.86
     },
-    "MTD": {
-        "avg_jump_return": 4.54
+    "NOW": {
+        "avg_jump_return": 5.7
     },
-    "GM": {
-        "avg_jump_return": 1.47
+    "TPG": {
+        "avg_jump_return": 1.8
+    },
+    "TMUS": {
+        "avg_jump_return": 4.48
+    },
+    "ROP": {
+        "avg_jump_return": 0.18
     }
 }
