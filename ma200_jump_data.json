@@ -1,26 +1,38 @@
 {
-    "PFE": {
-        "avg_jump_return": -0.21
-    },
-    "SRE": {
-        "avg_jump_return": -0.84
-    },
-    "WST": {
-        "avg_jump_return": 1.77
-    },
-    "PYPL": {
-        "avg_jump_return": 4.86
-    },
-    "NOW": {
-        "avg_jump_return": 5.7
+    "BRK-B": {
+        "avg_jump_return": 5.88
     },
     "TPG": {
         "avg_jump_return": 1.8
     },
-    "TMUS": {
-        "avg_jump_return": 4.48
+    "WST": {
+        "avg_jump_return": 1.69
     },
     "ROP": {
         "avg_jump_return": 0.18
+    },
+    "SRE": {
+        "avg_jump_return": -0.84
+    },
+    "CDW": {
+        "avg_jump_return": 0.51
+    },
+    "WCN": {
+        "avg_jump_return": 0.65
+    },
+    "NOW": {
+        "avg_jump_return": 5.7
+    },
+    "TMUS": {
+        "avg_jump_return": 4.28
+    },
+    "PYPL": {
+        "avg_jump_return": 5.13
+    },
+    "PAYX": {
+        "avg_jump_return": 0.48
+    },
+    "EPD": {
+        "avg_jump_return": -0.05
     }
 }
