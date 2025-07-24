@@ -1,38 +1,35 @@
 {
-    "BRK-B": {
-        "avg_jump_return": 5.88
+    "TMUS": {
+        "avg_jump_return": 4.28
     },
-    "TPG": {
-        "avg_jump_return": 1.8
+    "ROP": {
+        "avg_jump_return": 0.18
+    },
+    "NOW": {
+        "avg_jump_return": 5.7
     },
     "WST": {
         "avg_jump_return": 1.69
     },
-    "ROP": {
-        "avg_jump_return": 0.18
+    "BRK-B": {
+        "avg_jump_return": 5.88
+    },
+    "EPD": {
+        "avg_jump_return": -0.05
+    },
+    "PYPL": {
+        "avg_jump_return": 4.86
+    },
+    "TPG": {
+        "avg_jump_return": 1.8
+    },
+    "WCN": {
+        "avg_jump_return": 0.65
     },
     "SRE": {
         "avg_jump_return": -0.84
     },
     "CDW": {
         "avg_jump_return": 0.51
-    },
-    "WCN": {
-        "avg_jump_return": 0.65
-    },
-    "NOW": {
-        "avg_jump_return": 5.7
-    },
-    "TMUS": {
-        "avg_jump_return": 4.28
-    },
-    "PYPL": {
-        "avg_jump_return": 5.13
-    },
-    "PAYX": {
-        "avg_jump_return": 0.48
-    },
-    "EPD": {
-        "avg_jump_return": -0.05
     }
 }
