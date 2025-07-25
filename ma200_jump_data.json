@@ -1,15 +1,12 @@
 {
-    "WSO": {
-        "avg_jump_return": 3.44
-    },
-    "ALL": {
-        "avg_jump_return": 1.06
-    },
     "PAYX": {
         "avg_jump_return": 0.46
     },
     "AJG": {
         "avg_jump_return": 4.11
+    },
+    "TSLA": {
+        "avg_jump_return": 11.59
     },
     "AMP": {
         "avg_jump_return": 2.79
