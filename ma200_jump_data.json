@@ -1,18 +1,15 @@
 {
-    "DAL": {
-        "avg_jump_return": -1.04
-    },
-    "WSO": {
-        "avg_jump_return": 3.44
+    "DD": {
+        "avg_jump_return": -0.21
     },
     "STLD": {
         "avg_jump_return": 1.46
     },
-    "GFS": {
-        "avg_jump_return": -2.65
+    "CDW": {
+        "avg_jump_return": 0.51
     },
-    "ALL": {
-        "avg_jump_return": 1.06
+    "AMP": {
+        "avg_jump_return": 2.79
     },
     "AJG": {
         "avg_jump_return": 4.11
@@ -20,7 +17,19 @@
     "PAYX": {
         "avg_jump_return": 0.46
     },
-    "AMP": {
-        "avg_jump_return": 2.79
+    "LLY": {
+        "avg_jump_return": 7.49
+    },
+    "DAL": {
+        "avg_jump_return": -1.04
+    },
+    "WSO": {
+        "avg_jump_return": 3.44
+    },
+    "APD": {
+        "avg_jump_return": -0.77
+    },
+    "GFS": {
+        "avg_jump_return": -2.65
     }
 }
