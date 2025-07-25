@@ -1,9 +1,18 @@
 {
+    "DAL": {
+        "avg_jump_return": -1.04
+    },
     "WSO": {
         "avg_jump_return": 3.44
     },
     "STLD": {
         "avg_jump_return": 1.46
+    },
+    "GFS": {
+        "avg_jump_return": -2.65
+    },
+    "ALL": {
+        "avg_jump_return": 1.06
     },
     "AJG": {
         "avg_jump_return": 4.11
@@ -13,11 +22,5 @@
     },
     "AMP": {
         "avg_jump_return": 2.79
-    },
-    "TSLA": {
-        "avg_jump_return": 11.98
-    },
-    "GFS": {
-        "avg_jump_return": -2.65
     }
 }
