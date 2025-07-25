@@ -1,35 +1,35 @@
 {
-    "DD": {
-        "avg_jump_return": -0.21
+    "LLY": {
+        "avg_jump_return": 7.49
     },
     "STLD": {
         "avg_jump_return": 1.46
     },
-    "CDW": {
-        "avg_jump_return": 0.51
-    },
     "AMP": {
         "avg_jump_return": 2.79
     },
-    "AJG": {
-        "avg_jump_return": 4.11
+    "DAL": {
+        "avg_jump_return": -1.0
     },
     "PAYX": {
         "avg_jump_return": 0.46
     },
-    "LLY": {
-        "avg_jump_return": 7.49
+    "CDW": {
+        "avg_jump_return": 0.51
     },
-    "DAL": {
-        "avg_jump_return": -1.04
+    "GFS": {
+        "avg_jump_return": -2.65
     },
     "WSO": {
         "avg_jump_return": 3.44
     },
+    "DD": {
+        "avg_jump_return": -0.21
+    },
     "APD": {
         "avg_jump_return": -0.77
     },
-    "GFS": {
-        "avg_jump_return": -2.65
+    "AJG": {
+        "avg_jump_return": 4.11
     }
 }
