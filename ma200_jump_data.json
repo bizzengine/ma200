@@ -1,14 +1,23 @@
 {
-    "PAYX": {
-        "avg_jump_return": 0.46
+    "WSO": {
+        "avg_jump_return": 3.44
+    },
+    "STLD": {
+        "avg_jump_return": 1.46
     },
     "AJG": {
         "avg_jump_return": 4.11
     },
-    "TSLA": {
-        "avg_jump_return": 11.59
+    "PAYX": {
+        "avg_jump_return": 0.46
     },
     "AMP": {
         "avg_jump_return": 2.79
+    },
+    "TSLA": {
+        "avg_jump_return": 11.98
+    },
+    "GFS": {
+        "avg_jump_return": -2.65
     }
 }
