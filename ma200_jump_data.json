@@ -1,35 +1,17 @@
 {
-    "STLD": {
-        "avg_jump_return": 1.46
+    "TSLA": {
+        "avg_jump_return": 11.98
     },
-    "APD": {
-        "avg_jump_return": -0.77
+    "XOM": {
+        "avg_jump_return": 1.8
     },
-    "AMP": {
-        "avg_jump_return": 2.79
+    "ILMN": {
+        "avg_jump_return": -1.05
     },
-    "AJG": {
-        "avg_jump_return": 4.11
+    "NOW": {
+        "avg_jump_return": 5.28
     },
-    "WSO": {
-        "avg_jump_return": 3.44
-    },
-    "PAYX": {
-        "avg_jump_return": 0.46
-    },
-    "LLY": {
-        "avg_jump_return": 7.49
-    },
-    "CDW": {
-        "avg_jump_return": 0.51
-    },
-    "DD": {
-        "avg_jump_return": -0.21
-    },
-    "GFS": {
-        "avg_jump_return": -2.65
-    },
-    "DAL": {
-        "avg_jump_return": -1.0
+    "BRK-B": {
+        "avg_jump_return": 5.88
     }
 }
