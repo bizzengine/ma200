@@ -1,14 +1,17 @@
 {
-    "NOW": {
-        "avg_jump_return": 5.56
+    "XOM": {
+        "avg_jump_return": 1.8
     },
-    "ILMN": {
-        "avg_jump_return": -1.05
+    "TXN": {
+        "avg_jump_return": -0.31
+    },
+    "NOW": {
+        "avg_jump_return": 5.28
     },
     "TSLA": {
         "avg_jump_return": 11.59
     },
-    "XOM": {
-        "avg_jump_return": 1.8
+    "ILMN": {
+        "avg_jump_return": -1.05
     }
 }
