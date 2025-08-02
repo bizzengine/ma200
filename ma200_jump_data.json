@@ -1,14 +1,11 @@
 {
-    "XOM": {
-        "avg_jump_return": 1.8
+    "MCD": {
+        "avg_jump_return": 1.04
     },
-    "ILMN": {
-        "avg_jump_return": -1.05
+    "O": {
+        "avg_jump_return": -1.17
     },
-    "NOW": {
-        "avg_jump_return": 5.28
-    },
-    "TSLA": {
-        "avg_jump_return": 11.59
+    "KDP": {
+        "avg_jump_return": -0.77
     }
 }
