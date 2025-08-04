@@ -1,12 +1,30 @@
 {
     "PNC": {
-        "avg_jump_return": 4.7
+        "avg_jump_return": 4.44
+    },
+    "VRTX": {
+        "avg_jump_return": 3.03
+    },
+    "HON": {
+        "avg_jump_return": 0.18
+    },
+    "MTD": {
+        "avg_jump_return": 4.02
+    },
+    "SYK": {
+        "avg_jump_return": 0.52
+    },
+    "ROST": {
+        "avg_jump_return": -0.28
     },
     "PSX": {
-        "avg_jump_return": -0.83
+        "avg_jump_return": -0.8
     },
-    "ADP": {
+    "EQH": {
         "avg_jump_return": 0.26
+    },
+    "TYL": {
+        "avg_jump_return": 1.41
     },
     "TFC": {
         "avg_jump_return": 0.54
@@ -14,10 +32,7 @@
     "HBAN": {
         "avg_jump_return": -0.33
     },
-    "UAL": {
-        "avg_jump_return": -0.52
-    },
-    "SYK": {
+    "BG": {
         "avg_jump_return": 0.52
     },
     "KEYS": {
@@ -26,28 +41,16 @@
     "EXPD": {
         "avg_jump_return": 0.5
     },
-    "HON": {
-        "avg_jump_return": 0.18
-    },
-    "FCX": {
-        "avg_jump_return": 5.06
-    },
-    "TYL": {
-        "avg_jump_return": 1.41
-    },
-    "FTNT": {
-        "avg_jump_return": 4.13
-    },
-    "MSI": {
-        "avg_jump_return": 5.13
-    },
-    "TROW": {
-        "avg_jump_return": 0.1
-    },
-    "VRTX": {
-        "avg_jump_return": 3.03
+    "TPG": {
+        "avg_jump_return": 1.76
     },
     "PSTG": {
         "avg_jump_return": 0.76
+    },
+    "UAL": {
+        "avg_jump_return": -0.52
+    },
+    "TROW": {
+        "avg_jump_return": 0.1
     }
 }
