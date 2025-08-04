@@ -1,39 +1,33 @@
 {
-    "PNC": {
-        "avg_jump_return": 4.44
-    },
-    "VRTX": {
-        "avg_jump_return": 3.03
-    },
-    "HON": {
-        "avg_jump_return": 0.18
+    "EQH": {
+        "avg_jump_return": 0.26
     },
     "MTD": {
         "avg_jump_return": 4.02
     },
-    "SYK": {
-        "avg_jump_return": 0.52
-    },
-    "ROST": {
-        "avg_jump_return": -0.28
+    "TMUS": {
+        "avg_jump_return": 3.71
     },
     "PSX": {
         "avg_jump_return": -0.8
     },
-    "EQH": {
-        "avg_jump_return": 0.26
+    "VRTX": {
+        "avg_jump_return": 3.03
     },
-    "TYL": {
-        "avg_jump_return": 1.41
+    "PSTG": {
+        "avg_jump_return": 0.76
     },
-    "TFC": {
-        "avg_jump_return": 0.54
+    "ROST": {
+        "avg_jump_return": -0.28
     },
-    "HBAN": {
-        "avg_jump_return": -0.33
+    "TROW": {
+        "avg_jump_return": 0.1
     },
-    "BG": {
-        "avg_jump_return": 0.52
+    "NVR": {
+        "avg_jump_return": 4.63
+    },
+    "PNC": {
+        "avg_jump_return": 4.44
     },
     "KEYS": {
         "avg_jump_return": -0.2
@@ -42,15 +36,30 @@
         "avg_jump_return": 0.5
     },
     "TPG": {
-        "avg_jump_return": 1.76
+        "avg_jump_return": 1.67
     },
-    "PSTG": {
-        "avg_jump_return": 0.76
+    "HBAN": {
+        "avg_jump_return": -0.33
+    },
+    "BG": {
+        "avg_jump_return": 0.52
     },
     "UAL": {
         "avg_jump_return": -0.52
     },
-    "TROW": {
-        "avg_jump_return": 0.1
+    "FCX": {
+        "avg_jump_return": 4.92
+    },
+    "HON": {
+        "avg_jump_return": 0.18
+    },
+    "SYK": {
+        "avg_jump_return": 0.52
+    },
+    "TFC": {
+        "avg_jump_return": 0.54
+    },
+    "TYL": {
+        "avg_jump_return": 1.41
     }
 }
