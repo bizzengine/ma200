@@ -1,5 +1,8 @@
 {
-    "FTNT": {
-        "avg_jump_return": 4.31
+    "ITW": {
+        "avg_jump_return": 0.32
+    },
+    "HD": {
+        "avg_jump_return": 2.79
     }
 }
