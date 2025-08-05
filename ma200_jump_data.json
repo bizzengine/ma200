@@ -1,8 +1,17 @@
 {
+    "HD": {
+        "avg_jump_return": 2.79
+    },
+    "SPG": {
+        "avg_jump_return": 2.88
+    },
+    "SUI": {
+        "avg_jump_return": -1.45
+    },
     "ITW": {
         "avg_jump_return": 0.32
     },
-    "HD": {
-        "avg_jump_return": 2.79
+    "RPM": {
+        "avg_jump_return": 0.32
     }
 }
