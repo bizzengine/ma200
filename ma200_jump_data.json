@@ -1,11 +1,14 @@
 {
-    "FCX": {
-        "avg_jump_return": 4.89
-    },
-    "MCD": {
-        "avg_jump_return": 0.95
+    "TMUS": {
+        "avg_jump_return": 3.53
     },
     "KMB": {
         "avg_jump_return": -1.28
+    },
+    "SBAC": {
+        "avg_jump_return": -1.31
+    },
+    "MCD": {
+        "avg_jump_return": 0.95
     }
 }
