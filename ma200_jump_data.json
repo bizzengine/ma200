@@ -1,17 +1,11 @@
 {
-    "HD": {
-        "avg_jump_return": 2.79
+    "FCX": {
+        "avg_jump_return": 4.89
     },
-    "SPG": {
-        "avg_jump_return": 2.88
+    "MCD": {
+        "avg_jump_return": 0.95
     },
-    "SUI": {
-        "avg_jump_return": -1.45
-    },
-    "ITW": {
-        "avg_jump_return": 0.32
-    },
-    "RPM": {
-        "avg_jump_return": 0.32
+    "KMB": {
+        "avg_jump_return": -1.28
     }
 }
