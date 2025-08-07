@@ -1,19 +1,4 @@
 {
-    "PSX": {
-        "avg_jump_return": -0.82
-    },
-    "WMG": {
-        "avg_jump_return": -1.21
-    },
-    "TRU": {
-        "avg_jump_return": -0.27
-    },
-    "TMUS": {
-        "avg_jump_return": 3.53
-    },
-    "SYK": {
-        "avg_jump_return": 0.45
-    },
     "FCX": {
         "avg_jump_return": 4.89
     },
@@ -23,13 +8,13 @@
     "SCCO": {
         "avg_jump_return": 3.12
     },
-    "MSI": {
-        "avg_jump_return": 5.45
+    "WMG": {
+        "avg_jump_return": -1.17
     },
-    "ADP": {
-        "avg_jump_return": 0.26
+    "NEE": {
+        "avg_jump_return": -0.62
     },
-    "TTD": {
-        "avg_jump_return": 1.88
+    "TMUS": {
+        "avg_jump_return": 3.53
     }
 }
