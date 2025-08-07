@@ -1,20 +1,29 @@
 {
-    "FCX": {
-        "avg_jump_return": 4.89
-    },
-    "COST": {
-        "avg_jump_return": 2.77
-    },
-    "SCCO": {
-        "avg_jump_return": 3.12
-    },
     "WMG": {
         "avg_jump_return": -1.17
+    },
+    "SBAC": {
+        "avg_jump_return": -1.31
     },
     "NEE": {
         "avg_jump_return": -0.62
     },
     "TMUS": {
         "avg_jump_return": 3.53
+    },
+    "SCCO": {
+        "avg_jump_return": 3.12
+    },
+    "FCX": {
+        "avg_jump_return": 4.76
+    },
+    "COST": {
+        "avg_jump_return": 2.77
+    },
+    "ADP": {
+        "avg_jump_return": 0.26
+    },
+    "MSI": {
+        "avg_jump_return": 5.13
     }
 }
