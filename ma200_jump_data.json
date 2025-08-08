@@ -1,29 +1,26 @@
 {
-    "WMG": {
-        "avg_jump_return": -1.17
+    "TSLA": {
+        "avg_jump_return": 11.53
     },
-    "SBAC": {
-        "avg_jump_return": -1.31
+    "AAPL": {
+        "avg_jump_return": 5.29
     },
-    "NEE": {
-        "avg_jump_return": -0.62
+    "EQH": {
+        "avg_jump_return": 0.23
     },
-    "TMUS": {
-        "avg_jump_return": 3.53
+    "SYK": {
+        "avg_jump_return": 0.45
     },
-    "SCCO": {
-        "avg_jump_return": 3.12
+    "RPM": {
+        "avg_jump_return": 0.32
     },
-    "FCX": {
-        "avg_jump_return": 4.76
+    "SUI": {
+        "avg_jump_return": -1.45
     },
-    "COST": {
-        "avg_jump_return": 2.77
+    "TROW": {
+        "avg_jump_return": 0.05
     },
-    "ADP": {
-        "avg_jump_return": 0.26
-    },
-    "MSI": {
-        "avg_jump_return": 5.13
+    "NTRA": {
+        "avg_jump_return": 11.94
     }
 }
