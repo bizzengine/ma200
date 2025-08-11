@@ -1,17 +1,8 @@
 {
-    "SYK": {
-        "avg_jump_return": 0.45
-    },
-    "RPM": {
-        "avg_jump_return": 0.32
-    },
-    "IQV": {
-        "avg_jump_return": 0.82
-    },
     "NTRA": {
         "avg_jump_return": 11.94
     },
-    "SUI": {
-        "avg_jump_return": -1.45
+    "SHW": {
+        "avg_jump_return": 1.2
     }
 }
