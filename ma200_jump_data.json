@@ -1,32 +1,17 @@
 {
-    "HUM": {
-        "avg_jump_return": -2.19
+    "SYK": {
+        "avg_jump_return": 0.45
     },
-    "TFC": {
-        "avg_jump_return": 0.49
+    "RPM": {
+        "avg_jump_return": 0.32
     },
-    "LOW": {
-        "avg_jump_return": 2.04
+    "IQV": {
+        "avg_jump_return": 0.82
     },
-    "EQH": {
-        "avg_jump_return": 0.23
+    "NTRA": {
+        "avg_jump_return": 11.94
     },
-    "FITB": {
-        "avg_jump_return": 5.28
-    },
-    "TSLA": {
-        "avg_jump_return": 11.17
-    },
-    "AAPL": {
-        "avg_jump_return": 5.29
-    },
-    "V": {
-        "avg_jump_return": 0.71
-    },
-    "TROW": {
-        "avg_jump_return": 0.05
-    },
-    "HBAN": {
-        "avg_jump_return": -0.36
+    "SUI": {
+        "avg_jump_return": -1.45
     }
 }
