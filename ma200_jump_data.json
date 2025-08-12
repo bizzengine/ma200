@@ -1,32 +1,41 @@
 {
-    "TXN": {
-        "avg_jump_return": -0.33
-    },
     "RPM": {
         "avg_jump_return": 0.32
+    },
+    "PSX": {
+        "avg_jump_return": -0.82
     },
     "FITB": {
         "avg_jump_return": 4.95
     },
-    "IQV": {
-        "avg_jump_return": 0.85
+    "FNF": {
+        "avg_jump_return": 3.93
     },
     "NVR": {
         "avg_jump_return": 4.31
     },
-    "HBAN": {
-        "avg_jump_return": -0.36
-    },
-    "LOW": {
-        "avg_jump_return": 1.95
-    },
-    "DAL": {
-        "avg_jump_return": -0.99
+    "NTAP": {
+        "avg_jump_return": 3.57
     },
     "TFC": {
         "avg_jump_return": 0.46
     },
-    "DLR": {
-        "avg_jump_return": 1.0
+    "TXN": {
+        "avg_jump_return": -0.33
+    },
+    "HBAN": {
+        "avg_jump_return": -0.36
+    },
+    "IQV": {
+        "avg_jump_return": 0.82
+    },
+    "LOW": {
+        "avg_jump_return": 1.95
+    },
+    "PEP": {
+        "avg_jump_return": -0.85
+    },
+    "DAL": {
+        "avg_jump_return": -0.99
     }
 }
