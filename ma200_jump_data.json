@@ -1,8 +1,32 @@
 {
-    "NTRA": {
-        "avg_jump_return": 11.94
+    "TXN": {
+        "avg_jump_return": -0.33
     },
-    "SHW": {
-        "avg_jump_return": 1.17
+    "RPM": {
+        "avg_jump_return": 0.32
+    },
+    "FITB": {
+        "avg_jump_return": 4.95
+    },
+    "IQV": {
+        "avg_jump_return": 0.85
+    },
+    "NVR": {
+        "avg_jump_return": 4.31
+    },
+    "HBAN": {
+        "avg_jump_return": -0.36
+    },
+    "LOW": {
+        "avg_jump_return": 1.95
+    },
+    "DAL": {
+        "avg_jump_return": -0.99
+    },
+    "TFC": {
+        "avg_jump_return": 0.46
+    },
+    "DLR": {
+        "avg_jump_return": 1.0
     }
 }
