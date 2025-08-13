@@ -1,50 +1,74 @@
 {
-    "WAB": {
-        "avg_jump_return": 1.33
-    },
-    "LEN": {
-        "avg_jump_return": 12.17
-    },
-    "YUM": {
-        "avg_jump_return": 0.27
-    },
-    "TRU": {
-        "avg_jump_return": -0.27
-    },
-    "AIG": {
-        "avg_jump_return": 2.05
-    },
     "LII": {
         "avg_jump_return": 3.78
-    },
-    "MAR": {
-        "avg_jump_return": 0.8
-    },
-    "SYK": {
-        "avg_jump_return": 0.45
-    },
-    "PSX": {
-        "avg_jump_return": -0.82
-    },
-    "KMB": {
-        "avg_jump_return": -1.29
-    },
-    "HON": {
-        "avg_jump_return": 0.15
     },
     "XPO": {
         "avg_jump_return": 16.63
     },
+    "SNA": {
+        "avg_jump_return": 0.37
+    },
     "USB": {
         "avg_jump_return": 1.76
     },
-    "ZBH": {
-        "avg_jump_return": -0.83
+    "AIG": {
+        "avg_jump_return": 2.05
+    },
+    "QCOM": {
+        "avg_jump_return": 0.34
+    },
+    "LEN": {
+        "avg_jump_return": 12.17
+    },
+    "KMB": {
+        "avg_jump_return": -1.29
+    },
+    "TRU": {
+        "avg_jump_return": -0.27
+    },
+    "BALL": {
+        "avg_jump_return": -0.57
+    },
+    "YUM": {
+        "avg_jump_return": 0.27
+    },
+    "MAR": {
+        "avg_jump_return": 0.8
+    },
+    "CSL": {
+        "avg_jump_return": 4.89
+    },
+    "NEE": {
+        "avg_jump_return": -0.64
     },
     "ZBRA": {
         "avg_jump_return": 3.06
     },
-    "CSL": {
-        "avg_jump_return": 4.89
+    "HON": {
+        "avg_jump_return": 0.15
+    },
+    "SYK": {
+        "avg_jump_return": 0.45
+    },
+    "ZBH": {
+        "avg_jump_return": -0.83
+    },
+    "ADP": {
+        "avg_jump_return": 0.21
+    },
+    "STLD": {
+        "avg_jump_return": 1.37
+    },
+    "AFL": {
+        "avg_jump_return": 2.08
+    },
+    "PFE": {
+        "avg_jump_return": -0.2
+    },
+    "PSX": {
+        "avg_jump_return": -0.82
+    },
+    "CF": {
+        "avg_jump_return": 4.61
     }
 }
