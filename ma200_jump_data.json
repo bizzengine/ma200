@@ -1,53 +1,41 @@
 {
-    "NTAP": {
-        "avg_jump_return": 3.57
+    "AIG": {
+        "avg_jump_return": 2.05
     },
-    "TFC": {
-        "avg_jump_return": 0.46
+    "LEN": {
+        "avg_jump_return": 12.17
     },
-    "NVR": {
-        "avg_jump_return": 4.31
+    "PSX": {
+        "avg_jump_return": -0.82
     },
-    "IQV": {
-        "avg_jump_return": 0.82
+    "NEE": {
+        "avg_jump_return": -0.64
+    },
+    "WAB": {
+        "avg_jump_return": 1.33
+    },
+    "HON": {
+        "avg_jump_return": 0.15
+    },
+    "KMB": {
+        "avg_jump_return": -1.29
     },
     "XPO": {
         "avg_jump_return": 16.63
     },
-    "HBAN": {
-        "avg_jump_return": -0.36
+    "ZBRA": {
+        "avg_jump_return": 3.06
     },
-    "DAL": {
-        "avg_jump_return": -0.99
+    "DLR": {
+        "avg_jump_return": 1.0
     },
-    "LOW": {
-        "avg_jump_return": 1.95
+    "USB": {
+        "avg_jump_return": 1.76
     },
-    "DXCM": {
-        "avg_jump_return": 2.34
+    "ZBH": {
+        "avg_jump_return": -0.83
     },
-    "TXN": {
-        "avg_jump_return": -0.33
-    },
-    "MTB": {
-        "avg_jump_return": 1.17
-    },
-    "SPG": {
-        "avg_jump_return": 2.72
-    },
-    "FNF": {
-        "avg_jump_return": 3.93
-    },
-    "PEP": {
-        "avg_jump_return": -0.85
-    },
-    "RPM": {
-        "avg_jump_return": 0.32
-    },
-    "INTC": {
-        "avg_jump_return": -2.61
-    },
-    "FITB": {
-        "avg_jump_return": 4.95
+    "CSL": {
+        "avg_jump_return": 4.89
     }
 }
