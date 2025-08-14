@@ -1,74 +1,62 @@
 {
-    "LII": {
-        "avg_jump_return": 3.78
-    },
-    "XPO": {
-        "avg_jump_return": 16.63
+    "KMI": {
+        "avg_jump_return": -0.02
     },
     "SNA": {
-        "avg_jump_return": 0.37
-    },
-    "USB": {
-        "avg_jump_return": 1.76
-    },
-    "AIG": {
-        "avg_jump_return": 2.05
-    },
-    "QCOM": {
-        "avg_jump_return": 0.34
-    },
-    "LEN": {
-        "avg_jump_return": 12.17
-    },
-    "KMB": {
-        "avg_jump_return": -1.29
-    },
-    "TRU": {
-        "avg_jump_return": -0.27
-    },
-    "BALL": {
-        "avg_jump_return": -0.57
-    },
-    "YUM": {
-        "avg_jump_return": 0.27
+        "avg_jump_return": 0.32
     },
     "MAR": {
-        "avg_jump_return": 0.8
-    },
-    "CSL": {
-        "avg_jump_return": 4.89
-    },
-    "NEE": {
-        "avg_jump_return": -0.64
-    },
-    "ZBRA": {
-        "avg_jump_return": 3.06
-    },
-    "HON": {
-        "avg_jump_return": 0.15
-    },
-    "SYK": {
-        "avg_jump_return": 0.45
-    },
-    "ZBH": {
-        "avg_jump_return": -0.83
-    },
-    "ADP": {
-        "avg_jump_return": 0.21
-    },
-    "STLD": {
-        "avg_jump_return": 1.37
-    },
-    "AFL": {
-        "avg_jump_return": 2.08
+        "avg_jump_return": 0.77
     },
     "PFE": {
-        "avg_jump_return": -0.2
+        "avg_jump_return": -0.23
     },
-    "PSX": {
-        "avg_jump_return": -0.82
+    "WAB": {
+        "avg_jump_return": 1.38
     },
-    "CF": {
-        "avg_jump_return": 4.61
+    "AMGN": {
+        "avg_jump_return": -0.93
+    },
+    "HON": {
+        "avg_jump_return": 0.14
+    },
+    "NEE": {
+        "avg_jump_return": -0.67
+    },
+    "TMO": {
+        "avg_jump_return": -0.26
+    },
+    "DPZ": {
+        "avg_jump_return": 1.09
+    },
+    "DXCM": {
+        "avg_jump_return": 2.3
+    },
+    "TRU": {
+        "avg_jump_return": -0.33
+    },
+    "MPLX": {
+        "avg_jump_return": 1.62
+    },
+    "WCN": {
+        "avg_jump_return": 0.53
+    },
+    "KMB": {
+        "avg_jump_return": -1.3
+    },
+    "DHR": {
+        "avg_jump_return": 3.06
+    },
+    "SYK": {
+        "avg_jump_return": 0.42
+    },
+    "WES": {
+        "avg_jump_return": 1.69
+    },
+    "TYL": {
+        "avg_jump_return": 1.29
+    },
+    "EPD": {
+        "avg_jump_return": -0.07
     }
 }
