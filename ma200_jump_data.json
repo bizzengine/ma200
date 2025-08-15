@@ -1,8 +1,14 @@
 {
-    "AMGN": {
-        "avg_jump_return": -0.9
+    "TMO": {
+        "avg_jump_return": -0.25
     },
-    "EPD": {
-        "avg_jump_return": -0.07
+    "SYK": {
+        "avg_jump_return": 0.43
+    },
+    "WMB": {
+        "avg_jump_return": 1.76
+    },
+    "AFL": {
+        "avg_jump_return": 2.0
     }
 }
