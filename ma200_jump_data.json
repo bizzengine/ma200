@@ -1,26 +1,11 @@
 {
-    "WMB": {
-        "avg_jump_return": 1.76
-    },
     "TMO": {
         "avg_jump_return": -0.25
-    },
-    "CF": {
-        "avg_jump_return": 4.35
     },
     "SYK": {
         "avg_jump_return": 0.43
     },
-    "MPLX": {
-        "avg_jump_return": 1.57
-    },
-    "AMT": {
-        "avg_jump_return": -1.87
-    },
     "ZBH": {
         "avg_jump_return": -0.84
-    },
-    "AFL": {
-        "avg_jump_return": 2.0
     }
 }
