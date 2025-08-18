@@ -2,10 +2,7 @@
     "DDOG": {
         "avg_jump_return": 6.27
     },
-    "AFL": {
-        "avg_jump_return": 2.0
-    },
-    "BIIB": {
-        "avg_jump_return": -3.34
+    "LII": {
+        "avg_jump_return": 3.55
     }
 }
