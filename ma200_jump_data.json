@@ -1,11 +1,11 @@
 {
-    "TMO": {
-        "avg_jump_return": -0.25
+    "DDOG": {
+        "avg_jump_return": 6.27
     },
-    "SYK": {
-        "avg_jump_return": 0.43
+    "AFL": {
+        "avg_jump_return": 2.0
     },
-    "ZBH": {
-        "avg_jump_return": -0.84
+    "BIIB": {
+        "avg_jump_return": -3.34
     }
 }
