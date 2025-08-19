@@ -1,11 +1,29 @@
 {
-    "AFL": {
-        "avg_jump_return": 2.0
+    "PFE": {
+        "avg_jump_return": -0.2
     },
-    "LII": {
+    "ADSK": {
+        "avg_jump_return": -0.91
+    },
+    "WM": {
+        "avg_jump_return": 1.02
+    },
+    "CSL": {
+        "avg_jump_return": 4.47
+    },
+    "SUI": {
+        "avg_jump_return": -1.43
+    },
+    "ADP": {
+        "avg_jump_return": 0.17
+    },
+    "BLDR": {
+        "avg_jump_return": 3.85
+    },
+    "FNF": {
         "avg_jump_return": 3.55
     },
-    "DDOG": {
-        "avg_jump_return": 6.27
+    "MAR": {
+        "avg_jump_return": 0.74
     }
 }
