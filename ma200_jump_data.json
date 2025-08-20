@@ -1,17 +1,17 @@
 {
-    "SBAC": {
-        "avg_jump_return": -1.3
+    "MSCI": {
+        "avg_jump_return": 1.49
     },
-    "WCN": {
-        "avg_jump_return": 0.52
-    },
-    "EQT": {
-        "avg_jump_return": 7.72
+    "BRK-B": {
+        "avg_jump_return": 5.88
     },
     "DD": {
         "avg_jump_return": -0.23
     },
-    "BRK-B": {
-        "avg_jump_return": 5.88
+    "SBAC": {
+        "avg_jump_return": -1.3
+    },
+    "EQT": {
+        "avg_jump_return": 7.72
     }
 }
