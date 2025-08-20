@@ -1,17 +1,17 @@
 {
+    "SBAC": {
+        "avg_jump_return": -1.3
+    },
     "WCN": {
         "avg_jump_return": 0.52
     },
-    "BRK-B": {
-        "avg_jump_return": 5.88
+    "EQT": {
+        "avg_jump_return": 7.72
     },
     "DD": {
         "avg_jump_return": -0.23
     },
-    "KMB": {
-        "avg_jump_return": -1.29
-    },
-    "SBAC": {
-        "avg_jump_return": -1.3
+    "BRK-B": {
+        "avg_jump_return": 5.88
     }
 }
