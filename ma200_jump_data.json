@@ -1,35 +1,17 @@
 {
-    "ADP": {
-        "avg_jump_return": 0.17
+    "WCN": {
+        "avg_jump_return": 0.52
     },
-    "FNF": {
-        "avg_jump_return": 3.55
+    "BRK-B": {
+        "avg_jump_return": 5.88
     },
-    "DHR": {
-        "avg_jump_return": 2.92
+    "DD": {
+        "avg_jump_return": -0.23
     },
-    "BIIB": {
-        "avg_jump_return": -3.34
+    "KMB": {
+        "avg_jump_return": -1.29
     },
-    "ED": {
-        "avg_jump_return": -0.82
-    },
-    "AMT": {
-        "avg_jump_return": -1.87
-    },
-    "SUI": {
-        "avg_jump_return": -1.43
-    },
-    "PLD": {
-        "avg_jump_return": -0.18
-    },
-    "CSL": {
-        "avg_jump_return": 4.47
-    },
-    "PFE": {
-        "avg_jump_return": -0.18
-    },
-    "WM": {
-        "avg_jump_return": 1.02
+    "SBAC": {
+        "avg_jump_return": -1.3
     }
 }
