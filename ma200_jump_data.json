@@ -1,8 +1,11 @@
 {
-    "MPLX": {
-        "avg_jump_return": 1.57
-    },
     "WMB": {
         "avg_jump_return": 1.76
+    },
+    "PKG": {
+        "avg_jump_return": 1.33
+    },
+    "XPO": {
+        "avg_jump_return": 15.49
     }
 }
