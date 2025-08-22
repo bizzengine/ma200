@@ -1,11 +1,65 @@
 {
-    "PKG": {
-        "avg_jump_return": 1.33
+    "PLD": {
+        "avg_jump_return": -0.23
     },
-    "WMB": {
-        "avg_jump_return": 1.76
+    "PFG": {
+        "avg_jump_return": 0.22
     },
-    "XPO": {
-        "avg_jump_return": 15.49
+    "TMO": {
+        "avg_jump_return": -0.27
+    },
+    "PSTG": {
+        "avg_jump_return": 0.7
+    },
+    "HON": {
+        "avg_jump_return": 0.13
+    },
+    "ZM": {
+        "avg_jump_return": 14.84
+    },
+    "TSLA": {
+        "avg_jump_return": 10.78
+    },
+    "LUV": {
+        "avg_jump_return": -1.32
+    },
+    "WCN": {
+        "avg_jump_return": 0.53
+    },
+    "XOM": {
+        "avg_jump_return": 1.68
+    },
+    "MAR": {
+        "avg_jump_return": 0.74
+    },
+    "DVN": {
+        "avg_jump_return": 16.23
+    },
+    "ADSK": {
+        "avg_jump_return": -0.93
+    },
+    "CSL": {
+        "avg_jump_return": 4.21
+    },
+    "SCCO": {
+        "avg_jump_return": 2.91
+    },
+    "MET": {
+        "avg_jump_return": 0.64
+    },
+    "MPLX": {
+        "avg_jump_return": 1.57
+    },
+    "APD": {
+        "avg_jump_return": -0.79
+    },
+    "STLD": {
+        "avg_jump_return": 1.32
+    },
+    "KEYS": {
+        "avg_jump_return": -0.24
+    },
+    "QCOM": {
+        "avg_jump_return": 0.33
     }
 }
