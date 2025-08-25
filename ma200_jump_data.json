@@ -1,8 +1,8 @@
 {
+    "DPZ": {
+        "avg_jump_return": 1.04
+    },
     "OXY": {
         "avg_jump_return": 3.09
-    },
-    "INTU": {
-        "avg_jump_return": 4.57
     }
 }
