@@ -1,5 +1,8 @@
 {
-    "DLR": {
-        "avg_jump_return": 1.0
+    "BRK-B": {
+        "avg_jump_return": 5.48
+    },
+    "FCNCA": {
+        "avg_jump_return": 7.33
     }
 }
