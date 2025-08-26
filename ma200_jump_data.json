@@ -1,8 +1,17 @@
 {
+    "FCNCA": {
+        "avg_jump_return": 7.33
+    },
     "BRK-B": {
         "avg_jump_return": 5.48
     },
-    "FCNCA": {
-        "avg_jump_return": 7.33
+    "AMGN": {
+        "avg_jump_return": -0.9
+    },
+    "WAB": {
+        "avg_jump_return": 1.26
+    },
+    "MPLX": {
+        "avg_jump_return": 1.49
     }
 }
