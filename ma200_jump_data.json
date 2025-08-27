@@ -1,23 +1,29 @@
 {
-    "MDB": {
-        "avg_jump_return": 5.78
+    "DDOG": {
+        "avg_jump_return": 5.89
+    },
+    "PCAR": {
+        "avg_jump_return": 0.72
     },
     "PFE": {
         "avg_jump_return": -0.23
     },
-    "SUI": {
-        "avg_jump_return": -1.43
+    "MDB": {
+        "avg_jump_return": 5.5
     },
     "WM": {
         "avg_jump_return": 0.92
     },
-    "DDOG": {
-        "avg_jump_return": 5.89
+    "DLR": {
+        "avg_jump_return": 1.0
+    },
+    "PANW": {
+        "avg_jump_return": 8.74
     },
     "EOG": {
         "avg_jump_return": 0.05
     },
-    "DLR": {
-        "avg_jump_return": 1.0
+    "SUI": {
+        "avg_jump_return": -1.43
     }
 }
