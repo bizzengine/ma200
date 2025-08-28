@@ -1,29 +1,62 @@
 {
-    "DDOG": {
-        "avg_jump_return": 5.89
+    "ADSK": {
+        "avg_jump_return": -0.93
     },
-    "PCAR": {
-        "avg_jump_return": 0.72
+    "TRU": {
+        "avg_jump_return": -0.4
     },
-    "PFE": {
-        "avg_jump_return": -0.23
+    "AMGN": {
+        "avg_jump_return": -0.91
     },
-    "MDB": {
-        "avg_jump_return": 5.5
+    "A": {
+        "avg_jump_return": 1.87
+    },
+    "ADP": {
+        "avg_jump_return": 0.14
+    },
+    "ABNB": {
+        "avg_jump_return": -1.69
+    },
+    "SNA": {
+        "avg_jump_return": 0.23
+    },
+    "MSCI": {
+        "avg_jump_return": 1.39
+    },
+    "PRU": {
+        "avg_jump_return": -0.55
     },
     "WM": {
-        "avg_jump_return": 0.92
+        "avg_jump_return": 0.89
     },
-    "DLR": {
-        "avg_jump_return": 1.0
+    "APD": {
+        "avg_jump_return": -0.84
     },
-    "PANW": {
-        "avg_jump_return": 8.74
+    "RS": {
+        "avg_jump_return": 0.88
     },
-    "EOG": {
-        "avg_jump_return": 0.05
+    "EQT": {
+        "avg_jump_return": 7.7
     },
-    "SUI": {
-        "avg_jump_return": -1.43
+    "ZBRA": {
+        "avg_jump_return": 2.93
+    },
+    "PCAR": {
+        "avg_jump_return": 0.71
+    },
+    "PFE": {
+        "avg_jump_return": -0.28
+    },
+    "WMB": {
+        "avg_jump_return": 1.72
+    },
+    "INTU": {
+        "avg_jump_return": 4.57
+    },
+    "AMP": {
+        "avg_jump_return": 2.58
+    },
+    "EPD": {
+        "avg_jump_return": -0.11
     }
 }
