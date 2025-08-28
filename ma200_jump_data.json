@@ -1,14 +1,14 @@
 {
-    "WMB": {
-        "avg_jump_return": 1.67
+    "ADP": {
+        "avg_jump_return": 0.14
+    },
+    "A": {
+        "avg_jump_return": 1.81
     },
     "INTU": {
         "avg_jump_return": 4.57
     },
-    "ADP": {
-        "avg_jump_return": 0.14
-    },
-    "ADSK": {
-        "avg_jump_return": -0.91
+    "WMB": {
+        "avg_jump_return": 1.67
     }
 }
