@@ -1,14 +1,17 @@
 {
-    "ADP": {
-        "avg_jump_return": 0.14
+    "RS": {
+        "avg_jump_return": 0.85
     },
-    "A": {
-        "avg_jump_return": 1.81
+    "SUI": {
+        "avg_jump_return": -1.42
     },
-    "INTU": {
-        "avg_jump_return": 4.57
+    "WM": {
+        "avg_jump_return": 0.87
     },
-    "WMB": {
-        "avg_jump_return": 1.67
+    "EPD": {
+        "avg_jump_return": -0.11
+    },
+    "ADSK": {
+        "avg_jump_return": -0.91
     }
 }
