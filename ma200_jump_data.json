@@ -1,17 +1,23 @@
 {
-    "RS": {
-        "avg_jump_return": 0.85
-    },
-    "SUI": {
-        "avg_jump_return": -1.42
-    },
     "WM": {
         "avg_jump_return": 0.87
     },
     "EPD": {
         "avg_jump_return": -0.11
     },
+    "SUI": {
+        "avg_jump_return": -1.42
+    },
     "ADSK": {
         "avg_jump_return": -0.91
+    },
+    "RS": {
+        "avg_jump_return": 0.85
+    },
+    "DPZ": {
+        "avg_jump_return": 0.91
+    },
+    "MPLX": {
+        "avg_jump_return": 1.39
     }
 }
