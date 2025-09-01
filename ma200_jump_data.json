@@ -1,23 +1,23 @@
 {
-    "MPLX": {
-        "avg_jump_return": 1.39
+    "ADSK": {
+        "avg_jump_return": -0.91
     },
     "EPD": {
         "avg_jump_return": -0.11
     },
-    "ADSK": {
-        "avg_jump_return": -0.91
+    "WM": {
+        "avg_jump_return": 0.87
+    },
+    "SUI": {
+        "avg_jump_return": -1.42
+    },
+    "MPLX": {
+        "avg_jump_return": 1.39
     },
     "DPZ": {
         "avg_jump_return": 0.91
     },
-    "WM": {
-        "avg_jump_return": 0.87
-    },
     "RS": {
         "avg_jump_return": 0.85
-    },
-    "SUI": {
-        "avg_jump_return": -1.42
     }
 }
