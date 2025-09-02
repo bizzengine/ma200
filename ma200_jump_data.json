@@ -1,62 +1,8 @@
 {
-    "FANG": {
-        "avg_jump_return": 5.25
-    },
-    "PFE": {
-        "avg_jump_return": -0.3
-    },
-    "AMGN": {
-        "avg_jump_return": -0.91
-    },
-    "BLDR": {
-        "avg_jump_return": 3.71
-    },
-    "APD": {
-        "avg_jump_return": -0.84
-    },
-    "PFG": {
-        "avg_jump_return": 0.16
-    },
-    "WM": {
-        "avg_jump_return": 0.84
-    },
-    "CSL": {
-        "avg_jump_return": 3.99
-    },
-    "FNF": {
-        "avg_jump_return": 3.44
-    },
-    "CCI": {
-        "avg_jump_return": -1.91
-    },
-    "CSX": {
-        "avg_jump_return": -0.6
-    },
-    "MET": {
-        "avg_jump_return": 0.58
-    },
-    "INTU": {
-        "avg_jump_return": 4.51
+    "FCNCA": {
+        "avg_jump_return": 6.98
     },
     "BIIB": {
-        "avg_jump_return": -3.4
-    },
-    "SUI": {
-        "avg_jump_return": -1.45
-    },
-    "DE": {
-        "avg_jump_return": 1.57
-    },
-    "AFL": {
-        "avg_jump_return": 1.98
-    },
-    "MPLX": {
-        "avg_jump_return": 1.38
-    },
-    "EPD": {
-        "avg_jump_return": -0.13
-    },
-    "XPO": {
-        "avg_jump_return": 15.42
+        "avg_jump_return": -3.28
     }
 }
