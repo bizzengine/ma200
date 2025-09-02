@@ -1,23 +1,11 @@
 {
-    "WM": {
-        "avg_jump_return": 0.87
+    "CCI": {
+        "avg_jump_return": -1.91
     },
-    "SUI": {
-        "avg_jump_return": -1.42
+    "BIIB": {
+        "avg_jump_return": -3.28
     },
-    "RS": {
-        "avg_jump_return": 0.85
-    },
-    "EPD": {
-        "avg_jump_return": -0.11
-    },
-    "ADSK": {
-        "avg_jump_return": -0.91
-    },
-    "MPLX": {
-        "avg_jump_return": 1.39
-    },
-    "DPZ": {
-        "avg_jump_return": 0.91
+    "PFE": {
+        "avg_jump_return": -0.3
     }
 }
