@@ -1,8 +1,5 @@
 {
-    "FCNCA": {
-        "avg_jump_return": 6.98
-    },
-    "BIIB": {
-        "avg_jump_return": -3.28
+    "TSLA": {
+        "avg_jump_return": 10.37
     }
 }
