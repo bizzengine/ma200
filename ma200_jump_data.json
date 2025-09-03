@@ -1,4 +1,13 @@
 {
+    "INTU": {
+        "avg_jump_return": 4.35
+    },
+    "FNF": {
+        "avg_jump_return": 3.26
+    },
+    "PFG": {
+        "avg_jump_return": 0.18
+    },
     "TSLA": {
         "avg_jump_return": 10.37
     }
