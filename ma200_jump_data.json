@@ -1,14 +1,26 @@
 {
-    "INTU": {
-        "avg_jump_return": 4.35
+    "WMB": {
+        "avg_jump_return": 1.6
     },
-    "FNF": {
-        "avg_jump_return": 3.26
+    "XPO": {
+        "avg_jump_return": 15.39
     },
-    "PFG": {
-        "avg_jump_return": 0.18
+    "KKR": {
+        "avg_jump_return": 9.5
     },
-    "TSLA": {
-        "avg_jump_return": 10.37
+    "WM": {
+        "avg_jump_return": 0.81
+    },
+    "SUI": {
+        "avg_jump_return": -1.42
+    },
+    "CSX": {
+        "avg_jump_return": -0.57
+    },
+    "BLDR": {
+        "avg_jump_return": 3.62
+    },
+    "DXCM": {
+        "avg_jump_return": 1.98
     }
 }
