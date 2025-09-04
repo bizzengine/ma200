@@ -1,26 +1,29 @@
 {
-    "WMB": {
-        "avg_jump_return": 1.6
-    },
-    "XPO": {
-        "avg_jump_return": 15.39
-    },
-    "KKR": {
-        "avg_jump_return": 9.5
-    },
-    "WM": {
-        "avg_jump_return": 0.81
-    },
-    "SUI": {
-        "avg_jump_return": -1.42
-    },
-    "CSX": {
-        "avg_jump_return": -0.57
+    "CSL": {
+        "avg_jump_return": 3.84
     },
     "BLDR": {
         "avg_jump_return": 3.62
     },
+    "MAR": {
+        "avg_jump_return": 0.62
+    },
+    "CSX": {
+        "avg_jump_return": -0.56
+    },
+    "KKR": {
+        "avg_jump_return": 9.5
+    },
     "DXCM": {
         "avg_jump_return": 1.98
+    },
+    "XPO": {
+        "avg_jump_return": 14.54
+    },
+    "SUI": {
+        "avg_jump_return": -1.42
+    },
+    "BBY": {
+        "avg_jump_return": -0.81
     }
 }
