@@ -1,23 +1,14 @@
 {
-    "TRU": {
-        "avg_jump_return": -0.39
+    "RS": {
+        "avg_jump_return": 0.78
     },
     "YUM": {
         "avg_jump_return": 0.24
     },
-    "LUV": {
-        "avg_jump_return": -1.42
+    "CI": {
+        "avg_jump_return": -0.74
     },
     "HPQ": {
         "avg_jump_return": 2.69
-    },
-    "RS": {
-        "avg_jump_return": 0.78
-    },
-    "TXN": {
-        "avg_jump_return": -0.41
-    },
-    "EFX": {
-        "avg_jump_return": 0.0
     }
 }
