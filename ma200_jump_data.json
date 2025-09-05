@@ -1,29 +1,23 @@
 {
-    "SUI": {
+    "TRU": {
+        "avg_jump_return": -0.39
+    },
+    "YUM": {
+        "avg_jump_return": 0.24
+    },
+    "LUV": {
         "avg_jump_return": -1.42
     },
-    "BBY": {
-        "avg_jump_return": -0.81
+    "HPQ": {
+        "avg_jump_return": 2.69
     },
-    "CSX": {
-        "avg_jump_return": -0.55
+    "RS": {
+        "avg_jump_return": 0.78
     },
-    "XPO": {
-        "avg_jump_return": 14.54
+    "TXN": {
+        "avg_jump_return": -0.41
     },
-    "DXCM": {
-        "avg_jump_return": 1.98
-    },
-    "CSL": {
-        "avg_jump_return": 3.84
-    },
-    "KKR": {
-        "avg_jump_return": 9.5
-    },
-    "MAR": {
-        "avg_jump_return": 0.62
-    },
-    "BLDR": {
-        "avg_jump_return": 3.62
+    "EFX": {
+        "avg_jump_return": 0.0
     }
 }
