@@ -1,14 +1,8 @@
 {
-    "HPQ": {
-        "avg_jump_return": 2.69
+    "NTNX": {
+        "avg_jump_return": 0.4
     },
-    "RS": {
-        "avg_jump_return": 0.78
-    },
-    "TRU": {
-        "avg_jump_return": -0.39
-    },
-    "YUM": {
-        "avg_jump_return": 0.24
+    "IBM": {
+        "avg_jump_return": 0.72
     }
 }
