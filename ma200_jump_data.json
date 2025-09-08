@@ -1,8 +1,26 @@
 {
-    "NTNX": {
-        "avg_jump_return": 0.4
+    "DE": {
+        "avg_jump_return": 1.5
+    },
+    "LUV": {
+        "avg_jump_return": -1.42
+    },
+    "MSCI": {
+        "avg_jump_return": 1.34
+    },
+    "GEHC": {
+        "avg_jump_return": 0.16
+    },
+    "XOM": {
+        "avg_jump_return": 1.57
     },
     "IBM": {
         "avg_jump_return": 0.72
+    },
+    "MAR": {
+        "avg_jump_return": 0.56
+    },
+    "NTNX": {
+        "avg_jump_return": 0.4
     }
 }
