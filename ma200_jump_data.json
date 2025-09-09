@@ -2,10 +2,13 @@
     "OXY": {
         "avg_jump_return": 2.94
     },
+    "SMCI": {
+        "avg_jump_return": 71.25
+    },
+    "WMB": {
+        "avg_jump_return": 1.6
+    },
     "PFG": {
         "avg_jump_return": 0.17
-    },
-    "MET": {
-        "avg_jump_return": 0.56
     }
 }
