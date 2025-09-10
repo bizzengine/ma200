@@ -1,11 +1,14 @@
 {
-    "OXY": {
-        "avg_jump_return": 2.94
-    },
     "WMB": {
         "avg_jump_return": 1.6
     },
+    "WST": {
+        "avg_jump_return": 1.39
+    },
     "DLR": {
         "avg_jump_return": 0.93
+    },
+    "OXY": {
+        "avg_jump_return": 2.94
     }
 }
