@@ -1,14 +1,23 @@
 {
+    "DLR": {
+        "avg_jump_return": 0.93
+    },
+    "IRM": {
+        "avg_jump_return": 3.7
+    },
     "OXY": {
         "avg_jump_return": 2.94
-    },
-    "SMCI": {
-        "avg_jump_return": 71.25
     },
     "WMB": {
         "avg_jump_return": 1.6
     },
-    "PFG": {
-        "avg_jump_return": 0.17
+    "RS": {
+        "avg_jump_return": 0.7
+    },
+    "CSX": {
+        "avg_jump_return": -0.57
+    },
+    "EFX": {
+        "avg_jump_return": 0.0
     }
 }
