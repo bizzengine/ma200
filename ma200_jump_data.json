@@ -1,9 +1,21 @@
 {
-    "MSCI": {
-        "avg_jump_return": 1.26
+    "TMO": {
+        "avg_jump_return": -0.38
     },
-    "IRM": {
-        "avg_jump_return": 3.7
+    "EFX": {
+        "avg_jump_return": 0.0
+    },
+    "MAR": {
+        "avg_jump_return": 0.5
+    },
+    "GEHC": {
+        "avg_jump_return": -0.04
+    },
+    "CME": {
+        "avg_jump_return": 0.44
+    },
+    "V": {
+        "avg_jump_return": 0.7
     },
     "LMT": {
         "avg_jump_return": -0.78
@@ -11,34 +23,37 @@
     "RS": {
         "avg_jump_return": 0.7
     },
-    "MET": {
-        "avg_jump_return": 0.54
-    },
-    "TMO": {
-        "avg_jump_return": -0.38
+    "MSCI": {
+        "avg_jump_return": 1.26
     },
     "AMAT": {
         "avg_jump_return": 5.18
     },
+    "MET": {
+        "avg_jump_return": 0.54
+    },
+    "NWS": {
+        "avg_jump_return": 3.2
+    },
     "TRU": {
         "avg_jump_return": -0.39
     },
-    "CME": {
-        "avg_jump_return": 0.44
-    },
-    "CSL": {
-        "avg_jump_return": 3.54
-    },
-    "EFX": {
-        "avg_jump_return": 0.0
-    },
-    "TOST": {
-        "avg_jump_return": -1.91
+    "KMI": {
+        "avg_jump_return": -0.02
     },
     "PCAR": {
         "avg_jump_return": 0.68
     },
+    "TOST": {
+        "avg_jump_return": -1.91
+    },
     "CSX": {
         "avg_jump_return": -0.57
+    },
+    "IRM": {
+        "avg_jump_return": 3.7
+    },
+    "CSL": {
+        "avg_jump_return": 3.54
     }
 }
