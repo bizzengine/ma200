@@ -1,59 +1,74 @@
 {
-    "TMO": {
-        "avg_jump_return": -0.38
-    },
-    "EFX": {
-        "avg_jump_return": 0.0
-    },
-    "MAR": {
-        "avg_jump_return": 0.5
-    },
-    "GEHC": {
-        "avg_jump_return": -0.04
-    },
-    "CME": {
-        "avg_jump_return": 0.44
-    },
     "V": {
         "avg_jump_return": 0.7
-    },
-    "LMT": {
-        "avg_jump_return": -0.78
-    },
-    "RS": {
-        "avg_jump_return": 0.7
-    },
-    "MSCI": {
-        "avg_jump_return": 1.26
-    },
-    "AMAT": {
-        "avg_jump_return": 5.18
-    },
-    "MET": {
-        "avg_jump_return": 0.54
-    },
-    "NWS": {
-        "avg_jump_return": 3.2
     },
     "TRU": {
         "avg_jump_return": -0.39
     },
-    "KMI": {
-        "avg_jump_return": -0.02
-    },
-    "PCAR": {
-        "avg_jump_return": 0.68
-    },
-    "TOST": {
-        "avg_jump_return": -1.91
+    "NWS": {
+        "avg_jump_return": 3.2
     },
     "CSX": {
         "avg_jump_return": -0.57
     },
-    "IRM": {
-        "avg_jump_return": 3.7
+    "EFX": {
+        "avg_jump_return": 0.0
+    },
+    "LMT": {
+        "avg_jump_return": -0.78
+    },
+    "PCAR": {
+        "avg_jump_return": 0.68
+    },
+    "TMO": {
+        "avg_jump_return": -0.38
+    },
+    "AMAT": {
+        "avg_jump_return": 5.18
+    },
+    "MSCI": {
+        "avg_jump_return": 1.26
+    },
+    "PEP": {
+        "avg_jump_return": -0.93
+    },
+    "KMI": {
+        "avg_jump_return": -0.02
+    },
+    "CME": {
+        "avg_jump_return": 0.44
     },
     "CSL": {
         "avg_jump_return": 3.54
+    },
+    "RS": {
+        "avg_jump_return": 0.7
+    },
+    "MET": {
+        "avg_jump_return": 0.54
+    },
+    "NEE": {
+        "avg_jump_return": -0.68
+    },
+    "LUV": {
+        "avg_jump_return": -1.45
+    },
+    "SNA": {
+        "avg_jump_return": 0.23
+    },
+    "APD": {
+        "avg_jump_return": -0.82
+    },
+    "GEHC": {
+        "avg_jump_return": -0.04
+    },
+    "TOST": {
+        "avg_jump_return": -1.91
+    },
+    "MAR": {
+        "avg_jump_return": 0.5
+    },
+    "IRM": {
+        "avg_jump_return": 3.7
     }
 }
