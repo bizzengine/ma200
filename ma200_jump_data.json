@@ -1,11 +1,8 @@
 {
+    "MPLX": {
+        "avg_jump_return": 1.35
+    },
     "NEE": {
         "avg_jump_return": -0.68
-    },
-    "LPLA": {
-        "avg_jump_return": 4.6
-    },
-    "FCNCA": {
-        "avg_jump_return": 6.56
     }
 }
