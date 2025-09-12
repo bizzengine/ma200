@@ -1,11 +1,11 @@
 {
-    "EXR": {
-        "avg_jump_return": 5.9
-    },
     "NEE": {
         "avg_jump_return": -0.68
     },
-    "CI": {
-        "avg_jump_return": -0.74
+    "LPLA": {
+        "avg_jump_return": 4.6
+    },
+    "FCNCA": {
+        "avg_jump_return": 6.56
     }
 }
