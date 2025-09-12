@@ -1,74 +1,11 @@
 {
-    "V": {
-        "avg_jump_return": 0.7
-    },
-    "TRU": {
-        "avg_jump_return": -0.39
-    },
-    "NWS": {
-        "avg_jump_return": 3.2
-    },
-    "CSX": {
-        "avg_jump_return": -0.57
-    },
-    "EFX": {
-        "avg_jump_return": 0.0
-    },
-    "LMT": {
-        "avg_jump_return": -0.78
-    },
-    "PCAR": {
-        "avg_jump_return": 0.68
-    },
-    "TMO": {
-        "avg_jump_return": -0.38
-    },
-    "AMAT": {
-        "avg_jump_return": 5.18
-    },
-    "MSCI": {
-        "avg_jump_return": 1.26
-    },
-    "PEP": {
-        "avg_jump_return": -0.93
-    },
-    "KMI": {
-        "avg_jump_return": -0.02
-    },
-    "CME": {
-        "avg_jump_return": 0.44
-    },
-    "CSL": {
-        "avg_jump_return": 3.54
-    },
-    "RS": {
-        "avg_jump_return": 0.7
-    },
-    "MET": {
-        "avg_jump_return": 0.54
+    "EXR": {
+        "avg_jump_return": 5.9
     },
     "NEE": {
         "avg_jump_return": -0.68
     },
-    "LUV": {
-        "avg_jump_return": -1.45
-    },
-    "SNA": {
-        "avg_jump_return": 0.23
-    },
-    "APD": {
-        "avg_jump_return": -0.82
-    },
-    "GEHC": {
-        "avg_jump_return": -0.04
-    },
-    "TOST": {
-        "avg_jump_return": -1.91
-    },
-    "MAR": {
-        "avg_jump_return": 0.5
-    },
-    "IRM": {
-        "avg_jump_return": 3.7
+    "CI": {
+        "avg_jump_return": -0.74
     }
 }
