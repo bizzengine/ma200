@@ -8,19 +8,16 @@
     "A": {
         "avg_jump_return": 1.7
     },
-    "TMUS": {
-        "avg_jump_return": 3.39
-    },
-    "V": {
-        "avg_jump_return": 0.64
-    },
     "AMAT": {
         "avg_jump_return": 4.93
     },
     "WST": {
         "avg_jump_return": 1.31
     },
-    "TMO": {
-        "avg_jump_return": -0.43
+    "GEHC": {
+        "avg_jump_return": -0.16
+    },
+    "IRM": {
+        "avg_jump_return": 3.5
     }
 }
