@@ -1,23 +1,20 @@
 {
-    "TOST": {
-        "avg_jump_return": -1.92
-    },
-    "APD": {
-        "avg_jump_return": -0.81
-    },
-    "A": {
-        "avg_jump_return": 1.7
-    },
-    "AMAT": {
-        "avg_jump_return": 4.93
-    },
     "WST": {
         "avg_jump_return": 1.31
     },
     "GEHC": {
         "avg_jump_return": -0.16
     },
+    "TOST": {
+        "avg_jump_return": -1.92
+    },
+    "AMAT": {
+        "avg_jump_return": 4.93
+    },
     "IRM": {
         "avg_jump_return": 3.5
+    },
+    "A": {
+        "avg_jump_return": 1.7
     }
 }
