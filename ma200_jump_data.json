@@ -1,62 +1,62 @@
 {
-    "COST": {
-        "avg_jump_return": 2.59
-    },
-    "TOST": {
-        "avg_jump_return": -1.98
-    },
-    "ARCC": {
-        "avg_jump_return": -0.11
-    },
-    "CI": {
-        "avg_jump_return": -0.76
+    "TSN": {
+        "avg_jump_return": 1.38
     },
     "ADP": {
         "avg_jump_return": 0.09
     },
-    "KO": {
-        "avg_jump_return": -0.53
-    },
-    "PEG": {
-        "avg_jump_return": -0.27
+    "DXCM": {
+        "avg_jump_return": 1.82
     },
     "DE": {
         "avg_jump_return": 1.47
     },
+    "GWW": {
+        "avg_jump_return": 8.71
+    },
     "COP": {
         "avg_jump_return": 4.51
     },
-    "DXCM": {
-        "avg_jump_return": 1.82
-    },
-    "ALL": {
-        "avg_jump_return": 0.94
-    },
-    "TSN": {
-        "avg_jump_return": 1.38
-    },
-    "TXN": {
-        "avg_jump_return": -0.41
-    },
-    "TMUS": {
-        "avg_jump_return": 3.53
-    },
-    "HON": {
-        "avg_jump_return": 0.09
-    },
-    "UNP": {
-        "avg_jump_return": 0.19
+    "NEE": {
+        "avg_jump_return": -0.77
     },
     "FCNCA": {
         "avg_jump_return": 6.84
     },
+    "COST": {
+        "avg_jump_return": 2.59
+    },
+    "ARCC": {
+        "avg_jump_return": -0.11
+    },
+    "TXN": {
+        "avg_jump_return": -0.41
+    },
+    "HON": {
+        "avg_jump_return": 0.09
+    },
+    "TMUS": {
+        "avg_jump_return": 3.53
+    },
+    "PEG": {
+        "avg_jump_return": -0.27
+    },
+    "ALL": {
+        "avg_jump_return": 0.94
+    },
     "HPQ": {
         "avg_jump_return": 2.51
     },
-    "NEE": {
-        "avg_jump_return": -0.74
+    "TOST": {
+        "avg_jump_return": -1.96
+    },
+    "KO": {
+        "avg_jump_return": -0.53
     },
     "EIX": {
         "avg_jump_return": -1.02
+    },
+    "CI": {
+        "avg_jump_return": -0.76
     }
 }
