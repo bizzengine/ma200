@@ -1,62 +1,26 @@
 {
-    "COP": {
-        "avg_jump_return": 4.51
+    "CME": {
+        "avg_jump_return": 0.38
     },
-    "HON": {
-        "avg_jump_return": 0.09
+    "V": {
+        "avg_jump_return": 0.64
     },
-    "EIX": {
-        "avg_jump_return": -1.02
+    "DOCU": {
+        "avg_jump_return": 1.7
     },
-    "TXN": {
-        "avg_jump_return": -0.41
+    "KMI": {
+        "avg_jump_return": -0.04
     },
-    "HPQ": {
-        "avg_jump_return": 2.51
-    },
-    "ARCC": {
+    "EPD": {
         "avg_jump_return": -0.11
     },
-    "KO": {
-        "avg_jump_return": -0.53
+    "TOST": {
+        "avg_jump_return": -1.86
     },
-    "NEE": {
-        "avg_jump_return": -0.73
+    "MSCI": {
+        "avg_jump_return": 1.11
     },
-    "DXCM": {
-        "avg_jump_return": 1.82
-    },
-    "ADP": {
-        "avg_jump_return": 0.09
-    },
-    "KMB": {
-        "avg_jump_return": -1.31
-    },
-    "GWW": {
-        "avg_jump_return": 8.71
-    },
-    "FCNCA": {
-        "avg_jump_return": 6.84
-    },
-    "CI": {
-        "avg_jump_return": -0.76
-    },
-    "TMUS": {
-        "avg_jump_return": 3.53
-    },
-    "ALL": {
-        "avg_jump_return": 0.94
-    },
-    "UNP": {
-        "avg_jump_return": 0.19
-    },
-    "DE": {
-        "avg_jump_return": 1.47
-    },
-    "GPN": {
-        "avg_jump_return": -1.77
-    },
-    "COST": {
-        "avg_jump_return": 2.59
+    "LUV": {
+        "avg_jump_return": -1.41
     }
 }
