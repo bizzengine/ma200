@@ -1,505 +1,505 @@
 ﻿symbol,name,today_close,yesterday_close,today_52whigh,yesterday_52whigh,today_200ma,yesterday_200ma
-NVDA,NVIDIA,174.84,177.75,184.48,184.48,140.34,140.15
-MSFT,Microsoft,509.04,,,,,
-AAPL,Apple,238.15,,,,,
-GOOG,Alphabet (Google),251.42,,,,,
-AMZN,Amazon,234.05,231.43,242.52,242.52,214.3,214.14
-META,Meta Platforms (Facebook),779.0,,,,,
-AVGO,Broadcom,360.0,364.09,374.23,374.23,236.37,235.4
-TSLA,Tesla,421.62,410.04,488.54,488.54,331.5,331.09
-BRK-B,Berkshire Hathaway,490.97,,,,,
-JPM,JPMorgan Chase,309.27,,,,,
-ORCL,Oracle,306.64,,,,,
-WMT,Walmart,103.43,,,,,
-LLY,Eli Lilly,764.72,,,,,
-V,Visa,340.05,,,,,
-MA,Mastercard,586.5,582.96,601.77,601.77,553.17,552.87
-NFLX,Netflix,1200.51,,,,,
-XOM,Exxon Mobil,114.7,,,,,
-COST,Costco,952.07,960.1,1078.23,1078.23,976.7,976.74
-JNJ,Johnson & Johnson,176.49,,,,,
-HD,Home Depot,421.53,422.71,439.37,439.37,383.75,383.79
-PLTR,Palantir,170.26,,,,,
-ABBV,AbbVie,216.29,,,,,
-BAC,Bank of America,50.69,50.59,51.09,51.09,44.89,44.88
-PG,Procter & Gamble,158.07,,,,,
-UNH,UnitedHealth,339.77,347.89,630.73,630.73,416.42,417.75
-CVX,Chevron,159.52,,,,,
-GE,General Electric,293.03,286.78,294.74,287.11,220.23,219.67
-KO,Coca-Cola,66.27,66.21,74.38,74.38,68.38,68.37
-TMUS,T-Mobile US,237.62,239.74,276.49,276.49,242.98,242.99
-CSCO,Cisco,66.93,,,,,
-WFC,Wells Fargo,81.39,,,,,
-PM,Philip Morris International,163.01,161.64,186.69,186.69,156.61,156.45
-AMD,AMD,160.46,,,,,
-MS,Morgan Stanley,155.81,,,,,
-GS,Goldman Sachs,785.55,786.76,793.17,793.17,627.53,626.61
-IBM,IBM,257.56,256.24,296.16,296.16,250.67,250.51
-ABT,Abbott Laboratories,132.76,131.33,141.23,141.23,128.13,128.05
-CRM,Salesforce,239.29,,,,,
-AXP,American Express,327.14,,,,,
-BX,Blackstone Group,183.68,,,,,
-MCD,McDonald,303.37,,,,,
-T,AT&T,29.34,,,,,
-RTX,RTX,158.57,158.37,161.26,161.26,135.06,134.86
-DIS,Walt Disney,115.28,,,,,
-MRK,Merck,81.11,,,,,
-CAT,Caterpillar,440.68,,,,,
-UBER,Uber,97.86,,,,,
-APP,AppLovin,603.8,593.14,605.38,595.27,359.63,358.21
-PEP,Pepsico,140.03,,,,,
-NOW,ServiceNow,931.86,,,,,
-VZ,Verizon,43.75,,,,,
-C,Citigroup,100.68,,,,,
-TMO,Thermo Fisher Scientific,480.82,,,,,
+NVDA,NVIDIA,170.95,177.75,184.48,184.48,140.32,140.15
+MSFT,Microsoft,506.59,,,,,
+AAPL,Apple,239.8,,,,,
+GOOG,Alphabet (Google),251.05,,,,,
+AMZN,Amazon,231.18,231.43,242.52,242.52,214.29,214.14
+META,Meta Platforms (Facebook),771.5,,,,,
+AVGO,Broadcom,349.72,364.09,374.23,374.23,236.32,235.4
+TSLA,Tesla,415.06,410.04,488.54,488.54,331.47,331.09
+BRK-B,Berkshire Hathaway,492.32,,,,,
+JPM,JPMorgan Chase,311.47,,,,,
+ORCL,Oracle,,,,,,
+WMT,Walmart,104.75,,,,,
+LLY,Eli Lilly,771.62,,,,,
+V,Visa,340.88,,,,,
+MA,Mastercard,591.3,582.96,601.77,601.77,553.2,552.87
+NFLX,Netflix,1213.82,,,,,
+XOM,Exxon Mobil,115.05,,,,,
+COST,Costco,959.46,960.1,1078.23,1078.23,976.74,976.74
+JNJ,Johnson & Johnson,177.39,,,,,
+HD,Home Depot,423.04,422.71,439.37,439.37,383.76,383.79
+PLTR,Palantir,166.68,,,,,
+ABBV,AbbVie,,,,,,
+BAC,Bank of America,51.44,50.59,51.47,51.09,44.9,44.88
+PG,Procter & Gamble,159.85,,,,,
+UNH,UnitedHealth,340.17,347.89,630.73,630.73,416.43,417.75
+CVX,Chevron,160.24,,,,,
+GE,General Electric,289.71,286.78,292.71,287.11,220.21,219.67
+KO,Coca-Cola,66.83,66.21,74.38,74.38,68.39,68.37
+TMUS,T-Mobile US,239.01,239.74,276.49,276.49,242.99,242.99
+CSCO,Cisco,67.06,,,,,
+WFC,Wells Fargo,,,,,,
+PM,Philip Morris International,163.93,161.64,186.69,186.69,156.62,156.45
+AMD,AMD,160.64,,,,,
+MS,Morgan Stanley,157.12,,,,,
+GS,Goldman Sachs,793.51,786.76,796.16,793.17,627.57,626.61
+IBM,IBM,258.62,256.24,296.16,296.16,250.67,250.51
+ABT,Abbott Laboratories,133.05,131.33,141.23,141.23,128.13,128.05
+CRM,Salesforce,241.13,,,,,
+AXP,American Express,336.42,,,,,
+BX,Blackstone Group,184.96,,,,,
+MCD,McDonald,304.8,,,,,
+T,AT&T,29.42,,,,,
+RTX,RTX,158.99,158.37,161.26,161.26,135.06,134.86
+DIS,Walt Disney,116.04,,,,,
+MRK,Merck,81.77,,,,,
+CAT,Caterpillar,445.86,,,,,
+UBER,Uber,93.75,,,,,
+APP,AppLovin,610.75,593.14,613.69,595.27,359.67,358.21
+PEP,Pepsico,141.7,,,,,
+NOW,ServiceNow,941.85,,,,,
+VZ,Verizon,44.18,,,,,
+C,Citigroup,101.82,,,,,
+TMO,Thermo Fisher Scientific,479.4,,,,,
 INTU,Intuit,,,,,,
-BKNG,Booking Holdings (Booking.com),5475.01,,,,,
-MU,Micron Technology,158.82,,,,,
-ANET,Arista Networks,142.14,145.43,156.32,156.32,104.24,104.03
-QCOM,QUALCOMM,164.14,,,,,
-BLK,BlackRock,1117.98,,,,,
-GEV,GE Vernova,617.65,628.68,677.29,677.29,436.97,435.53
-SCHW,Charles Schwab,91.0,,,,,
-SPGI,S&P Global,541.2,,,,,
-TXN,Texas Instruments,177.63,178.2,221.69,221.69,187.74,187.86
-BA,Boeing,214.98,,,,,
-ISRG,Intuitive Surgical,434.5,433.99,616.0,616.0,524.05,524.56
-TJX,TJX Companies,139.52,,,,,
-LOW,Lowe's Companies,270.55,272.09,287.01,287.01,239.98,240.01
-BSX,Boston Scientific,98.98,,,,,
-AMGN,Amgen,273.08,,,,,
-ADBE,Adobe,352.73,,,,,
-LRCX,Lam Research,120.47,119.21,120.92,119.33,84.65,84.42
-NEE,Nextera Energy,69.83,71.5,86.1,86.1,71.3,71.33
-SYK,Stryker Corporation,376.57,,,,,
-PGR,Progressive,245.02,,,,,
-APH,Amphenol,119.05,,,,,
+BKNG,Booking Holdings (Booking.com),5459.04,,,,,
+MU,Micron Technology,158.69,,,,,
+ANET,Arista Networks,140.51,145.43,156.32,156.32,104.23,104.03
+QCOM,QUALCOMM,164.96,,,,,
+BLK,BlackRock,1125.07,,,,,
+GEV,GE Vernova,612.14,628.68,677.29,677.29,436.95,435.53
+SCHW,Charles Schwab,91.5,,,,,
+SPGI,S&P Global,544.09,,,,,
+TXN,Texas Instruments,180.01,178.2,221.69,221.69,187.75,187.86
+BA,Boeing,215.74,,,,,
+ISRG,Intuitive Surgical,434.0,433.99,616.0,616.0,524.05,524.56
+TJX,TJX Companies,139.9,,,,,
+LOW,Lowe's Companies,270.58,272.09,287.01,287.01,239.99,240.01
+BSX,Boston Scientific,97.76,,,,,
+AMGN,Amgen,274.97,,,,,
+ADBE,Adobe,359.92,,,,,
+LRCX,Lam Research,122.68,119.21,122.8,119.33,84.67,84.42
+NEE,Nextera Energy,70.71,71.5,86.1,86.1,71.31,71.33
+SYK,Stryker Corporation,375.49,,,,,
+PGR,Progressive,240.89,,,,,
+APH,Amphenol,118.82,,,,,
 COF,Capital One,,226.53,,232.45,,195.25
-GILD,Gilead Sciences,110.86,,,,,
-DHR,Danaher,190.47,,,,,
-PFE,Pfizer,23.88,,,,,
-HON,Honeywell,210.95,211.74,242.77,242.77,218.9,219.0
-AMAT,Applied Materials,173.54,,,,,
-KKR,KKR & Co.,144.38,,,,,
-PANW,Palo Alto Networks,201.34,,,,,
-UNP,Union Pacific Corporation,215.98,216.25,256.84,256.84,229.74,229.91
+GILD,Gilead Sciences,111.75,,,,,
+DHR,Danaher,192.55,,,,,
+PFE,Pfizer,24.27,,,,,
+HON,Honeywell,213.15,211.74,242.77,242.77,218.91,219.0
+AMAT,Applied Materials,177.72,,,,,
+KKR,KKR & Co.,146.03,,,,,
+PANW,Palo Alto Networks,204.35,,,,,
+UNP,Union Pacific Corporation,217.93,216.25,256.84,256.84,229.75,229.91
 KLAC,KLA,,988.91,,990.0,,770.79
-DE,Deere &amp; Company (John Deere),468.71,469.11,533.78,533.78,479.63,479.6
-CMCSA,Comcast,32.29,32.62,45.31,45.31,35.49,35.54
-ADI,Analog Devices,244.1,,,,,
-ADP,Automatic Data Processing,288.69,290.87,329.93,329.93,303.32,303.4
-COP,ConocoPhillips,94.53,92.33,116.08,116.08,95.45,95.51
-WELL,Welltower,165.2,,,,,
-INTC,Intel,25.27,,,,,
-MO,Altria Group,64.82,,,,,
-DASH,DoorDash,263.09,258.09,278.15,278.15,206.5,206.08
-LMT,Lockheed Martin,474.31,,,,,
-CRWD,CrowdStrike,444.98,,,,,
-IBKR,Interactive Brokers,62.48,62.25,68.07,68.07,51.88,51.81
-NKE,Nike,72.73,,,,,
-PLD,Prologis,113.97,,,,,
-HOOD,Robinhood,117.38,114.83,123.44,123.44,65.83,65.43
-SO,Southern Company,91.38,,,,,
-VRTX,Vertex Pharmaceuticals,391.36,,,,,
-CEG,Constellation Energy,322.91,330.42,357.0,357.0,277.82,277.45
+DE,Deere &amp; Company (John Deere),473.58,469.11,533.78,533.78,479.66,479.6
+CMCSA,Comcast,32.51,32.62,45.31,45.31,35.49,35.54
+ADI,Analog Devices,247.18,,,,,
+ADP,Automatic Data Processing,288.8,290.87,329.93,329.93,303.32,303.4
+COP,ConocoPhillips,93.93,92.33,116.08,116.08,95.45,95.51
+WELL,Welltower,164.46,,,,,
+INTC,Intel,25.07,,,,,
+MO,Altria Group,65.11,,,,,
+DASH,DoorDash,265.32,258.09,278.15,278.15,206.51,206.08
+LMT,Lockheed Martin,474.4,,,,,
+CRWD,CrowdStrike,451.41,,,,,
+IBKR,Interactive Brokers,62.58,62.25,68.07,68.07,51.88,51.81
+NKE,Nike,72.83,,,,,
+PLD,Prologis,115.06,,,,,
+HOOD,Robinhood,118.14,114.83,123.44,123.44,65.84,65.43
+SO,Southern Company,91.69,,,,,
+VRTX,Vertex Pharmaceuticals,393.98,,,,,
+CEG,Constellation Energy,324.13,330.42,357.0,357.0,277.83,277.45
 MMC,Marsh & McLennan Companies,,,,,,
-ICE,Intercontinental Exchange,171.4,172.23,189.35,189.35,169.67,169.61
-PH,Parker-Hannifin,753.47,759.96,779.77,779.77,671.24,671.0
-CVS,CVS Health,73.48,73.46,75.55,75.55,62.55,62.48
-DUK,Duke Energy,120.25,,,,,
-HCA,HCA Healthcare,399.56,,,,,
-CME,CME Group,259.83,,,,,
-BMY,Bristol-Myers Squibb,46.33,,,,,
+ICE,Intercontinental Exchange,172.54,172.23,189.35,189.35,169.68,169.61
+PH,Parker-Hannifin,752.22,759.96,779.77,779.77,671.24,671.0
+CVS,CVS Health,74.26,73.46,75.55,75.55,62.55,62.48
+DUK,Duke Energy,120.62,,,,,
+HCA,HCA Healthcare,397.16,,,,,
+CME,CME Group,261.31,,,,,
+BMY,Bristol-Myers Squibb,46.6,,,,,
 MSTR,"Strategy 
- (MicroStrategy)",335.09,,,,,
-CDNS,Cadence Design Systems,349.01,,,,,
-SBUX,Starbucks,84.37,,,,,
-RBLX,Roblox,135.83,,,,,
-MCO,Moody's,507.99,,,,,
-RCL,Royal Caribbean Group,321.72,,,,,
-AMT,American Tower,194.73,,,,,
-ORLY,O'Reilly Automotive,105.39,,,,,
-SHW,Sherwin-Williams,353.17,,,,,
-MCK,McKesson,692.95,,,,,
-WM,Waste Management,213.9,,,,,
-GD,General Dynamics,326.43,,,,,
-NEM,Newmont,79.03,79.36,80.07,80.07,52.69,52.5
-SCCO,Southern Copper,108.45,,,,,
-MMM,3M,156.47,156.66,164.15,164.15,145.63,145.5
-DELL,Dell,127.67,,,,,
-COIN,Coinbase,327.91,,,,,
-NOC,Northrop Grumman,579.64,,,,,
-CTAS,Cintas,199.29,,,,,
-CI,The Cigna Group,294.02,297.14,370.83,370.83,306.45,306.64
-MSI,Motorola Solutions,476.71,,,,,
-MDLZ,Mondelez International,62.7,,,,,
-PNC,PNC Financial Services,200.99,202.46,216.26,216.26,186.41,186.47
-SNPS,Synopsys,425.97,419.2,651.73,651.73,509.09,509.77
-APO,Apollo Global Management,140.02,,,,,
-ECL,Ecolab,264.01,,,,,
-EQIX,Equinix,779.31,,,,,
-NET,Cloudflare,219.31,226.01,230.1,230.1,152.3,151.73
-ITW,Illinois Tool Works,261.79,263.87,279.13,279.13,254.47,254.55
-USB,U.S. Bancorp,48.42,,,,,
-AJG,Arthur J. Gallagher & Co.,291.46,,,,,
-EMR,Emerson,129.04,,,,,
-BK,BNY Mellon (Bank of New York Mellon),105.49,106.42,107.01,107.01,88.24,88.12
-ABNB,Airbnb,121.66,,,,,
-SNOW,Snowflake,216.07,,,,,
-HWM,Howmet Aerospace,187.46,,,,,
-FI,Fiserv,132.77,,,,,
-MAR,Marriott International,267.89,,,,,
-AZO,AutoZone,4212.75,4233.3,4388.11,4388.11,3642.68,3637.16
-WMB,Williams Companies,57.94,58.4,63.45,63.45,57.78,57.78
-TDG,TransDigm Group,1282.12,,,,,
-UPS,United Parcel Service,85.17,,,,,
-RSG,Republic Services,225.3,,,,,
-VST,Vistra,209.42,,,,,
-ELV,Elevance Health,309.98,306.91,559.95,559.95,374.73,375.22
-SPG,Simon Property Group,181.52,,,,,
-EPD,Enterprise Products,31.77,,,,,
-ADSK,Autodesk,318.51,,,,,
-CL,Colgate-Palmolive,81.48,,,,,
-GLW,Corning,78.71,77.98,78.81,78.33,52.03,51.88
-ZTS,Zoetis,147.45,,,,,
-APD,Air Products and Chemicals,284.96,,,,,
-HLT,Hilton Worldwide,273.83,,,,,
-EOG,EOG Resources,120.79,,,,,
-FCX,Freeport-McMoRan,45.3,45.64,52.61,52.61,40.03,40.02
-PYPL,PayPal,66.85,,,,,
-GBTC,Grayscale Bitcoin Trust,91.73,,,,,
-MNST,Monster Beverage,66.16,,,,,
-TRV,The Travelers Companies,272.01,,,,,
-NSC,Norfolk Southern,278.03,,,,,
-KMI,Kinder Morgan,27.2,,,,,
-ALNY,Alnylam Pharmaceuticals,461.24,,,,,
-FTNT,Fortinet,79.78,81.0,114.82,114.82,97.66,97.73
-CSX,CSX Corporation,32.47,,,,,
-URI,United Rentals,958.64,,,,,
-DLR,Digital Realty,173.96,,,,,
-ET,Energy Transfer Partners,17.57,,,,,
-ARES,Ares Management,178.61,179.92,200.49,200.49,171.28,171.27
-WDAY,Workday,219.01,,,,,
-AXON,Axon Enterprise,750.67,760.79,885.92,885.92,668.95,668.29
-REGN,Regeneron Pharmaceuticals,575.06,,,,,
-CPNG,Coupang,33.33,33.5,33.71,33.56,25.79,25.75
-COR,Cencora,290.02,,,,,
-AEP,American Electric Power,106.84,,,,,
-AFL,Aflac,107.62,,,,,
-TFC,Truist Financial,44.56,,,,,
-MRVL,Marvell Technology,68.86,,,,,
-PWR,Quanta Services,378.24,,,,,
-CMI,Cummins,415.72,,,,,
-GM,General Motors,58.47,,,,,
-O,Realty Income,59.99,,,,,
-ROP,Roper Technologies,502.3,505.23,595.17,595.17,554.28,554.55
-MPC,Marathon Petroleum,182.97,179.94,186.28,186.28,154.95,154.82
-SRE,Sempra Energy,82.7,,,,,
-CRWV,CoreWeave,118.75,,,,,
-FAST,Fastenal,47.25,,,,,
-FDX,FedEx,227.64,,,,,
-NDAQ,Nasdaq,92.54,,,,,
+ (MicroStrategy)",339.42,,,,,
+CDNS,Cadence Design Systems,345.34,,,,,
+SBUX,Starbucks,84.24,,,,,
+RBLX,Roblox,133.75,,,,,
+MCO,Moody's,513.68,,,,,
+RCL,Royal Caribbean Group,322.01,,,,,
+AMT,American Tower,195.82,,,,,
+ORLY,O'Reilly Automotive,104.22,,,,,
+SHW,Sherwin-Williams,353.87,,,,,
+MCK,McKesson,694.9,,,,,
+WM,Waste Management,215.42,,,,,
+GD,General Dynamics,327.26,,,,,
+NEM,Newmont,79.1,79.36,80.07,80.07,52.69,52.5
+SCCO,Southern Copper,108.32,,,,,
+MMM,3M,157.54,156.66,164.15,164.15,145.64,145.5
+DELL,Dell,130.46,,,,,
+COIN,Coinbase,327.0,,,,,
+NOC,Northrop Grumman,580.63,,,,,
+CTAS,Cintas,200.92,,,,,
+CI,The Cigna Group,298.28,297.14,370.83,370.83,306.47,306.64
+MSI,Motorola Solutions,476.65,,,,,
+MDLZ,Mondelez International,63.43,,,,,
+PNC,PNC Financial Services,203.6,202.46,216.26,216.26,186.42,186.47
+SNPS,Synopsys,422.31,419.2,651.73,651.73,509.07,509.77
+APO,Apollo Global Management,143.27,,,,,
+ECL,Ecolab,265.59,,,,,
+EQIX,Equinix,785.39,,,,,
+NET,Cloudflare,215.3,226.01,230.1,230.1,152.28,151.73
+ITW,Illinois Tool Works,264.47,263.87,279.13,279.13,254.49,254.55
+USB,U.S. Bancorp,49.41,,,,,
+AJG,Arthur J. Gallagher & Co.,292.92,,,,,
+EMR,Emerson,130.92,,,,,
+BK,BNY Mellon (Bank of New York Mellon),106.17,106.42,107.01,107.01,88.24,88.12
+ABNB,Airbnb,124.19,,,,,
+SNOW,Snowflake,217.35,,,,,
+HWM,Howmet Aerospace,186.77,,,,,
+FI,Fiserv,134.7,,,,,
+MAR,Marriott International,266.59,,,,,
+AZO,AutoZone,4223.93,4233.3,4388.11,4388.11,3642.74,3637.16
+WMB,Williams Companies,58.72,58.4,63.45,63.45,57.78,57.78
+TDG,TransDigm Group,1276.97,,,,,
+UPS,United Parcel Service,85.51,,,,,
+RSG,Republic Services,226.83,,,,,
+VST,Vistra,210.85,,,,,
+ELV,Elevance Health,312.88,306.91,559.95,559.95,374.74,375.22
+SPG,Simon Property Group,182.35,,,,,
+EPD,Enterprise Products,32.1,,,,,
+ADSK,Autodesk,321.92,,,,,
+CL,Colgate-Palmolive,82.5,,,,,
+GLW,Corning,77.81,77.98,78.68,78.33,52.03,51.88
+ZTS,Zoetis,148.06,,,,,
+APD,Air Products and Chemicals,287.8,,,,,
+HLT,Hilton Worldwide,269.77,,,,,
+EOG,EOG Resources,119.68,,,,,
+FCX,Freeport-McMoRan,45.53,45.64,52.61,52.61,40.03,40.02
+PYPL,PayPal,,,,,,
+GBTC,Grayscale Bitcoin Trust,91.22,,,,,
+MNST,Monster Beverage,66.51,,,,,
+TRV,The Travelers Companies,274.72,,,,,
+NSC,Norfolk Southern,279.3,,,,,
+KMI,Kinder Morgan,27.4,,,,,
+ALNY,Alnylam Pharmaceuticals,463.1,,,,,
+FTNT,Fortinet,80.29,81.0,114.82,114.82,97.67,97.73
+CSX,CSX Corporation,32.85,,,,,
+URI,United Rentals,956.01,,,,,
+DLR,Digital Realty,173.76,,,,,
+ET,Energy Transfer Partners,17.64,,,,,
+ARES,Ares Management,181.46,179.92,200.49,200.49,171.3,171.27
+WDAY,Workday,238.64,,,,,
+AXON,Axon Enterprise,756.89,760.79,885.92,885.92,668.98,668.29
+REGN,Regeneron Pharmaceuticals,584.89,,,,,
+CPNG,Coupang,33.42,33.5,33.56,33.56,25.79,25.75
+COR,Cencora,291.52,,,,,
+AEP,American Electric Power,107.43,,,,,
+AFL,Aflac,108.81,,,,,
+TFC,Truist Financial,45.1,,,,,
+MRVL,Marvell Technology,,,,,,
+PWR,Quanta Services,379.84,,,,,
+CMI,Cummins,419.83,,,,,
+GM,General Motors,58.75,,,,,
+O,Realty Income,60.21,,,,,
+ROP,Roper Technologies,507.92,505.23,595.17,595.17,554.3,554.55
+MPC,Marathon Petroleum,184.82,179.94,186.28,186.28,154.96,154.82
+SRE,Sempra Energy,83.62,,,,,
+CRWV,CoreWeave,117.27,,,,,
+FAST,Fastenal,47.39,,,,,
+FDX,FedEx,229.6,,,,,
+NDAQ,Nasdaq,93.74,,,,,
 PCAR,Paccar,,,,,,
-MET,MetLife,78.74,,,,,
-BDX,Becton Dickinson,186.14,,,,,
-SLB,SLB (Schlumberger),35.24,,,,,
-DHI,D. R. Horton,171.75,172.09,199.85,199.85,138.59,138.6
-PSX,Phillips 66,133.04,,,,,
-ALL,Allstate,196.31,196.89,214.76,214.76,198.16,198.19
-CARR,Carrier Global,60.94,,,,,
-LHX,L3Harris Technologies,284.23,281.89,286.81,282.22,234.24,234.02
-MPLX,MPLX,51.06,51.22,54.87,54.87,51.0,50.99
-LNG,Cheniere Energy,234.94,232.82,257.65,257.65,228.64,228.56
-CMG,Chipotle Mexican Grill,39.29,38.58,66.74,66.74,52.05,52.17
-VRT,Vertiv Holdings,136.64,138.26,155.84,155.84,112.42,112.39
-IDXX,IDEXX Laboratories,645.65,,,,,
-PSA,Public Storage,284.84,,,,,
-D,Dominion Energy,59.41,,,,,
-CTVA,Corteva,69.91,70.07,77.41,77.41,66.04,66.01
-CBRE,CBRE Group,162.93,,,,,
-VLO,Valero Energy,162.63,,,,,
-PAYX,Paychex,131.62,,,,,
-ROST,Ross Stores,146.45,,,,,
-GWW,W. W. Grainger,994.45,1012.62,1227.66,1227.66,1041.63,1042.74
-DDOG,Datadog,134.6,,,,,
-RDDT,Reddit,266.59,,,,,
-AMP,Ameriprise Financial,486.13,,,,,
-CPRT,Copart,46.57,47.6,64.38,64.38,54.34,54.43
-WBD,Warner Bros. Discovery,18.25,,,,,
-F,Ford,11.61,,,,,
-OKE,Oneok,72.58,,,,,
-BKR,Baker Hughes,47.23,,,,,
-EW,Edwards Lifesciences,75.1,,,,,
-TTWO,Take-Two Interactive,247.73,,,,,
-VEEV,Veeva Systems,273.74,276.27,296.72,296.72,248.6,248.36
-WCN,Waste Connections,173.57,,,,,
-KR,Kroger,66.75,67.41,74.9,74.9,66.73,66.7
-MSCI,MSCI,567.19,,,,,
-OXY,Occidental Petroleum,47.76,,,,,
-RKT,Rocket Companies,20.75,,,,,
-XYZ,Block,75.8,,,,,
-ZS,Zscaler,281.96,,,,,
-AME,Ametek,187.18,,,,,
-EXC,Exelon Corporation,42.73,,,,,
-AIG,American International Group,76.34,,,,,
-XEL,Xcel Energy,72.11,,,,,
-EA,Electronic Arts,172.08,171.77,180.9,180.9,149.24,149.2
-CCL,Carnival Corporation,31.2,,,,,
-KMB,Kimberly-Clark,125.04,125.47,150.45,150.45,133.67,133.74
-CVNA,Carvana,364.34,,,,,
-CCI,Crown Castle,93.57,,,,,
-EBAY,eBay,88.85,,,,,
-YUM,Yum! Brands,147.95,,,,,
-PEG,PSEG,81.21,82.97,95.22,95.22,83.3,83.36
-TGT,Target,89.71,,,,,
-ETR,Entergy,88.26,,,,,
-LYV,Live Nation,170.5,172.38,175.25,175.25,142.21,142.06
-MPWR,Monolithic Power Systems,857.02,,,,,
-FANG,Diamondback Energy,138.42,,,,,
-RMD,ResMed,272.73,271.19,293.81,293.81,246.54,246.43
-DAL,Delta Air Lines,57.87,,,,,
-VMC,Vulcan Materials,291.96,,,,,
-SYY,Sysco,81.53,79.87,83.17,83.17,75.39,75.37
-ROK,Rockwell Automation,342.19,,,,,
-HEI,HEICO,322.63,323.44,338.92,338.92,275.27,275.04
-ALAB,Astera Labs,238.79,231.29,241.26,237.82,108.64,107.98
-PRU,Prudential Financial,102.14,,,,,
-HSY,The Hershey Company,193.35,,,,,
-HIG,The Hartford,129.67,,,,,
-MLM,Martin Marietta Materials,609.55,,,,,
-FICO,FICO,1552.71,1555.21,2402.52,2402.52,1805.82,1809.86
-KDP,Keurig Dr Pepper,26.96,,,,,
-CSGP,CoStar Group,88.13,,,,,
-LVS,Las Vegas Sands,51.86,,,,,
-VRSK,Verisk Analytics,251.83,,,,,
-UI,Ubiquiti,597.6,,,,,
-KVUE,Kenvue,18.13,,,,,
-ONC,BeOne Medicines,327.2,,,,,
-CAH,Cardinal Health,148.39,,,,,
-CHTR,Charter Communications,261.08,260.72,437.06,437.06,354.1,354.71
-TRGP,Targa Resources,162.88,,,,,
-WEC,WEC Energy Group,108.69,110.97,111.9,111.9,104.31,104.27
-LEN,Lennar,133.8,133.77,187.61,187.61,122.4,122.59
-VICI,VICI Properties,32.65,,,,,
-ED,Consolidated Edison,95.58,,,,,
-OTIS,Otis Worldwide,89.23,,,,,
-A,Agilent Technologies,127.18,,,,,
-MCHP,Microchip Technology,64.45,,,,,
-FIS,Fidelity National Information Services,66.43,,,,,
-GEHC,GE HealthCare Technologies,77.48,77.76,94.8,94.8,77.21,77.24
-UAL,United Airlines Holdings,104.2,,,,,
-XYL,Xylem,140.71,141.74,145.33,145.33,126.6,126.55
-PCG,Pacific Gas and Electric,14.95,,,,,
-RJF,Raymond James,169.13,168.26,174.32,174.32,154.58,154.57
-WDC,Western Digital,103.09,,,,,
-CTSH,Cognizant Technology Solutions,69.17,,,,,
-HUM,Humana,272.33,,,,,
-VG,Venture Global,14.1,,,,,
-HPE,Hewlett Packard Enterprise,24.42,24.84,25.1,25.1,19.62,19.61
-EXR,Extra Space Storage,143.44,,,,,
-NUE,Nucor,143.0,141.57,170.52,170.52,129.32,129.37
-DD,Dupont De Nemours,77.17,77.11,90.06,90.06,73.66,73.69
-WAB,Wabtec,187.59,,,,,
-TSCO,Tractor Supply,58.99,59.61,63.99,63.99,54.89,54.89
-STT,State Street Corporation,110.48,,,,,
-NRG,NRG Energy,164.22,166.08,175.96,175.96,124.18,123.82
+MET,MetLife,79.22,,,,,
+BDX,Becton Dickinson,187.72,,,,,
+SLB,SLB (Schlumberger),35.01,,,,,
+DHI,D. R. Horton,173.4,172.09,199.85,199.85,138.6,138.6
+PSX,Phillips 66,133.96,,,,,
+ALL,Allstate,197.8,196.89,214.76,214.76,198.17,198.19
+CARR,Carrier Global,62.01,,,,,
+LHX,L3Harris Technologies,283.52,281.89,286.01,282.22,234.23,234.02
+MPLX,MPLX,51.19,51.22,54.87,54.87,51.0,50.99
+LNG,Cheniere Energy,235.19,232.82,257.65,257.65,228.64,228.56
+CMG,Chipotle Mexican Grill,39.7,38.58,66.74,66.74,52.06,52.17
+VRT,Vertiv Holdings,135.26,138.26,155.84,155.84,112.41,112.39
+IDXX,IDEXX Laboratories,643.4,,,,,
+PSA,Public Storage,287.13,,,,,
+D,Dominion Energy,,,,,,
+CTVA,Corteva,70.21,70.07,77.41,77.41,66.04,66.01
+CBRE,CBRE Group,164.35,,,,,
+VLO,Valero Energy,164.17,,,,,
+PAYX,Paychex,132.93,,,,,
+ROST,Ross Stores,147.31,,,,,
+GWW,W. W. Grainger,997.98,1012.62,1227.66,1227.66,1041.65,1042.74
+DDOG,Datadog,135.41,,,,,
+RDDT,Reddit,254.0,,,,,
+AMP,Ameriprise Financial,490.36,,,,,
+CPRT,Copart,,47.6,,64.38,,54.43
+WBD,Warner Bros. Discovery,18.13,,,,,
+F,Ford,11.7,,,,,
+OKE,Oneok,72.98,,,,,
+BKR,Baker Hughes,47.15,,,,,
+EW,Edwards Lifesciences,76.01,,,,,
+TTWO,Take-Two Interactive,247.89,,,,,
+VEEV,Veeva Systems,272.67,276.27,296.72,296.72,248.59,248.36
+WCN,Waste Connections,174.7,,,,,
+KR,Kroger,66.89,67.41,74.9,74.9,66.73,66.7
+MSCI,MSCI,573.27,,,,,
+OXY,Occidental Petroleum,47.47,,,,,
+RKT,Rocket Companies,20.98,,,,,
+XYZ,Block,,,,,,
+ZS,Zscaler,285.48,,,,,
+AME,Ametek,187.38,,,,,
+EXC,Exelon Corporation,43.15,,,,,
+AIG,American International Group,76.86,,,,,
+XEL,Xcel Energy,72.62,,,,,
+EA,Electronic Arts,171.16,171.77,180.9,180.9,149.23,149.2
+CCL,Carnival Corporation,,,,,,
+KMB,Kimberly-Clark,126.36,125.47,150.45,150.45,133.68,133.74
+CVNA,Carvana,369.76,,,,,
+CCI,Crown Castle,94.77,,,,,
+EBAY,eBay,89.44,,,,,
+YUM,Yum! Brands,149.08,,,,,
+PEG,PSEG,81.56,82.97,95.22,95.22,83.31,83.36
+TGT,Target,90.36,,,,,
+ETR,Entergy,88.11,,,,,
+LYV,Live Nation,170.0,172.38,175.25,175.25,142.2,142.06
+MPWR,Monolithic Power Systems,861.42,,,,,
+FANG,Diamondback Energy,139.74,,,,,
+RMD,ResMed,270.77,271.19,293.81,293.81,246.54,246.43
+DAL,Delta Air Lines,59.39,,,,,
+VMC,Vulcan Materials,294.26,,,,,
+SYY,Sysco,81.93,79.87,83.17,83.17,75.4,75.37
+ROK,Rockwell Automation,341.02,,,,,
+HEI,HEICO,322.23,323.44,338.92,338.92,275.27,275.04
+ALAB,Astera Labs,242.74,231.29,246.12,237.82,108.66,107.98
+PRU,Prudential Financial,102.74,,,,,
+HSY,The Hershey Company,193.71,,,,,
+HIG,The Hartford,130.46,,,,,
+MLM,Martin Marietta Materials,618.21,,,,,
+FICO,FICO,1577.28,1555.21,2402.52,2402.52,1805.95,1809.86
+KDP,Keurig Dr Pepper,27.06,,,,,
+CSGP,CoStar Group,89.47,,,,,
+LVS,Las Vegas Sands,52.27,,,,,
+VRSK,Verisk Analytics,253.59,,,,,
+UI,Ubiquiti,592.48,,,,,
+KVUE,Kenvue,18.38,,,,,
+ONC,BeOne Medicines,332.75,,,,,
+CAH,Cardinal Health,148.01,,,,,
+CHTR,Charter Communications,268.5,260.72,437.06,437.06,354.13,354.71
+TRGP,Targa Resources,163.71,,,,,
+WEC,WEC Energy Group,,110.97,,111.9,,104.27
+LEN,Lennar,135.02,133.77,187.61,187.61,122.4,122.59
+VICI,VICI Properties,32.74,,,,,
+ED,Consolidated Edison,96.57,,,,,
+OTIS,Otis Worldwide,90.98,,,,,
+A,Agilent Technologies,128.62,,,,,
+MCHP,Microchip Technology,64.91,,,,,
+FIS,Fidelity National Information Services,67.21,,,,,
+GEHC,GE HealthCare Technologies,77.89,77.76,94.8,94.8,77.21,77.24
+UAL,United Airlines Holdings,105.96,,,,,
+XYL,Xylem,141.9,141.74,145.33,145.33,126.61,126.55
+PCG,Pacific Gas and Electric,15.09,,,,,
+RJF,Raymond James,171.04,168.26,174.32,174.32,154.59,154.57
+WDC,Western Digital,100.97,,,,,
+CTSH,Cognizant Technology Solutions,70.79,,,,,
+HUM,Humana,270.86,,,,,
+VG,Venture Global,14.13,,,,,
+HPE,Hewlett Packard Enterprise,24.75,24.84,25.1,25.1,19.62,19.61
+EXR,Extra Space Storage,144.45,,,,,
+NUE,Nucor,143.25,141.57,170.52,170.52,129.32,129.37
+DD,Dupont De Nemours,77.75,77.11,90.06,90.06,73.66,73.69
+WAB,Wabtec,188.52,,,,,
+TSCO,Tractor Supply,59.23,59.61,63.99,63.99,54.9,54.89
+STT,State Street Corporation,111.62,,,,,
+NRG,NRG Energy,165.88,166.08,175.96,175.96,124.19,123.82
 IQV,IQVIA,,185.97,,248.03,,177.85
-SOFI,SoFi,27.42,,,,,
-EQT,EQT Corporation,49.95,,,,,
-VTR,Ventas,68.1,69.85,71.36,71.36,64.76,64.73
-EFX,Equifax,260.66,,,,,
-CRCL,Circle Internet Group,134.67,134.05,,,,
-MTB,M&T Bank,195.29,,,,,
-KHC,Kraft Heinz,25.93,,,,,
-BRO,Brown &amp; Brown,90.91,,,,,
-INSM,Insmed,144.75,,,,,
+SOFI,SoFi,26.94,,,,,
+EQT,EQT Corporation,50.87,,,,,
+VTR,Ventas,67.82,69.85,71.36,71.36,64.76,64.73
+EFX,Equifax,263.83,,,,,
+CRCL,Circle Internet Group,141.63,134.05,,,,
+MTB,M&T Bank,197.32,,,,,
+KHC,Kraft Heinz,26.07,,,,,
+BRO,Brown &amp; Brown,92.04,,,,,
+INSM,Insmed,144.95,,,,,
 ODFL,Old Dominion Freight Line,147.02,,,,,
-FITB,Fifth Third Bank,45.0,,,,,
-EL,Estee Lauder,88.54,87.4,103.44,103.44,75.01,74.93
-DXCM,DexCom,76.55,75.58,93.25,93.25,80.07,80.08
-ADM,Archer Daniels Midland (ADM),62.36,,,,,
-BR,Broadridge Financial Solutions,245.57,249.79,271.91,271.91,239.74,239.68
-KEYS,Keysight,172.07,,,,,
-OWL,Blue Owl Capital,18.53,,,,,
-IRM,Iron Mountain,100.4,,,,,
-DTE,DTE Energy,134.08,,,,,
-SYM,Symbotic,51.61,,,,,
-EME,Emcor,618.5,,,,,
-LPLA,LPL Financial,336.28,,,,,
-SYF,Synchrony,74.52,,,,,
-CRDO,Credo Technology,164.42,,,,,
+FITB,Fifth Third Bank,45.4,,,,,
+EL,Estee Lauder,90.5,87.4,103.44,103.44,75.02,74.93
+DXCM,DexCom,76.12,75.58,93.25,93.25,80.07,80.08
+ADM,Archer Daniels Midland (ADM),62.4,,,,,
+BR,Broadridge Financial Solutions,247.9,249.79,271.91,271.91,239.75,239.68
+KEYS,Keysight,172.64,,,,,
+OWL,Blue Owl Capital,18.86,,,,,
+IRM,Iron Mountain,100.75,,,,,
+DTE,DTE Energy,135.3,,,,,
+SYM,Symbotic,49.58,,,,,
+EME,Emcor,620.06,,,,,
+LPLA,LPL Financial,338.18,,,,,
+SYF,Synchrony,75.42,,,,,
+CRDO,Credo Technology,161.44,,,,,
 WRB,W. R. Berkley,,,,,,
-ROL,Rollins,55.22,,,,,
-AVB,AvalonBay Communities,192.33,,,,,
+ROL,Rollins,56.02,,,,,
+AVB,AvalonBay Communities,193.42,,,,,
 K,"Kellanova 
- (Kellogg's)",79.42,,,,,
-EXPE,Expedia Group,224.98,,,,,
-AEE,Ameren,98.54,100.47,104.1,104.1,96.77,96.75
-AWK,American Water,136.27,,,,,
-VLTO,Veralto,106.54,107.8,115.0,115.0,100.91,100.92
-AFRM,Affirm,89.96,,,,,
-PHM,PulteGroup,133.91,134.84,149.47,149.47,111.29,111.31
-PSTG,Pure Storage,87.08,,,,,
-MDB,MongoDB,327.37,333.97,370.0,370.0,231.07,231.14
-SMCI,Supermicro,44.91,,,,,
-PPL,PPL,35.5,,,,,
-ATO,Atmos Energy,163.21,,,,,
-GIS,General Mills,49.62,,,,,
-VRSN,VeriSign,287.47,,,,,
-FIX,Comfort Systems USA,777.91,,,,,
-EQR,Equity Residential,64.74,,,,,
-HPQ,HP,27.7,27.75,39.8,39.8,28.69,28.75
-TDY,Teledyne Technologies,554.58,,,,,
-FIG,Figma,53.58,,,,,
-MTD,Mettler-Toledo,1275.7,1260.13,1521.01,1521.01,1218.25,1217.99
-HBAN,Huntington Bancshares,17.43,,,,,
-HUBS,HubSpot,502.73,,,,,
-TW,Tradeweb,117.24,,,,,
-RKLB,Rocket Lab,47.24,,,,,
-FE,FirstEnergy,43.08,43.59,44.78,44.78,41.05,41.04
+ (Kellogg's)",79.43,,,,,
+EXPE,Expedia Group,227.69,,,,,
+AEE,Ameren,99.25,100.47,104.1,104.1,96.78,96.75
+AWK,American Water,137.33,,,,,
+VLTO,Veralto,107.89,107.8,115.0,115.0,100.92,100.92
+AFRM,Affirm,89.18,,,,,
+PHM,PulteGroup,135.42,134.84,149.47,149.47,111.3,111.31
+PSTG,Pure Storage,85.92,,,,,
+MDB,MongoDB,324.01,333.97,370.0,370.0,231.05,231.14
+SMCI,Supermicro,45.01,,,,,
+PPL,PPL,35.73,,,,,
+ATO,Atmos Energy,163.9,,,,,
+GIS,General Mills,49.01,,,,,
+VRSN,VeriSign,287.02,,,,,
+FIX,Comfort Systems USA,774.28,,,,,
+EQR,Equity Residential,65.0,,,,,
+HPQ,HP,28.18,27.75,39.8,39.8,28.7,28.75
+TDY,Teledyne Technologies,556.28,,,,,
+FIG,Figma,55.81,,,,,
+MTD,Mettler-Toledo,1273.27,1260.13,1521.01,1521.01,1218.23,1217.99
+HBAN,Huntington Bancshares,17.45,,,,,
+HUBS,HubSpot,509.74,,,,,
+TW,Tradeweb,117.74,,,,,
+RKLB,Rocket Lab,47.68,,,,,
+FE,FirstEnergy,43.47,43.59,44.78,44.78,41.05,41.04
 CQP,"Cheniere Energy
-Partners",53.3,,,,,
-FCNCA,First Citizens BancShares,1865.8,1910.7,2412.93,2412.93,1970.59,1972.97
-ZM,Zoom,85.2,,,,,
-PPG,PPG Industries,108.34,,,,,
-CNP,CenterPoint Energy,37.65,38.29,39.39,39.39,35.54,35.52
-DRI,Darden Restaurants,210.08,,,,,
-FOX,Fox Corporation,52.01,,,,,
-NTAP,NetApp,123.37,,,,,
-MKL,Markel,1916.48,,,,,
-NTRS,Northern Trust,129.25,,,,,
-FWONK,Formula One Group,100.5,98.93,106.26,106.26,94.98,94.92
-STZ,Constellation Brands,134.6,,,,,
-PTC,PTC,204.95,,,,,
-CINF,Cincinnati Financial,153.27,155.13,161.75,161.75,145.49,145.52
-CBOE,Cboe Global Markets,233.88,,,,,
-ES,Eversource Energy,63.44,,,,,
+Partners",53.23,,,,,
+FCNCA,First Citizens BancShares,1875.95,1910.7,2412.93,2412.93,1970.64,1972.97
+ZM,Zoom,85.9,,,,,
+PPG,PPG Industries,109.6,,,,,
+CNP,CenterPoint Energy,37.92,38.29,39.39,39.39,35.54,35.52
+DRI,Darden Restaurants,210.2,,,,,
+FOX,Fox Corporation,53.09,,,,,
+NTAP,NetApp,123.06,,,,,
+MKL,Markel,1928.15,,,,,
+NTRS,Northern Trust,130.72,,,,,
+FWONK,Formula One Group,101.73,98.93,106.26,106.26,94.99,94.92
+STZ,Constellation Brands,135.14,,,,,
+PTC,PTC,205.17,,,,,
+CINF,Cincinnati Financial,154.98,155.13,161.75,161.75,145.5,145.52
+CBOE,Cboe Global Markets,233.96,,,,,
+ES,Eversource Energy,63.88,,,,,
 IP,International Paper,,45.57,,60.36,,51.15
-RF,Regions Financial,26.55,26.9,27.96,27.96,23.54,23.54
-CG,Carlyle Group,66.98,,,,,
-PODD,Insulet,332.13,,,,,
-WSM,Williams-Sonoma,196.05,,,,,
-PINS,Pinterest,36.25,36.26,40.9,40.9,33.13,33.1
-DOV,Dover,172.65,,,,,
-LDOS,Leidos,182.51,182.73,202.9,202.9,152.59,152.5
-TYL,Tyler Technologies,534.61,539.46,661.31,661.31,580.28,580.73
-TOST,Toast,39.92,40.22,49.66,49.66,40.05,40.06
-NVR,NVR,8199.21,,,,,
-HUBB,Hubbell,435.61,438.11,481.35,481.35,400.63,400.78
-TROW,T. Rowe Price,103.69,104.17,125.81,125.81,102.94,103.04
-TPG,TPG Capital,62.14,,,,,
+RF,Regions Financial,26.99,26.9,27.96,27.96,23.54,23.54
+CG,Carlyle Group,68.67,,,,,
+PODD,Insulet,320.74,,,,,
+WSM,Williams-Sonoma,199.17,,,,,
+PINS,Pinterest,36.56,36.26,40.9,40.9,33.13,33.1
+DOV,Dover,173.86,,,,,
+LDOS,Leidos,184.07,182.73,202.9,202.9,152.6,152.5
+TYL,Tyler Technologies,539.11,539.46,661.31,661.31,580.3,580.73
+TOST,Toast,40.58,40.22,49.66,49.66,40.05,40.06
+NVR,NVR,8278.98,,,,,
+HUBB,Hubbell,433.63,438.11,481.35,481.35,400.62,400.78
+TROW,T. Rowe Price,105.26,104.17,125.81,125.81,102.95,103.04
+TPG,TPG Capital,62.9,,,,,
 NTRA,Natera,,,,,,
-LH,LabCorp,274.17,,,,,
-ULTA,ULTA Beauty,525.21,526.08,539.0,539.0,429.64,428.82
-DG,Dollar General,104.16,104.52,117.95,117.95,92.65,92.52
-JBL,Jabil,213.31,,,,,
-EXE,Expand Energy,97.52,,,,,
-CHD,Church & Dwight,91.51,,,,,
-CFG,Citizens Financial Group,51.12,51.34,52.85,52.85,44.31,44.29
-TPR,Tapestry,109.5,110.17,114.05,114.05,81.67,81.43
-TTD,The Trade Desk,44.9,,,,,
-DVN,Devon Energy,34.96,,,,,
-IOT,Samsara,39.47,,,,,
-DKNG,DraftKings,42.88,,,,,
-SSNC,SS&C Technologies,88.46,,,,,
-CPAY,Corpay,306.18,,,,,
-FSLR,First Solar,205.25,,,,,
-EIX,Edison International,55.15,55.86,88.65,88.65,58.62,58.78
-SATS,EchoStar,69.8,71.94,85.37,85.37,28.63,28.4
-TPL,Texas Pacific Land Corporation,935.54,,,,,
-CDW,CDW Corporation,166.15,,,,,
-SBAC,SBA Communications,199.18,,,,,
-CMS,CMS Energy,69.97,,,,,
-GWRE,Guidewire Software,246.42,,,,,
-NTNX,Nutanix,77.7,,,,,
-BIIB,Biogen,143.68,,,,,
-Z,Zillow,88.55,,,,,
-KEY,KeyCorp (KeyBank),18.63,18.84,20.04,20.04,17.05,17.06
-GPN,Global Payments,84.29,84.16,120.0,120.0,92.38,92.55
-PSKY,Paramount Skydance,17.53,18.58,19.05,19.05,12.01,11.98
-CASY,Casey's General Stores,561.18,,,,,
-DGX,Quest Diagnostics,180.17,,,,,
-ZBH,Zimmer Biomet,99.07,,,,,
-L,Loews Corporation,95.9,96.92,98.33,98.33,88.37,88.32
-GDDY,GoDaddy,144.16,,,,,
-DLTR,Dollar Tree,95.48,,,,,
-DKS,Dick's Sporting Goods,222.62,,,,,
-ON,ON Semiconductor,49.56,,,,,
-GPC,Genuine Parts Company,139.62,,,,,
-TSN,Tyson Foods,54.36,54.0,65.95,65.95,57.71,57.75
-PKG,Packaging Corporation of America,211.47,,,,,
-NI,NiSource,39.34,40.54,43.51,43.51,39.3,39.29
-TRMB,Trimble,80.89,,,,,
-STLD,Steel Dynamics,139.67,,,,,
-CW,Curtiss-Wright,513.63,,,,,
-LII,Lennox,550.18,,,,,
-RL,Ralph Lauren,314.85,,,,,
-HAL,Halliburton,22.42,,,,,
-IT,Gartner,250.85,,,,,
-CTRA,Coterra Energy,24.54,,,,,
-CIEN,Ciena,137.48,,,,,
-INVH,Invitation Homes,29.52,29.65,37.24,37.24,32.45,32.48
-MKC,McCormick & Company,67.12,65.95,86.24,86.24,75.31,75.36
-FFIV,F5,323.73,324.1,337.39,337.39,284.04,283.66
-ESS,Essex Property Trust,265.47,,,,,
-PFG,Principal,80.09,82.95,91.98,91.98,79.9,79.94
-U,Unity Software,45.92,,,,,
-TLN,Talen Energy,409.6,,,,,
-UTHR,United Therapeutics,397.97,,,,,
-WST,West Pharmaceutical,258.35,,,,,
-WY,Weyerhaeuser,24.95,,,,,
-CRBG,Corebridge Financial,31.36,,,,,
-GEN,Gen Digital,28.6,,,,,
-USFD,US Foods,77.71,,,,,
-TRU,TransUnion,89.96,,,,,
-TER,Teradyne,113.93,,,,,
-LYB,LyondellBasell,52.64,52.58,97.6,97.6,65.36,65.52
-DOW,Dow,24.47,,,,,
-ERIE,Erie Indemnity,320.73,,,,,
-SGI,Somnigroup International,85.17,85.43,88.15,88.15,65.4,65.26
-FTAI,FTAI Aviation,173.75,,,,,
-WAT,Waters Corporation,303.17,,,,,
-DECK,Deckers Brands,118.72,,,,,
-GFS,GlobalFoundries,32.02,,,,,
-J,Jacobs Engineering,146.13,146.74,152.4,152.4,131.64,131.6
-WMG,Warner Music Group,33.36,,,,,
-SNA,Snap-on,333.92,,,,,
-NWS,News Corp,32.8,,,,,
-MAA,Mid-America Apartment Communities,139.4,,,,,
-THC,Tenet Healthcare,182.73,,,,,
-FNMA,Fannie Mae,13.88,,,,,
-SUI,Sun Communities,128.38,,,,,
-BURL,Burlington Stores,267.16,,,,,
-IFF,International Flavors & Fragrances,64.47,64.37,106.77,106.77,77.54,77.67
-ACM,AECOM,127.7,,,,,
-EXPD,Expeditors,124.8,,,,,
-EVRG,Evergy,71.35,,,,,
-LNT,Alliant Energy,63.62,,,,,
-TKO,TKO Group Holdings,200.12,204.49,212.49,212.49,161.1,160.79
-LUV,Southwest Airlines,31.57,,,,,
-PFGC,Performance Food Group,104.75,,,,,
-IONQ,IonQ,62.24,,,,,
-FTV,Fortive,48.76,,,,,
-FNF,Fidelity National Financial,58.46,,,,,
-CNC,Centene,31.79,32.64,77.29,77.29,51.41,51.56
-RIVN,Rivian,14.32,13.6,17.15,17.15,13.12,13.1
-BG,Bunge,83.68,,,,,
-INCY,Incyte,83.9,83.14,87.99,87.99,70.19,70.14
-RPM,RPM International,125.34,,,,,
-EQH,Equitable Holdings,52.8,,,,,
-DOCU,DocuSign,81.71,,,,,
-SN,SharkNinja,112.96,,,,,
-BSY,Bentley Systems,52.22,,,,,
-COHR,Coherent Corp.,104.43,106.34,123.25,123.25,85.9,85.88
+LH,LabCorp,274.55,,,,,
+ULTA,ULTA Beauty,528.65,526.08,539.0,539.0,429.65,428.82
+DG,Dollar General,105.15,104.52,117.95,117.95,92.66,92.52
+JBL,Jabil,212.75,,,,,
+EXE,Expand Energy,100.09,,,,,
+CHD,Church & Dwight,92.19,,,,,
+CFG,Citizens Financial Group,51.78,51.34,52.85,52.85,44.31,44.29
+TPR,Tapestry,110.33,110.17,114.05,114.05,81.68,81.43
+TTD,The Trade Desk,45.34,,,,,
+DVN,Devon Energy,,,,,,
+IOT,Samsara,38.74,,,,,
+DKNG,DraftKings,42.39,,,,,
+SSNC,SS&C Technologies,89.32,,,,,
+CPAY,Corpay,309.0,,,,,
+FSLR,First Solar,205.98,,,,,
+EIX,Edison International,56.3,55.86,88.65,88.65,58.63,58.78
+SATS,EchoStar,71.68,71.94,85.37,85.37,28.64,28.4
+TPL,Texas Pacific Land Corporation,941.83,,,,,
+CDW,CDW Corporation,167.41,,,,,
+SBAC,SBA Communications,200.69,,,,,
+CMS,CMS Energy,70.7,,,,,
+GWRE,Guidewire Software,247.32,,,,,
+NTNX,Nutanix,78.86,,,,,
+BIIB,Biogen,144.7,,,,,
+Z,Zillow,91.46,,,,,
+KEY,KeyCorp (KeyBank),18.76,18.84,20.04,20.04,17.05,17.06
+GPN,Global Payments,,84.16,,120.0,,92.55
+PSKY,Paramount Skydance,18.08,18.58,19.05,19.05,12.01,11.98
+CASY,Casey's General Stores,568.69,,,,,
+DGX,Quest Diagnostics,181.59,,,,,
+ZBH,Zimmer Biomet,99.77,,,,,
+L,Loews Corporation,96.59,96.92,98.33,98.33,88.37,88.32
+GDDY,GoDaddy,145.22,,,,,
+DLTR,Dollar Tree,98.15,,,,,
+DKS,Dick's Sporting Goods,225.01,,,,,
+ON,ON Semiconductor,49.7,,,,,
+GPC,Genuine Parts Company,139.66,,,,,
+TSN,Tyson Foods,54.44,54.0,65.95,65.95,57.71,57.75
+PKG,Packaging Corporation of America,214.54,,,,,
+NI,NiSource,39.56,40.54,43.51,43.51,39.3,39.29
+TRMB,Trimble,80.86,,,,,
+STLD,Steel Dynamics,138.57,,,,,
+CW,Curtiss-Wright,513.55,,,,,
+LII,Lennox,550.66,,,,,
+RL,Ralph Lauren,315.26,,,,,
+HAL,Halliburton,22.5,,,,,
+IT,Gartner,252.58,,,,,
+CTRA,Coterra Energy,24.57,,,,,
+CIEN,Ciena,136.22,,,,,
+INVH,Invitation Homes,29.59,29.65,37.24,37.24,32.45,32.48
+MKC,McCormick & Company,67.31,65.95,86.24,86.24,75.31,75.36
+FFIV,F5,324.72,324.1,337.39,337.39,284.04,283.66
+ESS,Essex Property Trust,267.23,,,,,
+PFG,Principal,81.13,82.95,91.98,91.98,79.91,79.94
+U,Unity Software,45.79,,,,,
+TLN,Talen Energy,410.76,,,,,
+UTHR,United Therapeutics,399.64,,,,,
+WST,West Pharmaceutical,259.96,,,,,
+WY,Weyerhaeuser,25.06,,,,,
+CRBG,Corebridge Financial,31.67,,,,,
+GEN,Gen Digital,28.82,,,,,
+USFD,US Foods,77.96,,,,,
+TRU,TransUnion,91.84,,,,,
+TER,Teradyne,114.28,,,,,
+LYB,LyondellBasell,53.37,52.58,97.6,97.6,65.36,65.52
+DOW,Dow,24.77,,,,,
+ERIE,Erie Indemnity,323.5,,,,,
+SGI,Somnigroup International,85.24,85.43,88.15,88.15,65.4,65.26
+FTAI,FTAI Aviation,172.59,,,,,
+WAT,Waters Corporation,305.29,,,,,
+DECK,Deckers Brands,119.98,,,,,
+GFS,GlobalFoundries,32.38,,,,,
+J,Jacobs Engineering,147.68,146.74,152.4,152.4,131.65,131.6
+WMG,Warner Music Group,33.42,,,,,
+SNA,Snap-on,336.03,,,,,
+NWS,News Corp,33.12,,,,,
+MAA,Mid-America Apartment Communities,140.85,,,,,
+THC,Tenet Healthcare,183.11,,,,,
+FNMA,Fannie Mae,14.05,,,,,
+SUI,Sun Communities,128.42,,,,,
+BURL,Burlington Stores,266.48,,,,,
+IFF,International Flavors & Fragrances,64.89,64.37,106.77,106.77,77.54,77.67
+ACM,AECOM,128.26,,,,,
+EXPD,Expeditors,125.4,,,,,
+EVRG,Evergy,71.68,,,,,
+LNT,Alliant Energy,64.11,,,,,
+TKO,TKO Group Holdings,203.25,204.49,212.49,212.49,161.12,160.79
+LUV,Southwest Airlines,32.37,,,,,
+PFGC,Performance Food Group,105.71,,,,,
+IONQ,IonQ,,,,,,
+FTV,Fortive,49.19,,,,,
+FNF,Fidelity National Financial,58.89,,,,,
+CNC,Centene,32.19,32.64,77.29,77.29,51.41,51.56
+RIVN,Rivian,14.36,13.6,17.15,17.15,13.12,13.1
+BG,Bunge,82.88,,,,,
+INCY,Incyte,84.81,83.14,87.99,87.99,70.19,70.14
+RPM,RPM International,125.32,,,,,
+EQH,Equitable Holdings,53.43,,,,,
+DOCU,DocuSign,83.07,,,,,
+SN,SharkNinja,113.96,,,,,
+BSY,Bentley Systems,52.46,,,,,
+COHR,Coherent Corp.,,106.34,,123.25,,85.88
 BBY,Best Buy,,,,,,
-OKTA,Okta,89.92,90.91,127.57,127.57,97.55,97.48
-ZBRA,Zebra Technologies,318.41,,,,,
-BLDR,Builders FirstSource,136.98,,,,,
-BE,Bloom Energy,73.29,,,,,
-ARCC,Ares Capital,21.16,21.31,23.84,23.84,22.09,22.1
-TWLO,Twilio,102.13,104.48,151.95,151.95,112.43,112.45
-WSO,Watsco,395.14,,,,,
-CHRW,C. H. Robinson,133.77,,,,,
-CSL,Carlisle Companies,340.18,355.97,481.26,481.26,377.56,378.2
-MAS,Masco,73.31,,,,,
-BWXT,BWX Technologies,176.71,,,,,
+OKTA,Okta,90.78,90.91,127.57,127.57,97.55,97.48
+ZBRA,Zebra Technologies,318.09,,,,,
+BLDR,Builders FirstSource,138.11,,,,,
+BE,Bloom Energy,74.18,,,,,
+ARCC,Ares Capital,21.33,21.31,23.84,23.84,22.1,22.1
+TWLO,Twilio,103.31,104.48,151.95,151.95,112.44,112.45
+WSO,Watsco,394.1,,,,,
+CHRW,C. H. Robinson,133.41,,,,,
+CSL,Carlisle Companies,341.85,355.97,481.26,481.26,377.56,378.2
+MAS,Masco,74.24,,,,,
+BWXT,BWX Technologies,175.19,,,,,
