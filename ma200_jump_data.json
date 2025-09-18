@@ -1,6 +1,6 @@
 {
-    "ALL": {
-        "avg_jump_return": 0.9
+    "ZBRA": {
+        "avg_jump_return": 2.8
     },
     "FNF": {
         "avg_jump_return": 2.96
@@ -8,10 +8,10 @@
     "ON": {
         "avg_jump_return": 1.16
     },
-    "MSTR": {
-        "avg_jump_return": 57.27
+    "ALL": {
+        "avg_jump_return": 0.9
     },
-    "ZBRA": {
-        "avg_jump_return": 2.8
+    "TMO": {
+        "avg_jump_return": -0.46
     }
 }
