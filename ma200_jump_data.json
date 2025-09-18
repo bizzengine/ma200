@@ -1,26 +1,20 @@
 {
-    "CME": {
-        "avg_jump_return": 0.38
+    "SHW": {
+        "avg_jump_return": 1.13
     },
-    "V": {
-        "avg_jump_return": 0.64
+    "TMO": {
+        "avg_jump_return": -0.47
     },
-    "DOCU": {
-        "avg_jump_return": 1.7
+    "ON": {
+        "avg_jump_return": 1.16
     },
-    "KMI": {
-        "avg_jump_return": -0.04
+    "ALL": {
+        "avg_jump_return": 0.9
     },
-    "EPD": {
-        "avg_jump_return": -0.11
+    "FNF": {
+        "avg_jump_return": 2.96
     },
-    "TOST": {
-        "avg_jump_return": -1.86
-    },
-    "MSCI": {
-        "avg_jump_return": 1.11
-    },
-    "LUV": {
-        "avg_jump_return": -1.41
+    "ZBRA": {
+        "avg_jump_return": 2.8
     }
 }
