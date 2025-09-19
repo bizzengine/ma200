@@ -1,11 +1,11 @@
 {
-    "MAR": {
-        "avg_jump_return": 0.4
-    },
     "CME": {
         "avg_jump_return": 0.34
     },
-    "MCO": {
-        "avg_jump_return": 1.06
+    "V": {
+        "avg_jump_return": 0.54
+    },
+    "MAR": {
+        "avg_jump_return": 0.4
     }
 }
