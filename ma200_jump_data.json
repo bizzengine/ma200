@@ -1,17 +1,11 @@
 {
-    "ZBRA": {
-        "avg_jump_return": 2.8
+    "MCO": {
+        "avg_jump_return": 1.06
     },
-    "FNF": {
-        "avg_jump_return": 2.96
+    "MCD": {
+        "avg_jump_return": 0.78
     },
-    "ON": {
-        "avg_jump_return": 1.16
-    },
-    "ALL": {
-        "avg_jump_return": 0.9
-    },
-    "TMO": {
-        "avg_jump_return": -0.46
+    "CME": {
+        "avg_jump_return": 0.34
     }
 }
