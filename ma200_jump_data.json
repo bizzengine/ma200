@@ -1,23 +1,29 @@
 {
-    "MET": {
-        "avg_jump_return": 0.48
-    },
-    "MCO": {
-        "avg_jump_return": 1.06
-    },
-    "WAB": {
-        "avg_jump_return": 1.2
-    },
-    "SYK": {
-        "avg_jump_return": 0.38
-    },
-    "FNF": {
-        "avg_jump_return": 2.77
+    "SNPS": {
+        "avg_jump_return": 1.62
     },
     "NEE": {
         "avg_jump_return": -0.75
     },
-    "SNPS": {
-        "avg_jump_return": 1.62
+    "ICE": {
+        "avg_jump_return": 1.12
+    },
+    "MCD": {
+        "avg_jump_return": 0.78
+    },
+    "ZBH": {
+        "avg_jump_return": -0.88
+    },
+    "MCO": {
+        "avg_jump_return": 1.06
+    },
+    "FNF": {
+        "avg_jump_return": 2.77
+    },
+    "WAB": {
+        "avg_jump_return": 1.2
+    },
+    "MET": {
+        "avg_jump_return": 0.47
     }
 }
