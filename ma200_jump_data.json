@@ -1,11 +1,23 @@
 {
-    "NEE": {
-        "avg_jump_return": -0.75
+    "MET": {
+        "avg_jump_return": 0.48
     },
     "MCO": {
         "avg_jump_return": 1.06
     },
-    "TMO": {
-        "avg_jump_return": -0.46
+    "WAB": {
+        "avg_jump_return": 1.2
+    },
+    "SYK": {
+        "avg_jump_return": 0.38
+    },
+    "FNF": {
+        "avg_jump_return": 2.77
+    },
+    "NEE": {
+        "avg_jump_return": -0.75
+    },
+    "SNPS": {
+        "avg_jump_return": 1.62
     }
 }
