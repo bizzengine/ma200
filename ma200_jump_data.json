@@ -1,11 +1,11 @@
 {
-    "CME": {
-        "avg_jump_return": 0.34
+    "NEE": {
+        "avg_jump_return": -0.75
     },
-    "V": {
-        "avg_jump_return": 0.54
+    "MCO": {
+        "avg_jump_return": 1.06
     },
-    "MAR": {
-        "avg_jump_return": 0.4
+    "TMO": {
+        "avg_jump_return": -0.46
     }
 }
