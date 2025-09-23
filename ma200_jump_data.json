@@ -1,35 +1,29 @@
 {
-    "HUM": {
-        "avg_jump_return": -2.27
+    "CMS": {
+        "avg_jump_return": -0.76
     },
-    "BG": {
-        "avg_jump_return": 0.4
-    },
-    "HAL": {
-        "avg_jump_return": -0.19
-    },
-    "VICI": {
-        "avg_jump_return": -0.61
-    },
-    "MCD": {
-        "avg_jump_return": 0.78
-    },
-    "APO": {
-        "avg_jump_return": 1.27
-    },
-    "BURL": {
-        "avg_jump_return": 3.84
-    },
-    "CME": {
-        "avg_jump_return": 0.34
+    "KMI": {
+        "avg_jump_return": -0.05
     },
     "HPQ": {
         "avg_jump_return": 2.39
     },
-    "ZBRA": {
-        "avg_jump_return": 2.63
+    "EW": {
+        "avg_jump_return": -1.5
+    },
+    "APO": {
+        "avg_jump_return": 1.27
+    },
+    "BG": {
+        "avg_jump_return": 0.4
+    },
+    "BURL": {
+        "avg_jump_return": 3.84
     },
     "CHWY": {
         "avg_jump_return": 5.02
+    },
+    "HAL": {
+        "avg_jump_return": -0.19
     }
 }
