@@ -1,29 +1,35 @@
 {
-    "SNPS": {
-        "avg_jump_return": 1.62
+    "HUM": {
+        "avg_jump_return": -2.27
     },
-    "NEE": {
-        "avg_jump_return": -0.75
+    "BG": {
+        "avg_jump_return": 0.4
     },
-    "ICE": {
-        "avg_jump_return": 1.12
+    "HAL": {
+        "avg_jump_return": -0.19
+    },
+    "VICI": {
+        "avg_jump_return": -0.61
     },
     "MCD": {
         "avg_jump_return": 0.78
     },
-    "ZBH": {
-        "avg_jump_return": -0.88
+    "APO": {
+        "avg_jump_return": 1.27
     },
-    "MCO": {
-        "avg_jump_return": 1.06
+    "BURL": {
+        "avg_jump_return": 3.84
     },
-    "FNF": {
-        "avg_jump_return": 2.77
+    "CME": {
+        "avg_jump_return": 0.34
     },
-    "WAB": {
-        "avg_jump_return": 1.2
+    "HPQ": {
+        "avg_jump_return": 2.39
     },
-    "MET": {
-        "avg_jump_return": 0.47
+    "ZBRA": {
+        "avg_jump_return": 2.63
+    },
+    "CHWY": {
+        "avg_jump_return": 5.02
     }
 }
