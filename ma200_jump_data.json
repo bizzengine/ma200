@@ -1,12 +1,6 @@
 {
-    "EW": {
-        "avg_jump_return": -1.5
-    },
-    "ON": {
-        "avg_jump_return": 1.05
-    },
-    "UNP": {
-        "avg_jump_return": 0.18
+    "WST": {
+        "avg_jump_return": 1.16
     },
     "COP": {
         "avg_jump_return": 4.3
@@ -14,7 +8,19 @@
     "MDLZ": {
         "avg_jump_return": -0.99
     },
-    "WST": {
-        "avg_jump_return": 1.16
+    "ON": {
+        "avg_jump_return": 1.05
+    },
+    "HUM": {
+        "avg_jump_return": -2.27
+    },
+    "UNP": {
+        "avg_jump_return": 0.18
+    },
+    "EQT": {
+        "avg_jump_return": 7.35
+    },
+    "MPLX": {
+        "avg_jump_return": 1.29
     }
 }
