@@ -1,29 +1,20 @@
 {
-    "HAL": {
-        "avg_jump_return": -0.19
+    "EW": {
+        "avg_jump_return": -1.5
     },
-    "BG": {
-        "avg_jump_return": 0.4
+    "ON": {
+        "avg_jump_return": 1.05
     },
-    "CHWY": {
-        "avg_jump_return": 5.02
+    "UNP": {
+        "avg_jump_return": 0.18
     },
-    "VICI": {
-        "avg_jump_return": -0.61
+    "COP": {
+        "avg_jump_return": 4.3
     },
-    "CME": {
-        "avg_jump_return": 0.33
+    "MDLZ": {
+        "avg_jump_return": -0.99
     },
-    "BURL": {
-        "avg_jump_return": 3.84
-    },
-    "CMS": {
-        "avg_jump_return": -0.76
-    },
-    "HPQ": {
-        "avg_jump_return": 2.39
-    },
-    "KMI": {
-        "avg_jump_return": -0.05
+    "WST": {
+        "avg_jump_return": 1.16
     }
 }
