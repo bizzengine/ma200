@@ -1,14 +1,17 @@
 {
-    "MRVL": {
-        "avg_jump_return": 5.75
+    "CHWY": {
+        "avg_jump_return": 4.75
+    },
+    "WAB": {
+        "avg_jump_return": 1.09
     },
     "EW": {
         "avg_jump_return": -1.5
     },
     "PINS": {
-        "avg_jump_return": 6.22
+        "avg_jump_return": 5.96
     },
-    "CHWY": {
-        "avg_jump_return": 4.93
+    "MRVL": {
+        "avg_jump_return": 5.45
     }
 }
