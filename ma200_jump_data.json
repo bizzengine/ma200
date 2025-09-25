@@ -1,26 +1,5 @@
 {
-    "ON": {
-        "avg_jump_return": 1.05
-    },
-    "EQT": {
-        "avg_jump_return": 7.35
-    },
-    "COP": {
-        "avg_jump_return": 4.3
-    },
-    "WST": {
-        "avg_jump_return": 1.16
-    },
-    "MDLZ": {
-        "avg_jump_return": -0.99
-    },
-    "MPLX": {
-        "avg_jump_return": 1.29
-    },
-    "HUM": {
-        "avg_jump_return": -2.27
-    },
-    "UNP": {
-        "avg_jump_return": 0.18
+    "EW": {
+        "avg_jump_return": -1.5
     }
 }
