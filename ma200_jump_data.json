@@ -1,26 +1,26 @@
 {
-    "PCAR": {
-        "avg_jump_return": 0.6
-    },
-    "EXE": {
-        "avg_jump_return": 3.31
-    },
     "MCD": {
         "avg_jump_return": 0.74
-    },
-    "WDAY": {
-        "avg_jump_return": 1.42
     },
     "IQV": {
         "avg_jump_return": 0.64
     },
-    "ON": {
-        "avg_jump_return": 0.96
+    "A": {
+        "avg_jump_return": 1.54
+    },
+    "PCAR": {
+        "avg_jump_return": 0.6
     },
     "EFX": {
         "avg_jump_return": -0.08
     },
+    "WDAY": {
+        "avg_jump_return": 1.42
+    },
     "FANG": {
         "avg_jump_return": 5.02
+    },
+    "EXE": {
+        "avg_jump_return": 3.31
     }
 }
