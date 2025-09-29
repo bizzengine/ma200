@@ -1,14 +1,5 @@
 {
     "K": {
         "avg_jump_return": -0.48
-    },
-    "ON": {
-        "avg_jump_return": 0.96
-    },
-    "MAR": {
-        "avg_jump_return": 0.35
-    },
-    "GFS": {
-        "avg_jump_return": -2.61
     }
 }
