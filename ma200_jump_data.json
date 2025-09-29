@@ -1,5 +1,11 @@
 {
+    "PEG": {
+        "avg_jump_return": -0.26
+    },
     "K": {
         "avg_jump_return": -0.48
+    },
+    "MAR": {
+        "avg_jump_return": 0.35
     }
 }
