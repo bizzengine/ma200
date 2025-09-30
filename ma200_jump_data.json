@@ -1,11 +1,14 @@
 {
+    "AWK": {
+        "avg_jump_return": -0.66
+    },
     "MCD": {
         "avg_jump_return": 0.69
     },
-    "V": {
-        "avg_jump_return": 0.5
+    "PFE": {
+        "avg_jump_return": -0.3
     },
-    "AWK": {
-        "avg_jump_return": -0.66
+    "MTD": {
+        "avg_jump_return": 3.72
     }
 }
