@@ -1,11 +1,11 @@
 {
-    "PEG": {
-        "avg_jump_return": -0.26
+    "MCD": {
+        "avg_jump_return": 0.69
     },
-    "K": {
-        "avg_jump_return": -0.48
+    "V": {
+        "avg_jump_return": 0.5
     },
-    "MAR": {
-        "avg_jump_return": 0.35
+    "AWK": {
+        "avg_jump_return": -0.66
     }
 }
