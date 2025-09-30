@@ -1,14 +1,23 @@
 {
-    "AWK": {
-        "avg_jump_return": -0.66
+    "MTD": {
+        "avg_jump_return": 3.72
     },
     "MCD": {
         "avg_jump_return": 0.69
     },
+    "TMO": {
+        "avg_jump_return": -0.46
+    },
+    "KR": {
+        "avg_jump_return": 0.73
+    },
+    "RPM": {
+        "avg_jump_return": 0.16
+    },
     "PFE": {
         "avg_jump_return": -0.3
     },
-    "MTD": {
-        "avg_jump_return": 3.72
+    "AWK": {
+        "avg_jump_return": -0.66
     }
 }
