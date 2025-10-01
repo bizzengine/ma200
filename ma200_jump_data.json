@@ -1,29 +1,29 @@
 {
-    "V": {
-        "avg_jump_return": 0.5
-    },
     "LLY": {
         "avg_jump_return": 6.94
-    },
-    "RPM": {
-        "avg_jump_return": 0.16
     },
     "MRK": {
         "avg_jump_return": -0.1
     },
-    "ILMN": {
-        "avg_jump_return": -1.14
-    },
     "AMGN": {
         "avg_jump_return": -0.89
     },
-    "DHR": {
-        "avg_jump_return": 2.71
+    "RPM": {
+        "avg_jump_return": 0.16
     },
     "NKE": {
         "avg_jump_return": 0.5
     },
-    "HUM": {
-        "avg_jump_return": -2.29
+    "ILMN": {
+        "avg_jump_return": -1.14
+    },
+    "DHR": {
+        "avg_jump_return": 2.6
+    },
+    "COP": {
+        "avg_jump_return": 4.05
+    },
+    "V": {
+        "avg_jump_return": 0.5
     }
 }
