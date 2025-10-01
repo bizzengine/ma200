@@ -1,23 +1,29 @@
 {
-    "MTD": {
-        "avg_jump_return": 3.72
+    "V": {
+        "avg_jump_return": 0.5
     },
-    "MCD": {
-        "avg_jump_return": 0.69
-    },
-    "TMO": {
-        "avg_jump_return": -0.46
-    },
-    "KR": {
-        "avg_jump_return": 0.73
+    "LLY": {
+        "avg_jump_return": 6.94
     },
     "RPM": {
         "avg_jump_return": 0.16
     },
-    "PFE": {
-        "avg_jump_return": -0.3
+    "MRK": {
+        "avg_jump_return": -0.1
     },
-    "AWK": {
-        "avg_jump_return": -0.66
+    "ILMN": {
+        "avg_jump_return": -1.14
+    },
+    "AMGN": {
+        "avg_jump_return": -0.89
+    },
+    "DHR": {
+        "avg_jump_return": 2.71
+    },
+    "NKE": {
+        "avg_jump_return": 0.5
+    },
+    "HUM": {
+        "avg_jump_return": -2.29
     }
 }
