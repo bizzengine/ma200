@@ -1,11 +1,11 @@
 {
-    "MSTR": {
-        "avg_jump_return": 62.04
+    "CRBG": {
+        "avg_jump_return": 1.48
+    },
+    "TROW": {
+        "avg_jump_return": -0.06
     },
     "FICO": {
         "avg_jump_return": 10.65
-    },
-    "MCO": {
-        "avg_jump_return": 0.96
     }
 }
