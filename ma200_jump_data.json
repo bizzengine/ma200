@@ -2,10 +2,19 @@
     "CRBG": {
         "avg_jump_return": 1.48
     },
-    "TROW": {
-        "avg_jump_return": -0.06
-    },
     "FICO": {
         "avg_jump_return": 10.65
+    },
+    "MSTR": {
+        "avg_jump_return": 57.27
+    },
+    "SN": {
+        "avg_jump_return": 29.82
+    },
+    "GEHC": {
+        "avg_jump_return": -0.23
+    },
+    "MAR": {
+        "avg_jump_return": 0.28
     }
 }
