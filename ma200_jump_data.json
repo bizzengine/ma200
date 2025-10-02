@@ -1,32 +1,11 @@
 {
-    "LLY": {
-        "avg_jump_return": 6.94
+    "MSTR": {
+        "avg_jump_return": 62.04
     },
-    "DHR": {
-        "avg_jump_return": 2.6
+    "FICO": {
+        "avg_jump_return": 10.65
     },
-    "MRK": {
-        "avg_jump_return": -0.1
-    },
-    "ILMN": {
-        "avg_jump_return": -1.14
-    },
-    "COP": {
-        "avg_jump_return": 4.05
-    },
-    "PEP": {
-        "avg_jump_return": -0.91
-    },
-    "FDX": {
-        "avg_jump_return": 2.77
-    },
-    "V": {
-        "avg_jump_return": 0.5
-    },
-    "NKE": {
-        "avg_jump_return": 0.5
-    },
-    "AMGN": {
-        "avg_jump_return": -0.89
+    "MCO": {
+        "avg_jump_return": 0.96
     }
 }
