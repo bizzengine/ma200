@@ -1,20 +1,26 @@
 {
-    "CRBG": {
-        "avg_jump_return": 1.48
+    "PEP": {
+        "avg_jump_return": -0.93
     },
-    "FICO": {
-        "avg_jump_return": 10.65
+    "Z": {
+        "avg_jump_return": 5.24
     },
-    "MSTR": {
-        "avg_jump_return": 57.27
+    "NWS": {
+        "avg_jump_return": 3.09
     },
-    "SN": {
-        "avg_jump_return": 29.82
+    "MCO": {
+        "avg_jump_return": 0.96
     },
-    "GEHC": {
-        "avg_jump_return": -0.23
+    "CI": {
+        "avg_jump_return": -0.74
     },
-    "MAR": {
-        "avg_jump_return": 0.28
+    "HUM": {
+        "avg_jump_return": -2.29
+    },
+    "TROW": {
+        "avg_jump_return": -0.06
+    },
+    "AIG": {
+        "avg_jump_return": 1.95
     }
 }
