@@ -1,20 +1,23 @@
 {
-    "FANG": {
-        "avg_jump_return": 4.66
+    "PCG": {
+        "avg_jump_return": 0.98
     },
-    "OXY": {
-        "avg_jump_return": 2.53
+    "AWK": {
+        "avg_jump_return": -0.71
     },
     "ON": {
         "avg_jump_return": 0.96
     },
-    "CHWY": {
-        "avg_jump_return": 4.54
-    },
     "FCX": {
         "avg_jump_return": 4.43
     },
-    "PCG": {
-        "avg_jump_return": 0.98
+    "OXY": {
+        "avg_jump_return": 2.53
+    },
+    "COP": {
+        "avg_jump_return": 3.78
+    },
+    "FANG": {
+        "avg_jump_return": 4.66
     }
 }
