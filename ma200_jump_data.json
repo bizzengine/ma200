@@ -1,23 +1,20 @@
 {
-    "BURL": {
-        "avg_jump_return": 3.54
+    "OXY": {
+        "avg_jump_return": 2.6
     },
-    "TROW": {
-        "avg_jump_return": -0.06
+    "FANG": {
+        "avg_jump_return": 4.66
     },
-    "HUM": {
-        "avg_jump_return": -2.29
+    "PCG": {
+        "avg_jump_return": 0.98
     },
-    "MCO": {
+    "FCX": {
+        "avg_jump_return": 4.43
+    },
+    "COP": {
+        "avg_jump_return": 3.95
+    },
+    "ON": {
         "avg_jump_return": 0.96
-    },
-    "Z": {
-        "avg_jump_return": 5.04
-    },
-    "CI": {
-        "avg_jump_return": -0.74
-    },
-    "AIG": {
-        "avg_jump_return": 1.95
     }
 }
