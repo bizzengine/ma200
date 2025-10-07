@@ -1,8 +1,11 @@
 {
-    "MSCI": {
-        "avg_jump_return": 0.95
-    },
     "PYPL": {
         "avg_jump_return": 4.21
+    },
+    "CME": {
+        "avg_jump_return": 0.32
+    },
+    "CI": {
+        "avg_jump_return": -0.8
     }
 }
