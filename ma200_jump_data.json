@@ -1,4 +1,10 @@
 {
+    "CRBG": {
+        "avg_jump_return": 1.33
+    },
+    "ON": {
+        "avg_jump_return": 0.82
+    },
     "KR": {
         "avg_jump_return": 0.67
     },
