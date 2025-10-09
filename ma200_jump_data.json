@@ -1,17 +1,8 @@
 {
-    "ON": {
-        "avg_jump_return": 0.82
+    "DLTR": {
+        "avg_jump_return": 0.74
     },
-    "KR": {
-        "avg_jump_return": 0.67
-    },
-    "TWLO": {
-        "avg_jump_return": 7.27
-    },
-    "CHWY": {
-        "avg_jump_return": 4.54
-    },
-    "ILMN": {
-        "avg_jump_return": -1.33
+    "ED": {
+        "avg_jump_return": -0.85
     }
 }
