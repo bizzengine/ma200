@@ -1,8 +1,14 @@
 {
-    "DLTR": {
-        "avg_jump_return": 0.74
+    "BKNG": {
+        "avg_jump_return": 2.31
     },
     "ED": {
-        "avg_jump_return": -0.85
+        "avg_jump_return": -0.83
+    },
+    "PSA": {
+        "avg_jump_return": 1.31
+    },
+    "PEP": {
+        "avg_jump_return": -0.9
     }
 }
