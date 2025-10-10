@@ -1,9 +1,9 @@
 {
-    "DHR": {
-        "avg_jump_return": 2.35
-    },
     "PSA": {
         "avg_jump_return": 1.31
+    },
+    "PM": {
+        "avg_jump_return": 2.12
     },
     "ED": {
         "avg_jump_return": -0.83
