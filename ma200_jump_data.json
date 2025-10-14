@@ -1,59 +1,65 @@
 {
-    "V": {
-        "avg_jump_return": 0.45
-    },
-    "NVR": {
-        "avg_jump_return": 3.75
-    },
-    "TFC": {
-        "avg_jump_return": 0.31
-    },
-    "PEG": {
-        "avg_jump_return": -0.27
-    },
-    "EXR": {
-        "avg_jump_return": 5.48
-    },
-    "LOW": {
-        "avg_jump_return": 1.78
-    },
     "LEN": {
         "avg_jump_return": 10.33
     },
-    "MAR": {
-        "avg_jump_return": 0.22
+    "SSNC": {
+        "avg_jump_return": 0.89
     },
-    "HPQ": {
-        "avg_jump_return": 2.1
-    },
-    "EXPD": {
-        "avg_jump_return": 0.4
-    },
-    "HD": {
-        "avg_jump_return": 2.55
+    "EIX": {
+        "avg_jump_return": -1.0
     },
     "BRK-B": {
         "avg_jump_return": 5.12
     },
-    "TSCO": {
-        "avg_jump_return": 3.89
-    },
-    "ED": {
-        "avg_jump_return": -0.84
+    "EXPD": {
+        "avg_jump_return": 0.4
     },
     "PFG": {
         "avg_jump_return": 0.14
     },
-    "KR": {
-        "avg_jump_return": 0.62
+    "HBAN": {
+        "avg_jump_return": -0.49
+    },
+    "V": {
+        "avg_jump_return": 0.45
+    },
+    "LOW": {
+        "avg_jump_return": 1.78
+    },
+    "HPQ": {
+        "avg_jump_return": 2.1
+    },
+    "TSCO": {
+        "avg_jump_return": 3.89
     },
     "MCD": {
         "avg_jump_return": 0.63
     },
-    "HBAN": {
-        "avg_jump_return": -0.51
+    "MAR": {
+        "avg_jump_return": 0.22
+    },
+    "ED": {
+        "avg_jump_return": -0.84
+    },
+    "CRBG": {
+        "avg_jump_return": 1.33
+    },
+    "NVR": {
+        "avg_jump_return": 3.75
     },
     "WAB": {
         "avg_jump_return": 1.01
+    },
+    "EXR": {
+        "avg_jump_return": 5.48
+    },
+    "TFC": {
+        "avg_jump_return": 0.31
+    },
+    "HD": {
+        "avg_jump_return": 2.55
+    },
+    "KR": {
+        "avg_jump_return": 0.62
     }
 }
