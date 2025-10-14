@@ -1,38 +1,59 @@
 {
-    "BRK-B": {
-        "avg_jump_return": 5.44
+    "V": {
+        "avg_jump_return": 0.45
+    },
+    "NVR": {
+        "avg_jump_return": 3.75
     },
     "TFC": {
         "avg_jump_return": 0.31
     },
-    "HD": {
-        "avg_jump_return": 2.55
-    },
-    "KR": {
-        "avg_jump_return": 0.62
+    "PEG": {
+        "avg_jump_return": -0.27
     },
     "EXR": {
         "avg_jump_return": 5.48
     },
-    "WAB": {
-        "avg_jump_return": 1.01
+    "LOW": {
+        "avg_jump_return": 1.78
     },
-    "NVR": {
-        "avg_jump_return": 3.96
+    "LEN": {
+        "avg_jump_return": 10.33
     },
-    "PM": {
-        "avg_jump_return": 2.01
+    "MAR": {
+        "avg_jump_return": 0.22
     },
     "HPQ": {
         "avg_jump_return": 2.1
     },
-    "V": {
-        "avg_jump_return": 0.45
+    "EXPD": {
+        "avg_jump_return": 0.4
+    },
+    "HD": {
+        "avg_jump_return": 2.55
+    },
+    "BRK-B": {
+        "avg_jump_return": 5.12
+    },
+    "TSCO": {
+        "avg_jump_return": 3.89
+    },
+    "ED": {
+        "avg_jump_return": -0.84
     },
     "PFG": {
         "avg_jump_return": 0.14
     },
-    "ED": {
-        "avg_jump_return": -0.84
+    "KR": {
+        "avg_jump_return": 0.62
+    },
+    "MCD": {
+        "avg_jump_return": 0.63
+    },
+    "HBAN": {
+        "avg_jump_return": -0.51
+    },
+    "WAB": {
+        "avg_jump_return": 1.01
     }
 }
