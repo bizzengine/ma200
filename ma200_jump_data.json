@@ -1,56 +1,38 @@
 {
-    "BKNG": {
-        "avg_jump_return": 2.21
+    "BRK-B": {
+        "avg_jump_return": 5.44
     },
-    "KEYS": {
-        "avg_jump_return": -0.34
+    "TFC": {
+        "avg_jump_return": 0.31
     },
-    "USB": {
-        "avg_jump_return": 1.53
+    "HD": {
+        "avg_jump_return": 2.55
     },
-    "QCOM": {
-        "avg_jump_return": 0.25
+    "KR": {
+        "avg_jump_return": 0.62
     },
-    "MET": {
-        "avg_jump_return": 0.41
+    "EXR": {
+        "avg_jump_return": 5.48
     },
-    "PCG": {
-        "avg_jump_return": 0.88
+    "WAB": {
+        "avg_jump_return": 1.01
     },
-    "ON": {
-        "avg_jump_return": 0.54
+    "NVR": {
+        "avg_jump_return": 3.96
     },
-    "LUV": {
-        "avg_jump_return": -1.45
+    "PM": {
+        "avg_jump_return": 2.01
     },
-    "PNC": {
-        "avg_jump_return": 4.06
+    "HPQ": {
+        "avg_jump_return": 2.1
     },
-    "DHR": {
-        "avg_jump_return": 2.35
+    "V": {
+        "avg_jump_return": 0.45
     },
-    "AME": {
-        "avg_jump_return": 0.88
+    "PFG": {
+        "avg_jump_return": 0.14
     },
-    "SNA": {
-        "avg_jump_return": 0.18
-    },
-    "BURL": {
-        "avg_jump_return": 3.24
-    },
-    "DLTR": {
-        "avg_jump_return": 0.63
-    },
-    "CVX": {
-        "avg_jump_return": 0.06
-    },
-    "DIS": {
-        "avg_jump_return": 0.64
-    },
-    "BX": {
-        "avg_jump_return": 4.47
-    },
-    "TPG": {
-        "avg_jump_return": 1.4
+    "ED": {
+        "avg_jump_return": -0.84
     }
 }
