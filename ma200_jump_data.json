@@ -2,10 +2,10 @@
     "PEG": {
         "avg_jump_return": -0.27
     },
-    "RIVN": {
-        "avg_jump_return": -4.26
-    },
     "KMI": {
         "avg_jump_return": -0.07
+    },
+    "RIVN": {
+        "avg_jump_return": -4.26
     }
 }
