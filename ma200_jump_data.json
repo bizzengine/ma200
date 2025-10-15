@@ -1,17 +1,11 @@
 {
-    "MCO": {
-        "avg_jump_return": 0.86
-    },
-    "KMI": {
-        "avg_jump_return": -0.07
-    },
-    "PINS": {
-        "avg_jump_return": 5.57
+    "PEG": {
+        "avg_jump_return": -0.27
     },
     "RIVN": {
         "avg_jump_return": -4.26
     },
-    "PEG": {
-        "avg_jump_return": -0.27
+    "KMI": {
+        "avg_jump_return": -0.07
     }
 }
