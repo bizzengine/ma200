@@ -1,11 +1,8 @@
 {
-    "PEG": {
-        "avg_jump_return": -0.27
+    "CHWY": {
+        "avg_jump_return": 4.35
     },
-    "KMI": {
-        "avg_jump_return": -0.07
-    },
-    "RIVN": {
-        "avg_jump_return": -4.26
+    "PINS": {
+        "avg_jump_return": 5.57
     }
 }
