@@ -1,17 +1,20 @@
 {
-    "DIS": {
-        "avg_jump_return": 0.59
+    "FAST": {
+        "avg_jump_return": 2.28
     },
-    "FITB": {
-        "avg_jump_return": 4.48
+    "MSI": {
+        "avg_jump_return": 4.77
     },
     "MA": {
         "avg_jump_return": 0.29
     },
+    "ZBH": {
+        "avg_jump_return": -0.89
+    },
+    "DIS": {
+        "avg_jump_return": 0.59
+    },
     "CME": {
         "avg_jump_return": 0.29
-    },
-    "FAST": {
-        "avg_jump_return": 2.28
     }
 }
