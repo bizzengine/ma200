@@ -2,19 +2,22 @@
     "FAST": {
         "avg_jump_return": 2.28
     },
-    "MSI": {
-        "avg_jump_return": 4.77
+    "DIS": {
+        "avg_jump_return": 0.59
     },
     "MA": {
         "avg_jump_return": 0.29
     },
-    "ZBH": {
-        "avg_jump_return": -0.89
-    },
-    "DIS": {
-        "avg_jump_return": 0.59
+    "MSI": {
+        "avg_jump_return": 4.77
     },
     "CME": {
         "avg_jump_return": 0.29
+    },
+    "WAB": {
+        "avg_jump_return": 0.96
+    },
+    "ZBH": {
+        "avg_jump_return": -0.89
     }
 }
