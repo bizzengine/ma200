@@ -1,8 +1,17 @@
 {
-    "FDX": {
-        "avg_jump_return": 2.64
+    "DIS": {
+        "avg_jump_return": 0.59
     },
-    "CHWY": {
-        "avg_jump_return": 4.35
+    "FITB": {
+        "avg_jump_return": 4.48
+    },
+    "MA": {
+        "avg_jump_return": 0.29
+    },
+    "CME": {
+        "avg_jump_return": 0.29
+    },
+    "FAST": {
+        "avg_jump_return": 2.28
     }
 }
