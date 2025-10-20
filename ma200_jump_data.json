@@ -1,23 +1,41 @@
 {
-    "FAST": {
-        "avg_jump_return": 2.28
+    "RBRK": {
+        "avg_jump_return": 5.51
     },
-    "DIS": {
-        "avg_jump_return": 0.59
+    "EW": {
+        "avg_jump_return": -1.51
     },
-    "MA": {
-        "avg_jump_return": 0.29
+    "HPQ": {
+        "avg_jump_return": 1.88
     },
-    "MSI": {
-        "avg_jump_return": 4.77
+    "RF": {
+        "avg_jump_return": 1.0
     },
-    "CME": {
-        "avg_jump_return": 0.29
+    "TFC": {
+        "avg_jump_return": 0.09
     },
-    "WAB": {
-        "avg_jump_return": 0.96
+    "MRK": {
+        "avg_jump_return": -0.31
     },
-    "ZBH": {
-        "avg_jump_return": -0.89
+    "FITB": {
+        "avg_jump_return": 4.48
+    },
+    "TPG": {
+        "avg_jump_return": 1.24
+    },
+    "ILMN": {
+        "avg_jump_return": -1.33
+    },
+    "KEY": {
+        "avg_jump_return": 1.4
+    },
+    "AMZN": {
+        "avg_jump_return": 1.43
+    },
+    "KMI": {
+        "avg_jump_return": -0.1
+    },
+    "BX": {
+        "avg_jump_return": 4.25
     }
 }
